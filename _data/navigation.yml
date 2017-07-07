@@ -1,12 +1,12 @@
-- title: Ben Tofflemire
+- title: "Ben Tofflemire"
   url: "/"
   side: left
 
-- title: Research
+- title: "Research"
   url: "/getting-started/"
   side: left
 
-- title: Publications
+- title: "Publications"
   url: "/design/"
   side: left
   dropdown:
@@ -50,7 +50,7 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Documentation
+- title: "CV"
   url: "/documentation/"
   side: left
   dropdown:
@@ -59,16 +59,16 @@
   - title: "Roadmap"
     url: "/roadmap/"
 
-- title: Blog
+- title: "About Me"
   url: "/blog/"
   side: left
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "Search"
+- title: "Animations"
   url: "/search/"
-  side: right
+  side: left
 
 - title: "Contact"
   url: "/contact/"
