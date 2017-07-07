@@ -31,7 +31,7 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
+- title: "CV"
   url: "/headers/"
   side: left
   dropdown:
@@ -50,7 +50,7 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: "CV"
+- title: "About Me"
   url: "/documentation/"
   side: left
   dropdown:
@@ -59,16 +59,16 @@
   - title: "Roadmap"
     url: "/roadmap/"
 
-- title: "About Me"
+- title: "Animations"
   url: "/blog/"
   side: left
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "Animations"
-  url: "/search/"
-  side: left
+#- title: "Animations"
+#  url: "/search/"
+#  side: left
 
 - title: "Contact"
   url: "/contact/"
