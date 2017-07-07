@@ -1,4 +1,4 @@
-My academic website.
+My academic website based off the Jekyll based theme below.
 
 ## A Responsive Jekyll Theme: *Feeling Responsive*
 
