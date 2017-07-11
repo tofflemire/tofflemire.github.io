@@ -12,6 +12,8 @@
     url: "/"
   - title: "Hydrodynamic simulations of Binary Accretion"
     url: "/"
+  - title: "Other Research"
+    url: "/"
     
     
 - title: "Publications"
@@ -69,10 +71,10 @@
 
 - title: "Animations"
   url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+#  side: left
+#  dropdown:
+#  - title: "Blog Archive"
+#    url: "/blog/archive/"
 
 #- title: "Animations"
 #  url: "/search/"
