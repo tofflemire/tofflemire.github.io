@@ -71,7 +71,7 @@
 
 - title: "Animations"
   url: "/blog/"
-#  side: left
+  side: left
 #  dropdown:
 #  - title: "Blog Archive"
 #    url: "/blog/archive/"
