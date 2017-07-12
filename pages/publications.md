@@ -11,9 +11,9 @@ permalink: "/publications/"
 <hr>
 ## First Author Publications
 
-6. *Pulsed Accretion in the T Tauri Binary TWA 3A* - Tofflemire, B. M., Mathieu, R. D., Herczeg, G. J., Akeson, R. L., & Ciardi, D. R.  2017b, *ApJL*, 842, L12 - <a href='http://adsabs.harvard.edu/abs/2017ApJ...842L..12T'>ADS</a>
+ 6. *Pulsed Accretion in the T Tauri Binary TWA 3A* - Tofflemire, B. M., Mathieu, R. D., Herczeg, G. J., Akeson, R. L., & Ciardi, D. R.  2017b, *ApJL*, 842, L12 - <a href='http://adsabs.harvard.edu/abs/2017ApJ...842L..12T'>ADS</a>
 
-5. *Accretion and Magnetic Reconnection in the Classical T Tauri Binary DQ Tau* - Tofflemire, B. M., Mathieu, R. D., Ardila, D. R., et al. 2017a, *ApJ*, 835, 8 - <a href='http://adsabs.harvard.edu/abs/2017ApJ...835....8T'>ADS</a>
+ 5. *Accretion and Magnetic Reconnection in the Classical T Tauri Binary DQ Tau* - Tofflemire, B. M., Mathieu, R. D., Ardila, D. R., et al. 2017a, *ApJ*, 835, 8 - <a href='http://adsabs.harvard.edu/abs/2017ApJ...835....8T'>ADS</a>
 
 4. *WIYN Open Cluster Study. LIX. Radial Velocity Membership of the Evolved Population of the Old Open Cluster NGC 6791* - Tofflemire, B. M., Gosnell, N. M., Mathieu, R. D., & Platais, I. 2014, *AJ*, 148, 61 - <a href='http://adsabs.harvard.edu/abs/2014AJ....148...61T'>ADS</a>
 
