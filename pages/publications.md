@@ -7,8 +7,6 @@ teaser: ""
 header:
    image_fullwidth: header_unsplash_leaf.jpg
 categories:
-    - design
-    - typography
 permalink: "/publications/"
 ---
 <!--more-->
