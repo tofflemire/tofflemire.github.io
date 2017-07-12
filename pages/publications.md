@@ -33,7 +33,7 @@ permalink: "/publications/"
   
   <li style="margin-bottom: 10px;"> <em>WIYN Open Cluster Study. LXXI. Spectroscopic Membership and Orbits of NGC 6791 Sub-subgiants</em> - Milliman, K. E., Leiner, E., Mathieu, R. D., <b>Tofflemire, B. M.</b>, & Platais, I. 2016, <em>AJ</em>, 151, 152 - <a href='http://adsabs.harvard.edu/abs/2016AJ....151..152M' target="_blank">ADS</a> </li>
   
-  <li style="margin-bottom: 10px;"> <em>A Cautionary Tale: MARVELS Brown Dwarf Candidate Reveals Itself to be a Very Long Period, Highly Eccentric Spectroscopic Stellar Binary</em> - Mack, C. E., III, Ge, J., Deshpande, R., et al. (including <b>Tofflemire B. M.</b>) 2013, <em>AJ<em>, 145, 139 - <a href='http://adsabs.harvard.edu/abs/2013AJ....145..139M' target="_blank">ADS</a> </li>
+  <li style="margin-bottom: 10px;"> <em>A Cautionary Tale: MARVELS Brown Dwarf Candidate Reveals Itself to be a Very Long Period, Highly Eccentric Spectroscopic Stellar Binary</em> - Mack, C. E., III, Ge, J., Deshpande, R., et al. (including <b>Tofflemire B. M.</b>) 2013, <em>AJ</em>, 145, 139 - <a href='http://adsabs.harvard.edu/abs/2013AJ....145..139M' target="_blank">ADS</a> </li>
   
   <li style="margin-bottom: 10px;"> <em>Thomson scattering and collisional ionization in the X-ray grating spectra of the recurrent nova U Scorpii</em> - Orio, M., Behar, E., Gallagher, J., et al. (including <b>Tofflemire B. M.</b>) 2013, <em>MNRAS</em>, 429, 1342 - <a href='http://adsabs.harvard.edu/abs/2013MNRAS.429.1342O' target="_blank">ADS</a> </li>
   
