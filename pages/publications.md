@@ -28,4 +28,8 @@ permalink: "/publications/"
 <hr>
 
 ## Other Publications
-
+<ol reversed>
+  <li style="margin-bottom: 10px;"> <em>Chemical and Physical Parameters from X-Ray High-resolution Spectra of the Galactic Nova V959 Mon</em> - Peretz, U., Orio, M., Behar, E., et al. (including <b>Tofflemire B. M.</b>) 2016, <em>apj</em> 829, 2 - <a href='http://adsabs.harvard.edu/abs/2016ApJ...829....2P' target="_blank">ADS</a> </li>
+</ol>
+<hr>
+A comprehensive list of my publications, including conference proceedings can be found in my unabridged CV. 
