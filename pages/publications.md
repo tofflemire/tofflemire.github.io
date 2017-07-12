@@ -8,11 +8,14 @@ categories:
 permalink: "/publications/"
 ---
 <!--more-->
-
+<hr>
 ## First Author Publications
 
-- *Pulsed Accretion in the T Tauri Binary TWA 3A* - Tofflemire, B. M., Mathieu, R. D., Herczeg, G. J., Akeson, R. L., & Ciardi, D. R.  2017, *ApJL*, 842, L12 - <a href='http://adsabs.harvard.edu/abs/2017ApJ...842L..12T'>ADS</a>
+- *Pulsed Accretion in the T Tauri Binary TWA 3A* - Tofflemire, B. M., Mathieu, R. D., Herczeg, G. J., Akeson, R. L., & Ciardi, D. R.  2017b, *ApJL*, 842, L12 - <a href='http://adsabs.harvard.edu/abs/2017ApJ...842L..12T'>ADS</a>
 
+- *Accretion and Magnetic Reconnection in the Classical T Tauri Binary DQ Tau* - Tofflemire, B. M., Mathieu, R. D., Ardila, D. R., et al. 2017a, *ApJ*, 835, 8 - <a href='http://adsabs.harvard.edu/abs/2017ApJ...835....8T'>ADS</a>
+
+- *WIYN Open Cluster Study. LIX. Radial Velocity Membership of the Evolved Population of the Old Open Cluster NGC 6791* - Tofflemire, B. M., Gosnell, N. M., Mathieu, R. D., & Platais, I. 2014, *AJ*, 148, 61 - <a href='http://adsabs.harvard.edu/abs/2014AJ....148...61T'>ADS</a>
 
 [<dfn>Lato</dfn>][4] is a sans serif typeface family started in the summer of 2010 by Warsaw-based designer Łukasz Dziedzic. »Lato« means »Summer« in Polish. In December 2010 the Lato family was published under the Open Font License by his foundry tyPoland, with support from Google. 
 
