@@ -9,21 +9,10 @@ permalink: "/publications/"
 ---
 <!--more-->
 
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1">
-<div class="panel radius" markdown="1">
-**Table of Contents**
-{: #toc }
-*  TOC
-{:toc}
-</div>
-</div><!-- /.medium-4.columns -->
+## First Author Publications
 
+- *Pulsed Accretion in the T Tauri Binary TWA 3A* - Tofflemire, B. M., Mathieu, R. D., Herczeg, G. J., Akeson, R. L., & Ciardi, D. R.  2017, *ApJL*, 842, L12 - <a href='http://adsabs.harvard.edu/abs/2017ApJ...842L..12T'>ADS</a>
 
-
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-
-## Lato – A Sans Serif Typeface Family - Ben
 
 [<dfn>Lato</dfn>][4] is a sans serif typeface family started in the summer of 2010 by Warsaw-based designer Łukasz Dziedzic. »Lato« means »Summer« in Polish. In December 2010 the Lato family was published under the Open Font License by his foundry tyPoland, with support from Google. 
 
