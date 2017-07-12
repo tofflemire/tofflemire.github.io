@@ -9,6 +9,7 @@ header:
 categories:
     - design
     - typography
+permalink: "/publications/"
 ---
 <!--more-->
 
