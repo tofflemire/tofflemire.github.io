@@ -4,8 +4,6 @@ title: "Refereed Publications"
 subheadline: ""
 meta_teaser: ""
 teaser: ""
-header:
-   image_fullwidth: header_unsplash_leaf.jpg
 categories:
 permalink: "/publications/"
 ---
