@@ -12,11 +12,13 @@ permalink: "/publications/"
 ## First Author Publications
 
 <ol reversed>
-  <li> *Pulsed Accretion in the T Tauri Binary TWA 3A* - Tofflemire, B. M., Mathieu, R. D., Herczeg, G. J., Akeson, R. L., & Ciardi, D. R.  2017b, *ApJL*, 842, L12 - <a href='http://adsabs.harvard.edu/abs/2017ApJ...842L..12T' target="_blank">ADS</a> </li>
-  <li> *Accretion and Magnetic Reconnection in the Classical T Tauri Binary DQ Tau* - Tofflemire, B. M., Mathieu, R. D., Ardila, D. R., et al. 2017a, *ApJ*, 835, 8 - <a href='http://adsabs.harvard.edu/abs/2017ApJ...835....8T' target="_blank">ADS</a> </li>
-</ol>
+  <li> <em>Pulsed Accretion in the T Tauri Binary TWA 3A</em> - Tofflemire, B. M., Mathieu, R. D., Herczeg, G. J., Akeson, R. L., & Ciardi, D. R.  2017b, <em>ApJL</em>, 842, L12 - <a href='http://adsabs.harvard.edu/abs/2017ApJ...842L..12T' target="_blank">ADS</a> </li>
 
-4. *WIYN Open Cluster Study. LIX. Radial Velocity Membership of the Evolved Population of the Old Open Cluster NGC 6791* - Tofflemire, B. M., Gosnell, N. M., Mathieu, R. D., & Platais, I. 2014, *AJ*, 148, 61 - <a href='http://adsabs.harvard.edu/abs/2014AJ....148...61T' target="_blank">ADS</a>
+  <li> <em>Accretion and Magnetic Reconnection in the Classical T Tauri Binary DQ Tau</em> - Tofflemire, B. M., Mathieu, R. D., Ardila, D. R., et al. 2017a, <em>ApJ</em>, 835, 8 - <a href='http://adsabs.harvard.edu/abs/2017ApJ...835....8T' target="_blank">ADS</a> </li>
+  
+  <li> <em>WIYN Open Cluster Study. LIX. Radial Velocity Membership of the Evolved Population of the Old Open Cluster NGC 6791</em> - Tofflemire, B. M., Gosnell, N. M., Mathieu, R. D., & Platais, I. 2014, <em>AJ</em>, 148, 61 - <a href='http://adsabs.harvard.edu/abs/2014AJ....148...61T' target="_blank">ADS</a> </li>
+ 
+</ol>
 
 3. *X-Ray Grating Observations of Recurrent Nova T Pyxidis during the 2011 Outburst* - Tofflemire, B. M., Orio, M., Page, K. L., et al.  2013, *ApJ*, 779, 22 - <a href='http://adsabs.harvard.edu/abs/2013ApJ...779...22T' target="_blank">ADS</a>
 
