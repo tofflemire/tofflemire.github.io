@@ -5,7 +5,7 @@ title: "Video Template"
 subheadline: ""
 teaser: "If you want to show videos in a large manner, the video template is the right choice."
 permalink: "/animations/"
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/WoHxoz_0ykI' frameborder='0' allowfullscreen></iframe>"
+iframe: "<iframe width='970' height='546' src='//www.youtube.com/watch?v=iGKtvyx1_Ss' frameborder='0' allowfullscreen></iframe>"
 #
 # These video settings are totally optional. It's only purpose
 # is SEO, so that videos show up in Google hopefully with a 
@@ -17,9 +17,9 @@ iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/WoHxoz_0y
 # thumbnailUrl – A URL pointing to the video thumbnail image file.
 #
 video:
-    embedURL: "https://www.youtube.com/embed/WoHxoz_0ykI"
-    contentURL: "https://www.youtube.com/watch?v=WoHxoz_0ykI"
-    thumbnailUrl: "http://img.youtube.com/vi/WoHxoz_0ykI/maxresdefault.jpg"
+    embedURL: "https://www.youtube.com/watch?v=iGKtvyx1_Ss"
+    contentURL: "https://www.youtube.com/watch?v=iGKtvyx1_Ss"
+    thumbnailUrl: "https://www.youtube.com/watch?v=iGKtvyx1_Ss"
 ---
 <!--more-->
 
@@ -29,4 +29,4 @@ video:
 
 
 
-Source: [Kutiman – Thru You Too – »Give It Up«](https://www.youtube.com/watch?v=WoHxoz_0ykI)
+Source: [Kutiman – Thru You Too – »Give It Up«](https://www.youtube.com/watch?v=iGKtvyx1_Ss)
