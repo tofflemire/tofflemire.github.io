@@ -6,7 +6,11 @@ subheadline: ""
 teaser: "If you want to show videos in a large manner, the video template is the right choice."
 permalink: "/animations/"
 iframe: "<iframe width='970' height='546' src='https://www.youtube.com/watch?v=iGKtvyx1_Ss' frameborder='0' allowfullscreen></iframe>"
+
+video:
+    embedURL: "https://www.youtube.com/watch?v=iGKtvyx1_Ss"
+    contentURL: "https://www.youtube.com/watch?v=iGKtvyx1_Ss"
 ---
 <!--more-->
 
-## About the video by Kutiman
+## TWA 3A
