@@ -19,6 +19,7 @@ iframe: "<iframe width="560" height="315" src="https://www.youtube.com/embed/iGK
 video:
     embedURL: "https://www.youtube.com/embed/iGKtvyx1_Ss"
     contentURL: "https://www.youtube.com/watch?v=iGKtvyx1_Ss"
+    thumbnailUrl: "https://www.youtube.com/watch?v=iGKtvyx1_Ss"
 ---
 <!--more-->
 
