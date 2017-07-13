@@ -11,5 +11,7 @@ permalink: "/cv/"
 <hr>
 ## Two Page
 
+<a href='www.google.com' target="_blank">Two Page</a>
+
 ## Unabridged
 
