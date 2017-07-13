@@ -2,7 +2,7 @@
 layout: video
 show_meta: false
 title: "Video Template"
-subheadline: "Templates"
+subheadline: ""
 teaser: "If you want to show videos in a large manner, the video template is the right choice."
 permalink: "/animations/"
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/WoHxoz_0ykI' frameborder='0' allowfullscreen></iframe>"
