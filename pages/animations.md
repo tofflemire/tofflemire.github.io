@@ -5,7 +5,7 @@ title: "Video Template"
 subheadline: ""
 teaser: "If you want to show videos in a large manner, the video template is the right choice."
 permalink: "/animations/"
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/watch?v=iGKtvyx1_Ss' frameborder='0' allowfullscreen></iframe>"
+iframe: "<iframe width="560" height="315" src="https://www.youtube.com/embed/iGKtvyx1_Ss" frameborder="0" allowfullscreen></iframe>"
 #
 # These video settings are totally optional. It's only purpose
 # is SEO, so that videos show up in Google hopefully with a 
@@ -17,9 +17,8 @@ iframe: "<iframe width='970' height='546' src='//www.youtube.com/watch?v=iGKtvyx
 # thumbnailUrl – A URL pointing to the video thumbnail image file.
 #
 video:
-    embedURL: "https://www.youtube.com/watch?v=iGKtvyx1_Ss"
+    embedURL: "https://www.youtube.com/embed/iGKtvyx1_Ss"
     contentURL: "https://www.youtube.com/watch?v=iGKtvyx1_Ss"
-    thumbnailUrl: "https://www.youtube.com/watch?v=iGKtvyx1_Ss"
 ---
 <!--more-->
 
