@@ -4,10 +4,7 @@ show_meta: false
 title: "Video Template"
 subheadline: "Templates"
 teaser: "If you want to show videos in a large manner, the video template is the right choice."
-tags:
-    - post format
-categories:
-    - design
+permalink: "/animations/"
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/WoHxoz_0ykI' frameborder='0' allowfullscreen></iframe>"
 #
 # These video settings are totally optional. It's only purpose
