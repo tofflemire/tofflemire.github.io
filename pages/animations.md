@@ -5,7 +5,7 @@ subheadline: ""
 meta_teaser: ""
 teaser: ""
 categories:
-permalink: "/publications/"
+permalink: "/animations/"
 ---
 <!--more-->
 <hr>
