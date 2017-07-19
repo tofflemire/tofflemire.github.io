@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Animations"
-subheadline: "I get jealous of the awesome movies simulators get to make so, I try my best to make intersting animations from my observations"
+subheadline: ""
 meta_teaser: ""
-teaser: ""
+teaser: "I get jealous of the awesome movies simulators get to make so, I try my best to make intersting animations from my observations"
 categories:
 permalink: "/animations/"
 ---
