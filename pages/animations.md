@@ -8,6 +8,7 @@ categories:
 permalink: "/animations/"
 ---
 <!--more-->
+<hr>
 ## TWA 3A
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iGKtvyx1_Ss" frameborder="0" allowfullscreen></iframe>
@@ -23,7 +24,7 @@ The right panel displays a scale schematic of TWA 3A's orbit as the two stars tr
 Mass accretion rates are measured from a photometric excess in the Johnson U-band. Observations were made with the <a href='https://lco.global/' target="_blank">Las Cumbres Observatories Global Telescope 1m Network </a> . 
 
 A peer-reviewed article published in the Astrophysical Journal Letters on this result can be found <a href='https://arxiv.org/abs/1706.07073' target="_blank">here</a>.
-
+<hr>
 ## DQ TAU
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8HZ36mJSF10" frameborder="0" allowfullscreen></iframe>
@@ -39,5 +40,5 @@ The right panel displays a scale schematic of DQ Tau's orbit as the two stars tr
 Mass accretion rates are measured from a photometric excess in the Johnson U-band. Observations were made with the <a href='https://lco.global/' target="_blank">Las Cumbres Observatories Global Telescope 1m Network </a> , the <a href='http://www.apo.nmsu.edu/Telescopes/ARCSAT/index.html' target="_blank">Apache Point Observatory's ARCSAT</a> telescope , and the <a href='https://www.noao.edu/0.9m/' target="_blank">WIYN 0.9m</a> telescope.
 
 A peer-reviewed article published in the Astrophysical Journal on this result can be found <a href='https://arxiv.org/abs/1612.02431' target="_blank"> here</a>.
-
+<hr>
 Some more fun animations I have made for grad classes over the years can be found on my <a href='https://www.youtube.com/user/BenTofflemire' target="_blank">youtube channel</a>. 
