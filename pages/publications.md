@@ -54,4 +54,4 @@ permalink: "/publications/"
   <li style="margin-bottom: 10px;"> <em>Near-infrared Multi-band Photometry of the Substellar Companion GJ 758 B</em> - Janson, M., Carson, J., Thalmann, C., et al. (including <b>Tofflemire, B. M.</b>) 2011, <em>ApJ</em>, 728, 85 - <a href='http://adsabs.harvard.edu/abs/2011ApJ...728...85J' target="_blank">ADS</a> </li>
 </ol>
 <hr>
-A comprehensive list of my publications, including conference proceedings, can be found in my unabridged CV. 
+A comprehensive list of my publications, including conference proceedings, can be found in my <a href='/local_files/Tofflemire_CV.pdf' target="_blank"> unabridged CV </a>. 
