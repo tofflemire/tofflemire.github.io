@@ -9,5 +9,6 @@ permalink: "/aboutme/"
 ---
 <!--more-->
 <hr>
-<img src="/localaboutme.png">
-<p>Lorem ipsum dolor sit amet...
+<img src="/local_files/aboutme.png">
+<p>Lorem ipsum dolor sit amet...</p>
+<hr>
