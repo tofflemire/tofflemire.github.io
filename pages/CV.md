@@ -20,6 +20,4 @@ permalink: "/cv/"
 
 <br/>
 
-<br/>
-
 <hr>
