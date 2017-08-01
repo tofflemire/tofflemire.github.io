@@ -27,5 +27,7 @@ permalink: "/contact/"
     475 N. Charter Street
     Madison, Wisconsin 53706 
 </div>
+
 <br>
+
 <hr>
