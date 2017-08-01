@@ -14,16 +14,10 @@ Mail: Department of Astronomy
       475 N. Charter Street 
       Madison, Wisconsin 53706 
 
+<div style='float:left; width:30%'>
+    Put your content here...
+</div>
 
-<div class="column">
-    <h2>header text</h2>
-    <p>paragraph text</p>
-</div>
-<div class="column">
-    <h2>header text</h2>
-    <p>paragraph text</p>
-</div>
-<div class="column">
-    <h2>header text</h2>
-    <p>paragraph text</p>
+<div style='float:left; width:40%; margin-left:30px'>
+    Put another content here...
 </div>
