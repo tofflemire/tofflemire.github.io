@@ -15,3 +15,15 @@ Mail: Department of Astronomy
       Madison, Wisconsin 53706 
 
 
+<div class="column">
+    <h2>header text</h2>
+    <p>paragraph text</p>
+</div>
+<div class="column">
+    <h2>header text</h2>
+    <p>paragraph text</p>
+</div>
+<div class="column">
+    <h2>header text</h2>
+    <p>paragraph text</p>
+</div>
