@@ -12,8 +12,8 @@ permalink: "/cv/"
 
 ## <a href='/local_files/Tofflemire_CV_2page.pdf' target="_blank">Two Page</a>
 
+<br/>
+
 ## <a href='/local_files/Tofflemire_CV.pdf' target="_blank">Unabridged</a>
 
-<hr>
-
-/
+<br/>
