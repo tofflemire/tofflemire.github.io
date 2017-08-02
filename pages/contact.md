@@ -6,8 +6,6 @@ subheadline: ""
 teaser: ""
 permalink: "/contact/"
 ---
-# <br/>
-
 <hr>
 
 <div style='float:left; width:20%'>
