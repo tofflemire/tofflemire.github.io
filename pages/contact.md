@@ -29,7 +29,9 @@ permalink: "/contact/"
     
     <p>
         Department of Astronomy
-    
+        
+        <br/>
+        
         University of Wisconsin - Madison
     
         6511C Sterling Hall 
