@@ -12,27 +12,32 @@ permalink: "/contact/"
     <p>
         Email:
     </p>
+    
     <br/>
+    
     <p>
         Mailing Address:
     </p>
 </div>
 
 <div style='float:left; width:50%; margin-left:30px'>
-    tofflemi -at- astro.wisc.edu
+    <p>
+        tofflemi -at- astro.wisc.edu
+    </p>
     
     <br/>
     
-    Department of Astronomy
+    <p>
+        Department of Astronomy
     
-    University of Wisconsin - Madison
+        University of Wisconsin - Madison
     
-    6511C Sterling Hall 
+        6511C Sterling Hall 
     
-    475 N. Charter Street
+        475 N. Charter Street
     
-    Madison, Wisconsin 53706 
-    
+        Madison, Wisconsin 53706 
+    </p>
 </div>
 
 <br/>
