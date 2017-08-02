@@ -22,12 +22,17 @@ permalink: "/contact/"
     <br/>
     
     Department of Astronomy
+    
     University of Wisconsin - Madison
+    
     6511C Sterling Hall 
+    
     475 N. Charter Street
+    
     Madison, Wisconsin 53706 
+    
 </div>
 
-<br>
+<br/>
 
 <hr>
