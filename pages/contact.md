@@ -36,7 +36,7 @@ permalink: "/contact/"
     </p>
 </div>
 
-<div style='float:left; width:40%; margin-left:30px'>
+<div style='float:left; width:50%; margin-left:30px'>
     <p>
         tofflemi -at- astro.wisc.edu
     </p>
