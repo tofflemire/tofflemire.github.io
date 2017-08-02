@@ -51,7 +51,7 @@ permalink: "/contact/"
         <br/>
     
         Madison, Wisconsin 53706 
-    </p>
+    <p/>
     
     <br/>
     
