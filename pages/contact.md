@@ -23,7 +23,7 @@ permalink: "/contact/"
     
     <p>
         Department Webpage
-    <p/>
+    </p>
 </div>
 
 <div style='float:left; width:50%; margin-left:30px'>
@@ -51,13 +51,13 @@ permalink: "/contact/"
         <br/>
     
         Madison, Wisconsin 53706 
-    <p/>
+    </p>
     
     <br/>
     
     <p>
     http://www.astro.wisc.edu/our-people/graduate-students/tofflemire-benjamin/
-    <p/>
+    </p>
 </div>
 
 <br/>
