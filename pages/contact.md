@@ -29,8 +29,6 @@ permalink: "/contact/"
         <br/>
         
         <br/>
-        
-        <br/>
         
         Department Webpage:
     </p>
