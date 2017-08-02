@@ -9,11 +9,13 @@ permalink: "/contact/"
 <hr>
 
 <div style='float:left; width:20%'>
-    Email:
-    
+    <p>
+        Email:
+    </p>
     <br/>
-    
-    Mailing Address:
+    <p>
+        Mailing Address:
+    </p>
 </div>
 
 <div style='float:left; width:50%; margin-left:30px'>
