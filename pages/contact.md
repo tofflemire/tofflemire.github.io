@@ -22,11 +22,21 @@ permalink: "/contact/"
     <br/>
     
     <p>
+        <br/>
+ 
+        <br/>
+        
+        <br/>
+        
+        <br/>
+        
+        <br/>
+
         Department Webpage
     </p>
 </div>
 
-<div style='float:left; width:50%; margin-left:30px'>
+<div style='float:left; width:80%; margin-left:20px'>
     <p>
         tofflemi -at- astro.wisc.edu
     </p>
@@ -56,7 +66,7 @@ permalink: "/contact/"
     <br/>
     
     <p>
-    http://www.astro.wisc.edu/our-people/graduate-students/tofflemire-benjamin/
+     <a href='http://www.astro.wisc.edu/our-people/graduate-students/tofflemire-benjamin/' target="_blank"> link </a>
     </p>
 </div>
 
