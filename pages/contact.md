@@ -6,6 +6,8 @@ subheadline: ""
 teaser: ""
 permalink: "/contact/"
 ---
+<br/>
+
 <hr>
 
 <div style='float:left; width:20%'>
@@ -33,10 +35,16 @@ permalink: "/contact/"
         <br/>
         
         University of Wisconsin - Madison
+        
+        <br/>
     
         6511C Sterling Hall 
+        
+        <br/>
     
         475 N. Charter Street
+    
+        <br/>
     
         Madison, Wisconsin 53706 
     </p>
