@@ -8,7 +8,7 @@ permalink: "/contact/"
 ---
 <hr>
 
-<div style='float:left; width:20%'>
+<div style='float:left; width:30%'>
     <p>
         Email:
     </p>
@@ -32,11 +32,11 @@ permalink: "/contact/"
         
         <br/>
 
-        Department Webpage
+        Department Webpage:
     </p>
 </div>
 
-<div style='float:left; width:80%; margin-left:20px'>
+<div style='float:left; width:40%; margin-left:30px'>
     <p>
         tofflemi -at- astro.wisc.edu
     </p>
