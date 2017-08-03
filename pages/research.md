@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Astronomy Research"
 subheadline: ""
 meta_teaser: ""
