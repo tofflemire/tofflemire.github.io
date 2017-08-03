@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Curriculum Vitae"
 subheadline: ""
 meta_teaser: ""
