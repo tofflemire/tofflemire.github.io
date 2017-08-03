@@ -31,13 +31,6 @@
 - title: "Animations"
   url: "/animations/"
   side: left
-#  dropdown:
-#  - title: "Blog Archive"
-#    url: "/blog/archive/"
-
-#- title: "Animations"
-#  url: "/search/"
-#  side: left
 
 - title: "Contact"
   url: "/contact/"
