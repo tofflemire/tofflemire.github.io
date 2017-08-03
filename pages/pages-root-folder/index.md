@@ -5,7 +5,6 @@
 # this work, you have to use › layout: frontpage
 #
 layout: page-fullwidth
-title:  "Welcome to my website"
 header:
   image_fullwidth: hh24_schmidt_1505.jpg
 homepage: true
