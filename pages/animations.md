@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 title: "Animations"
 subheadline: ""
 meta_teaser: ""
