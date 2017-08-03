@@ -13,7 +13,7 @@
 layout: page-fullwidth
 header:
   image_fullwidth: hh24_schmidt_1505.jpg
-  
+title:  "Welcome to my website"
 permalink: /index.html
 homepage: true
 ---
