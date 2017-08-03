@@ -7,13 +7,13 @@
   side: left
   dropdown:
   - title: "Time-Series Photometry of Pre-MS Binary Stars"
-    url: "/research/"
+    url: "/photometry/"
   - title: "Time-Series Spectra of Pre-MS Binary Stars"
-    url: "/research/"
+    url: "/spectroscopy/"
   - title: "Hydrodynamic simulations of Binary Accretion"
     url: "/research/"
   - title: "Other Research"
-    url: "/research/"
+    url: "/other_research/"
     
     
 - title: "Publications"
