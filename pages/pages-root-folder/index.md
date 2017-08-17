@@ -13,8 +13,15 @@
 layout: page-fullwidth
 header:
   image_fullwidth: web_background.jpg
-title:  "Welcome to my website"
+title:  "Welcome"
 permalink: /index.html
 homepage: true
 ---
+<hr>
+I am a graduate student in the astronomy department at the University of Wisconsin-Madison. I will be defending my thesis in the Spring of 2018! 
+
+This website is a place to learn more about my research and a little about me. 
+
+Here is my most recent paper!
+
 <hr>
