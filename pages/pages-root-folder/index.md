@@ -20,8 +20,8 @@ homepage: true
 <hr>
 I am a graduate student in the astronomy department at the University of Wisconsin-Madison. I will be defending my thesis in the Spring of 2018! 
 
-This website is a place to learn more about my research and a little about me. 
+This website is a place to learn more about my graduate <a href='https://tofflemire.github.io/research/'>research</a> and a little <a href='https://tofflemire.github.io/aboutme/'>about me</a>. 
 
-Here is my most recent paper!
+<a href='http://adsabs.harvard.edu/abs/2017ApJ...842L..12T' target="blank">Here is my most recent paper!</a>
 
 <hr>
