@@ -18,7 +18,7 @@ permalink: /index.html
 homepage: true
 ---
 <hr>
-I am a graduate student in the astronomy department at the University of Wisconsin-Madison. I will be defending my thesis in the Spring of 2018! 
+I am a PhD candidate in the Department of Astronomy at the University of Wisconsin-Madison. I will be defending my thesis in the Spring of 2018! 
 
 This website is a place to learn more about my graduate <a href='https://tofflemire.github.io/research/'>research</a> and a little <a href='https://tofflemire.github.io/aboutme/'>about me</a>. 
 
