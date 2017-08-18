@@ -10,6 +10,7 @@ permalink: "/cv/"
 <!--more-->
 <hr>
 ## Education
+
 <UL>
 <LI>2018 — Ph.D. Astronomy, Physics minor, University of Wisconsin-Madison
 <LI>2013 — M.S. Astronomy, University of Wisconsin-Madison
@@ -30,6 +31,8 @@ permalink: "/cv/"
 <LI>2010, 2011 - University of Washington Mary Gates Research Scholarship 
 </UL>
   
+<br/>
+
 ## PDF Versions
 <a href='/local_files/Tofflemire_CV_2page.pdf' target="_blank">Two Page</a>
 <br/>
