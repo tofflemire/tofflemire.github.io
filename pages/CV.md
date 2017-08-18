@@ -12,14 +12,14 @@ permalink: "/cv/"
 ## Education
 
 <UL>
-<LI>2018 — Ph.D. Astronomy, Physics minor, University of Wisconsin-Madison</LI>
-<LI>2013 — M.S. Astronomy, University of Wisconsin-Madison</LI>
+<LI>2018 -- Ph.D. Astronomy, Physics minor, University of Wisconsin-Madison</LI>
+<LI>2013 -- M.S. Astronomy, University of Wisconsin-Madison</LI>
 <LI>2011 — B.S. Astronomy and Physics, University of Washington</LI>
 </UL>
 
 ## Awards
 <UL>
-<LI>2016, 2017 - University of Wisconsin Graduate School Conference Presentation Award</LI>
+<LI>2016, 2017 -- University of Wisconsin Graduate School Conference Presentation Award</LI>
 <LI>2015 - Sigma Xi Grants in Aid of Research</LI>
 <LI>2015 - University of Wisconsin Vilas Conference Presentation Award</LI>
 <LI>2015 - University of Wisconsin Vilas Research Travel Grant</LI>
