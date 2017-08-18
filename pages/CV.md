@@ -17,8 +17,6 @@ permalink: "/cv/"
 <LI>2011 — B.S. Astronomy and Physics, University of Washington</LI>
 </UL>
 
-<br/>
-
 ## Awards
 <UL>
 <LI>2016, 2017 - University of Wisconsin Graduate School Conference Presentation Award</LI>
@@ -30,8 +28,6 @@ permalink: "/cv/"
 <LI>2011 - University of Washington’s Astronomy Bear Prize Recipient 2011</LI>
 <LI>2010, 2011 - University of Washington Mary Gates Research Scholarship</LI>
 </UL>
-  
-<br/>
 
 ## PDF Versions
 <a href='/local_files/Tofflemire_CV_2page.pdf' target="_blank">Two Page</a>
