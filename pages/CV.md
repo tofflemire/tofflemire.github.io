@@ -12,7 +12,7 @@ permalink: "/cv/"
 ## Education
 
 <UL>
-<LI>2018 -- Ph.D. Astronomy, Physics minor, University of Wisconsin-Madison</LI>
+<LI>2018 &ndash Ph.D. Astronomy, Physics minor, University of Wisconsin-Madison</LI>
 <LI>2013 -- M.S. Astronomy, University of Wisconsin-Madison</LI>
 <LI>2011 — B.S. Astronomy and Physics, University of Washington</LI>
 </UL>
