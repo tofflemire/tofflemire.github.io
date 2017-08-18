@@ -13,6 +13,7 @@
 layout: page
 header:
   image_fullwidth: web_background.jpg
+  caption: This is a caption for the header image with link
 title:  "Welcome"
 permalink: /index.html
 homepage: true
