@@ -16,6 +16,8 @@ permalink: "/cv/"
 <LI>2011 — B.S. Astronomy and Physics, University of Washington
 </UL>
 
+<br/>
+
 ## Awards
 <UL>
 <LI>2016, 2017 - University of Wisconsin Graduate School Conference Presentation Award
