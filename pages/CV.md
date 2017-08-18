@@ -13,7 +13,7 @@ permalink: "/cv/"
 <UL>
 <LI>2018 — Ph.D. Astronomy, Physics minor, University of Wisconsin-Madison
 <LI>2013 — M.S. Astronomy, University of Wisconsin-Madison
-<LI>2011 — B.A. Physics, Carleton College, Magna cum laude
+<LI>2011 — B.S. Astronomy and Physics, University of Washington
 </UL>
 
 ## Awards
