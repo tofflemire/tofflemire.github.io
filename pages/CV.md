@@ -23,9 +23,9 @@ permalink: "/cv/"
 <LI>2015 &ndash; Sigma Xi Grants in Aid of Research</LI>
 <LI>2015 &ndash; University of Wisconsin Vilas Conference Presentation Award</LI>
 <LI>2015 &ndash; University of Wisconsin Vilas Research Travel Grant</LI>
-<LI>2015 &ndash; AAS 225 Chambliss Student Prize Honorable Mention 2015</LI>
-<LI>2012 &ndash; University of Wisconsin – University Housing Honored Instructor 2012</LI>
-<LI>2011 &ndash; University of Washington’s Astronomy Bear Prize Recipient 2011</LI>
+<LI>2015 &ndash; AAS 225 Chambliss Student Prize Honorable Mention</LI>
+<LI>2012 &ndash; University of Wisconsin – University Housing Honored Instructor</LI>
+<LI>2011 &ndash; University of Washington’s Astronomy Bear Prize Recipient</LI>
 <LI>2010, 2011 &ndash; University of Washington Mary Gates Research Scholarship</LI>
 </UL>
 
