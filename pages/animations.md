@@ -3,7 +3,7 @@ layout: page
 title: "Animations"
 subheadline: ""
 meta_teaser: ""
-teaser: "I'm jealous of the awesome movies simulators get to make so, I try my best to make interesting animations from my observations"
+teaser: "I'm jealous of the movies simulators get to make so, I try my best to make interesting animations from my observations"
 categories:
 permalink: "/animations/"
 ---
