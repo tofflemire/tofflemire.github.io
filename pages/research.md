@@ -22,13 +22,17 @@ Numerical simulations of the binary-disk interaction predict that in short-perio
 #### Characterizing of the Binary-Disk Interaction
 To test the predictions of binary accretion theory, we have compiled a sample of nine short-period, pre-main sequence binaries for an intensive observational study.
 
-With time-series optical and near-infrared photometry, we search for evidence of periodic pulsed accretion events and variations in the amount and temperature of circumstellar material, as a function of orbital phase. The diverse orbital parameters of the binaries in our sample allow for a general test of the binary-disk interaction, placing constaints on the orbital-parameter dependence of certain predictions. 
+With time-series optical and near-infrared photometry, we search for evidence of periodic pulsed accretion events and variations in the amount and temperature of circumstellar material, all as a function of orbital phase. The diverse orbital parameters of the binaries in our sample allow for a general test of the binary-disk interaction, placing constaints on the orbital-parameter dependence of certain predictions. More on this apsect of my dissertation can be found at the link below. 
 
 #### <a href='https://tofflemire.github.io/photometry/'> Time-Series Photometry of Accreting Pre-MS Binary Stars </a>
+
+For a subset of
 
 #### <a href='https://tofflemire.github.io/spectroscopy/'> Time-Series Spectroscopy of Accreting Pre-MS Binary Stars </a>
 
 #### <a href='https://tofflemire.github.io/sims/'> Hydrodynamic Simulations of Binary Accretion </a>
+
+<br>
 
 (This work would not be possible without the following people: Robert Mathieu, Greg Herczeg, David Ardila, Christopher Johns-Krull, Rachel Akeson, and David Ciardi)
 
