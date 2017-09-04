@@ -10,15 +10,19 @@ permalink: "/research/"
 <hr>
 ## Dissertaion Overview
 
-### <a href='https://tofflemire.github.io/photometry/'> Time-Series Photometry of Accreting Pre-MS Stars </a>
 
-### <a href='https://tofflemire.github.io/spectroscopy/'> Time-Series Spectroscopy of Accreting Pre-MS Stars </a>
 
-### <a href='https://tofflemire.github.io/sims/'> Hydrodynamic Simulations of Binary Accretion </a>
+#### <a href='https://tofflemire.github.io/photometry/'> Time-Series Photometry of Accreting Pre-MS Stars </a>
+
+#### <a href='https://tofflemire.github.io/spectroscopy/'> Time-Series Spectroscopy of Accreting Pre-MS Stars </a>
+
+#### <a href='https://tofflemire.github.io/sims/'> Hydrodynamic Simulations of Binary Accretion </a>
 
 <hr>
 
 ## <a href='https://tofflemire.github.io/other_research/'>Other Research</a>
+I 
+
 I have had the good fortune to work on many different research projects spanning theory to observation, gaining experience from X-rays to the near infrared. 
 
 The links below provide a brief summary of each:
