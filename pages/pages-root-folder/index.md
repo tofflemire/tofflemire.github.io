@@ -20,7 +20,7 @@ permalink: /index.html
 homepage: true
 ---
 <hr>
-I am a PhD candidate in the Department of Astronomy at the University of Wisconsin-Madison. I have previously received a M.S. in Astronomy from UW-Madison and a B.S. in Astronomy and Physics from the University of Washington. My dissertation focuses on the late stages of binary star formation. Specifically, I study how the orbital motion of binary stars affects the distribution and dynamics of the circumstellar material. More broadly, I am interested in using the intrinsic varaibility of accreting systems as a tool to understand the interaction between forming stars and their disks. 
+I am a PhD candidate in the Department of Astronomy at the University of Wisconsin-Madison where I work with Prof. Robert Mathieu. I have previously received a M.S. in Astronomy from UW-Madison and a B.S. in Astronomy and Physics from the University of Washington. My dissertation focuses on the late stages of binary star formation. Specifically, I study how the orbital motion of binary stars affects the distribution and dynamics of circumstellar material. More broadly, I am interested in using the intrinsic varaibility of accreting systems as a tool to understand the interaction between forming stars and their disks. 
 
 I am looking forward to defending my thesis in the Spring of 2018! 
 
