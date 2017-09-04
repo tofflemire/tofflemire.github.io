@@ -24,15 +24,15 @@ To test the predictions of binary accretion theory, we have compiled a sample of
 
 With time-series optical and near-infrared photometry, we search for evidence of periodic pulsed accretion events and variations in the amount and temperature of circumstellar material, all as a function of orbital phase. The diverse orbital parameters of the binaries in our sample allow for a general test of the binary-disk interaction, placing constaints on the orbital-parameter dependence of certain predictions. More on this part of my dissertation and the detection of pulsed accretion events can be found at the link below. 
 
-<b> <a href='https://tofflemire.github.io/photometry/'> Time-Series Photometry of Accreting Pre-MS Binary Stars </a> </b>
+<big><b> <a href='https://tofflemire.github.io/photometry/'> Time-Series Photometry of Accreting Pre-MS Binary Stars </a> </b></big>
 
-For a subset of our binaries, we also obtained time-series, high-resolution, optical spectroscopy with the SALT High-Resolution Spectrograph (HRS). With theses data, we search for coherent velocity structures in orbital phase that trace accretion streams and use narrow accretion tracers to determine which star within the binary is preferentially fed.
+For a subset of our binaries, we also obtained time-series, high-resolution, optical spectroscopy with the SALT High-Resolution Spectrograph (HRS). With theses data, we search for coherent velocity structures in orbital phase that trace accretion streams and use narrow accretion tracers to determine which star within the binary is preferentially fed. A detailed description of our ongoing work and description of our HRS reductions can be found at the following link.
 
-<b> <a href='https://tofflemire.github.io/spectroscopy/'> Time-Series Spectroscopy of Accreting Pre-MS Binary Stars </a></b>
+<big><b> <a href='https://tofflemire.github.io/spectroscopy/'> Time-Series Spectroscopy of Accreting Pre-MS Binary Stars </a></b></big>
 
-Based on the results of our photometric campaign, 
+Based on the results of our photometric campaign, we 
 
-<b> <a href='https://tofflemire.github.io/sims/'> Hydrodynamic Simulations of Binary Accretion </a></b>
+<big><b> <a href='https://tofflemire.github.io/sims/'> Hydrodynamic Simulations of Binary Accretion </a></b></big>
 
 (This work would not be possible without the following people: Robert Mathieu, Greg Herczeg, David Ardila, Christopher Johns-Krull, Rachel Akeson, David Ciardi, and Diego Munoz)
 
