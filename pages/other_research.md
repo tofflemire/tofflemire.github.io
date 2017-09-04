@@ -7,7 +7,6 @@ teaser: ""
 categories:
 permalink: "/other_research/"
 ---
-## Other Research
 <hr>
 
 <a name='wocs'>Studying the Membership and Binary Populations of Open Clusters</a>
