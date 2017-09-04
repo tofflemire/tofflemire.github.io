@@ -10,11 +10,11 @@ permalink: "/research/"
 <hr>
 ## Dissertation Overview
 
-My dissertation research focuses on understanding the interaction between young binary star systems and their circumstellar disks. Over the past thirty years, a detailed picture of star formation has emerged that places a heavy emphasis on the interaction between a pre-main sequence star and its protoplanetary disk. Many properties of the emergent star, the lifetime of circumstellar disks, and the formation of planets are, in part, determined by this star-disk interaction. 
+My dissertation research focuses on understanding the interaction between young binary star systems and their circumstellar disks. Over the past thirty years, a detailed picture of star formation has emerged that places a heavy emphasis on the interaction between a pre-main sequence star and its protoplanetary disk. Many properties of the emergent star, the lifetime of the circumstellar disk, and the formation of planets are, in part, determined by this star-disk interaction. 
 
 Many stars, however, form with companions that have the ability to alter the distribution of disk material and the dynamics of accretion flows. Stellar companions fundamentally change the single-star-disk interaction and its implications for the evolution of the star-disk system. 
 
-Numerical simulations of the binary-disk interaction predict that in short-period systems, orbital resonances will dynamically clear a central region of the protoplanetary disk, leaving open the possibility for three stable accretion disks: two circumstellar disks around each star and an emcompassing circumbinary disk. While orbital resonances prevent material from 
+Numerical simulations of the binary-disk interaction predict that in short-period systems, orbital resonances will dynamically clear a central region of the protoplanetary disk, leaving open the possibility for three stable accretion disks: two circumstellar disks around each star and an emcompassing circumbinary disk. While orbital resonances prevent stable orbits near the binary, accretion is predicted to proceed in periodic accretion streams that form at the inner edge of the circumbinary disk, cross the dynamically cleared gap, and feed circumstellar disks or accrete directly onto the stars themselves. This pulsed-accretion paradigm predicts bursts of accretion that are periodic with the orbital period, where the duration, amplitude, location in orbital phase, and which star if preferentially fed, all depend on the orbital parameters (eccentricity, mass ratio, semi-major axis, etc). 
 
 
 
