@@ -10,11 +10,11 @@ permalink: "/research/"
 <hr>
 ## Dissertation Overview
 
-My dissertation focuses on 
+My dissertation research focuses on understanding the interaction between young binary star systems and their circumstellar material during star formation. Over the past thirty years, a detailed picture has emerged describing the late stages of star formation, in which the interaction between a star and its protoplanetary disk plays an intergral role in the evolution of the star-disk system. 
 
-#### <a href='https://tofflemire.github.io/photometry/'> Time-Series Photometry of Accreting Pre-MS Stars </a>
+#### <a href='https://tofflemire.github.io/photometry/'> Time-Series Photometry of Accreting Pre-MS Binary Stars </a>
 
-#### <a href='https://tofflemire.github.io/spectroscopy/'> Time-Series Spectroscopy of Accreting Pre-MS Stars </a>
+#### <a href='https://tofflemire.github.io/spectroscopy/'> Time-Series Spectroscopy of Accreting Pre-MS Binary Stars </a>
 
 #### <a href='https://tofflemire.github.io/sims/'> Hydrodynamic Simulations of Binary Accretion </a>
 
