@@ -21,7 +21,7 @@ permalink: "/research/"
 <hr>
 
 ## <a href='https://tofflemire.github.io/other_research/'>Other Research</a>
-I've been lucky to work on many different projects during my research career. These projects range from theory to observation, using data sets spanning the X-ray to near infrared. The links below provide a brief summary of each:
+I've been lucky to work on many different projects during my research career. These projects range from theory to observation based, using data sets spanning the X-ray to near infrared. The links below provide a brief summary of each:
 
 <a href="https://tofflemire.github.io/other_research#wocs"> Studying the Membership and Binary Populations of Open Clusters </a>
 
