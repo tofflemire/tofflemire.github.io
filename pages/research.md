@@ -10,7 +10,11 @@ permalink: "/research/"
 <hr>
 ## Dissertation Overview
 
-My dissertation research focuses on understanding the interaction between young binary star systems and their circumstellar material during star formation. Over the past thirty years, a detailed picture has emerged describing the late stages of star formation, in which the interaction between a star and its protoplanetary disk plays an intergral role in the evolution of the star-disk system. 
+My dissertation research focuses on understanding the interaction between young binary star systems and their circumstellar disks. Over the past thirty years, a detailed picture of star formation has emerged that places a heavy emphasis on the interaction between a star and its protoplanetary disk. Many properties of the emergent star, the lifetime of circumstellar disks, and the formation of planets are, in part, determined by this star-disk interaction. 
+
+Many stars however, form with companions that have the ability to alter the distribution of disk material and the dynamics of accretion flows. 
+
+
 
 #### <a href='https://tofflemire.github.io/photometry/'> Time-Series Photometry of Accreting Pre-MS Binary Stars </a>
 
