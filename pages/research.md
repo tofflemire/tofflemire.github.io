@@ -27,5 +27,6 @@ Studying the Membership and Binary Populations of Open Clusters
 
 X-ray Spectroscopy of Recurrnet Novae
 
+Optical and Near-Infrared Photometry of Stellar Flares
 
-
+Analysis of the Column Density Distribution of Simulated MHD Turbulence
