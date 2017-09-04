@@ -10,7 +10,7 @@ permalink: "/research/"
 <hr>
 ## Dissertation Overview
 
-My dissertation 
+My dissertation focuses on 
 
 #### <a href='https://tofflemire.github.io/photometry/'> Time-Series Photometry of Accreting Pre-MS Stars </a>
 
@@ -25,8 +25,8 @@ I've been lucky to work on many different projects during my research career. Th
 
 <a href="https://tofflemire.github.io/other_research#wocs"> Studying the Membership and Binary Populations of Open Clusters </a>
 
-<a href="https://tofflemire.github.io/other_research#xspec"> X-ray Spectroscopy of Recurrnet Novae </a>
+<a href="https://tofflemire.github.io/other_research#xspec"> X-ray Spectroscopy of Recurrent Novae </a>
 
-<a href="https://tofflemire.github.io/other_research#flares"> Optical and Near-Infrared Time-Series Photometry of Stellar Flares </a>
+<a href="https://tofflemire.github.io/other_research#flares"> Optical and Near-Infrared, Time-Series Photometry of Stellar Flares </a>
 
 <a href="https://tofflemire.github.io/other_research#tsallis"> Analysis of the Column Density Distribution of Simulated MHD Turbulence </a>
