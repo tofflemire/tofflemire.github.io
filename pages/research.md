@@ -14,7 +14,7 @@ permalink: "/research/"
 
 ### <a href='https://tofflemire.github.io/spectroscopy/'> Time-Series Spectroscopy of Accreting Pre-MS Stars </a>
 
-### <a href='Hydrodynamic Simulations of Binary Accretion
+### <a href='https://tofflemire.github.io/sims/'> Hydrodynamic Simulations of Binary Accretion </a>
 
 <hr>
 
