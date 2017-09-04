@@ -5,5 +5,5 @@ subheadline: "(In Progress)"
 meta_teaser: ""
 teaser: ""
 categories:
-permalink: "/sim/"
+permalink: "/sims/"
 ---
