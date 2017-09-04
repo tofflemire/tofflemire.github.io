@@ -12,14 +12,14 @@ permalink: "/research/"
 
 <b>Investigating the interaction between young binary star systems and their circumstellar disks </b>
 
-#### Background
+### Background
 Over the past thirty years, a detailed picture of star formation has emerged that places a heavy emphasis on the interaction between a pre-main sequence star and its protoplanetary disk. Many properties of the emergent star, the lifetime of the circumstellar disk, and the formation of planets are, in part, determined by this star-disk interaction. 
 
 Many stars, however, form with companions that have the ability to alter the distribution of disk material and the dynamics of accretion flows. Stellar companions fundamentally change the single-star-disk interaction and its implications for the evolution of the star-disk system. 
 
 Numerical simulations of the binary-disk interaction predict that in short-period systems, orbital resonances will dynamically clear a central region of the protoplanetary disk, leaving open the possibility for three stable accretion disks: two circumstellar disks around each star and an emcompassing circumbinary disk. While orbital resonances prevent stable orbits near the binary, accretion is predicted to proceed in periodic accretion streams that form at the inner edge of the circumbinary disk, cross the dynamically cleared gap, and feed circumstellar disks or accrete directly onto the stars themselves. This pulsed-accretion paradigm predicts bursts of accretion that are periodic with the orbital period, where the duration, amplitude, location in orbital phase, and which star if preferentially fed, all depend on the orbital parameters (eccentricity, mass ratio, semi-major axis, etc). Many of these predictions, especially those regarding temporal variations in the accretion rate, remain largely untested.
 
-#### Characterizing of the Binary-Disk Interaction
+### Characterizing of the Binary-Disk Interaction
 To test the predictions of binary accretion theory, we have compiled a sample of nine short-period, pre-main sequence binaries for an intensive observational study.
 
 With time-series optical and near-infrared photometry, we search for evidence of periodic pulsed accretion events and variations in the amount and temperature of circumstellar material, all as a function of orbital phase. The diverse orbital parameters of the binaries in our sample allow for a general test of the binary-disk interaction, placing constaints on the orbital-parameter dependence of certain predictions. More on this part of my dissertation and the detection of pulsed accretion events can be found at the link below. 
@@ -30,7 +30,7 @@ For a subset of our binaries, we also obtained time-series, high-resolution, opt
 
 <big><b> <a href='https://tofflemire.github.io/spectroscopy/'> Time-Series Spectroscopy of Accreting Pre-MS Binary Stars </a></b></big>
 
-Based on the results of our photometric campaign, we 
+The results of our photometric monitoring campaign have provided strong evidence for periodic pulsed accretion events in pre-main sequence binaries, just as models predict. There are, however, noteable differences in the duration, consistentcy, and location in orbital phase between the models and our observations. To root out the cause of these differences, we are in the process of creating hydrodynamic simulations of binary accretion, tailored to a subset of our binaries. More on this project can be found at the following link.
 
 <big><b> <a href='https://tofflemire.github.io/sims/'> Hydrodynamic Simulations of Binary Accretion </a></b></big>
 
@@ -39,7 +39,7 @@ Based on the results of our photometric campaign, we
 <hr>
 
 ## <a href='https://tofflemire.github.io/other_research/'>Other Research</a>
-I've been lucky to work on many different projects during my research career. These projects have been both theory to observation based, making use of data sets spanning the X-ray to near infrared. The links below provide a brief summary of the projects I have play a major role in:
+I've been lucky to work on many different projects during my research career. These projects have been both theory to observation based, making use of data sets spanning the X-ray to near infrared. The links below provide a brief summary of the projects I have played a major role in:
 
 <a href="https://tofflemire.github.io/other_research#wocs"> Studying the Membership and Binary Populations of Open Clusters </a>
 
