@@ -10,8 +10,8 @@
     url: "/photometry/"
   - title: "Time-Series Spectra of Pre-MS Binary Stars"
     url: "/spectroscopy/"
-  - title: "Hydrodynamic simulations of Binary Accretion"
-    url: "/research/"
+  - title: "Hydrodynamic Simulations of Binary Accretion"
+    url: "/sims/"
   - title: "Other Research"
     url: "/other_research/"
     
