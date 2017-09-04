@@ -23,10 +23,10 @@ permalink: "/research/"
 ## <a href='https://tofflemire.github.io/other_research/'>Other Research</a>
 I've been lucky to work on many different projects during my research career. These projects range from theory to observation, using data sets spanning the X-ray to near infrared. The links below provide a brief summary of each:
 
-Studying the Membership and Binary Populations of Open Clusters
+<a href="https://tofflemire.github.io/other_research#wocs"> Studying the Membership and Binary Populations of Open Clusters </a>
 
-X-ray Spectroscopy of Recurrnet Novae
+<a href="https://tofflemire.github.io/other_research#xspec"> X-ray Spectroscopy of Recurrnet Novae </a>
 
-Optical and Near-Infrared Photometry of Stellar Flares
+<a href="https://tofflemire.github.io/other_research#flares"> Optical and Near-Infrared Time-Series Photometry of Stellar Flares </a>
 
-Analysis of the Column Density Distribution of Simulated MHD Turbulence
+<a href="https://tofflemire.github.io/other_research#tsallis"> Analysis of the Column Density Distribution of Simulated MHD Turbulence </a>
