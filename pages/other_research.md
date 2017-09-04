@@ -13,6 +13,6 @@ permalink: "/other_research/"
 
 <a name='xspec'>X-ray Spectroscopy of Recurrnet Novae</a>
 
-<a name='flares'>Optical and Near-Infrared Photometry of Stellar Flares</a>
+<a name='flares'>Optical and Near-Infrared Time-Series Photometry of Stellar Flares</a>
 
 <a name='tsallis'>Analysis of the Column Density Distribution of Simulated MHD Turbulence</a>
