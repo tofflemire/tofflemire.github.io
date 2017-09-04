@@ -8,9 +8,9 @@ categories:
 permalink: "/research/"
 ---
 <hr>
-## Dissertaion Overview
+## Dissertation Overview
 
-
+My dissertation 
 
 #### <a href='https://tofflemire.github.io/photometry/'> Time-Series Photometry of Accreting Pre-MS Stars </a>
 
