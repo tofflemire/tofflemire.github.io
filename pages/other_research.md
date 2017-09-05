@@ -29,7 +29,9 @@ A follow-up paper is currently in preparation to present membership statuses for
 <br>
 #### X-ray Spectroscopy of Recurrnet Novae
 <img src="/local_files/TPyx.jpg" width="300" ALIGN="left" HSPACE="25" />
-For my Masters Thesis, I worked with Dr. Marina Orio studying the X-ray spectra of recurrent novae during outburst. 
+For my Masters Thesis, I worked with Dr. Marina Orio studying the X-ray spectra of recurrent novae during outburst. X-ray grating spectra from <i>Chandra</i> and <i>XMM-Newton</i> probe the hottest clumps of ejected material and 
+
+<a href='http://adsabs.harvard.edu/abs/2013ApJ...779...22T' target='blank'> A link to the peer-reviewed paper can be found here.</a>
 
 <hr>
 <a name='flares'> </a>
