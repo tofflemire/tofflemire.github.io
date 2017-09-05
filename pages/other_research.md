@@ -29,7 +29,7 @@ A follow-up paper is currently in preparation to present membership statuses for
 <br>
 #### X-ray Spectroscopy of Recurrnet Novae
 <img src="/local_files/TPyx.jpg" width="300" ALIGN="left" HSPACE="25" />
-For my Masters Thesis, I worked with Dr. Marina Orio studying the X-ray spectra of recurrent novae during outburst. X-ray grating spectra from <i>Chandra</i> and <i>XMM-Newton</i> are capable of probing the hottest clumps of ejected material and, once they become optically thin, the hot white dwarf (WD) atmosphere itself. With two observations during the decay of the 2011 outburst of T Pyxidis, we measured the declining temperature and luminosity of the white dwarf atmosphere. The figure to the left presents the modeled WD continuum and emission lines from ejected material from our two observations. We also used the He-like triplets of O VIII and N VI as nebluar diagnostics to measure the temperature and density of the ejected material. The high densities suggested the ejecta was clumpy in nature -- the ejected mass would be enormous if it were a constant-density shell. We also found the X-ray conintuum flux to be periodically varying at the orbital period suggesting temperature inhomogeneities on the WD surface. 
+For my Masters Thesis, I worked with Dr. Marina Orio studying the X-ray spectra of recurrent novae during outburst. X-ray grating spectra from <i>Chandra</i> and <i>XMM-Newton</i> are capable of probing the hottest clumps of ejected material and, once they become optically thin, the hot white dwarf (WD) atmosphere itself. With two observations during the decay of the 2011 outburst of T Pyxidis, we measured the declining temperature and luminosity of the white dwarf atmosphere. The figure to the left presents the modeled WD continuum and emission lines from ejected material from our two observations. We also used the He-like triplets of O VIII and N VI as nebluar diagnostics to measure the temperature and density of the ejected material. The high densities suggested the ejecta was clumpy in nature -- the ejected mass would be enormous if it were a constant-density shell. We also found the X-ray conintuum flux to vary periodically on the orbital period, suggesting temperature inhomogeneities on the WD surface. 
 
 <a href='http://adsabs.harvard.edu/abs/2013ApJ...779...22T' target='blank'> A link to the peer-reviewed paper can be found here.</a>
 
@@ -38,7 +38,13 @@ For my Masters Thesis, I worked with Dr. Marina Orio studying the X-ray spectra 
 <br>
 #### Optical and Near-Infrared Time-Series Photometry of Stellar Flares
 <img src="/local_files/flares.jpg" width="300" ALIGN="right" HSPACE="25" />
-This is where I talk about my undergraduate research
+As an undergrad at the University of Washington, I worked with Prof. John Wisniewski on a project at the intersection of stellar variability and exoplanet detection. The detection and characterization of exoplanets has many advantages in the infrared (IR): the star-planet brightness contast is reduced, planet emission peaks in the IR, and the emission from M dwarfs, whose habitable-zone, Earth-mass planets are most readily detectable with current capabilites, peaks in the IR. One caveat is that low-mass stars host a variety of stellar activity that can complicated the detection and characterization of exoplanets. Furthermore, the signature of these phenomena, known extensively in the optical, are not well characterized in the IR. 
+
+<a href='http://adsabs.harvard.edu/abs/2012AJ....143...12T' target='blank'> A link to the peer-reviewed paper can be found here.</a>
+
+Subsequent works in this field -- TRAPPIST-1
+
+(This work would not have been possible without the following people: John Wisniewski, Adam Kowalski, Suzanne Hawley, James Davenport, and Sarah Schimdt)
 
 <hr>
 <a name='tsallis'> </a>
