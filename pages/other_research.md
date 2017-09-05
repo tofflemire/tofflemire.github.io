@@ -54,4 +54,8 @@ While this null result is encouraging for future exoplanet characterization in t
 #### Analysis of the Column Density Distribution of Simulated MHD Turbulence
 <img src="/local_files/CD_subsonic.jpg" width="300" ALIGN="left" HSPACE="25" />
 <img src="/local_files/CD_supersonic.jpg" width="300" ALIGN="left" HSPACE="25" />
-This is where I talk about my REU
+Before starting graduate school at the University of Wisconsin, I spent a summer in Madison doing research as part of the NSF REU program. I worked with Prof. Alex Lazarian and then graduate student Blakesley Burkhart on a project to analyize the statistical properties of the column density distribution of simulated magnetohydrodynamic (MHD) turbulence. 
+
+The main motivation of our work was to find ways 
+
+<a href='http://adsabs.harvard.edu/abs/2011ApJ...736...60T' target='blank'> A link to the peer-reviewed paper can be found here.</a>
