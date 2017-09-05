@@ -32,8 +32,11 @@ For my Masters Thesis, I worked with Dr. Marina Orio studying the X-ray spectra 
 <hr>
 
 ##### <a name='flares'>Optical and Near-Infrared Time-Series Photometry of Stellar Flares</a>
-
+<img src="/local_files/flares.jpg" width="300" ALIGN="right" HSPACE="25" />
+This is where I talk about my undergraduate research
 <hr>
 
 ##### <a name='tsallis'>Analysis of the Column Density Distribution of Simulated MHD Turbulence</a>
-
+<img src="/local_files/CD_subsonic.jpg" width="300" ALIGN="left" HSPACE="25" />
+<img src="/local_files/CD_supersonic.jpg" width="300" ALIGN="left" HSPACE="25" />
+This is where I talk about my REU
