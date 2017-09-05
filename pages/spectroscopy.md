@@ -13,3 +13,6 @@ permalink: "/spectroscopy/"
 
 
 Conference proceedings can be found here.
+
+
+### HRS Reductions
