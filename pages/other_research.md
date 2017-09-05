@@ -37,10 +37,14 @@ For my Masters Thesis, I worked with Dr. Marina Orio studying the X-ray spectra 
 <a name='flares'> </a>
 <br>
 #### Optical and Near-Infrared Time-Series Photometry of Stellar Flares
-<img src="/local_files/flares.jpg" width="300" ALIGN="right" HSPACE="25" />
-As an undergrad at the University of Washington, I worked with Prof. John Wisniewski on a project at the intersection of stellar variability and exoplanet detection. The detection and characterization of exoplanets has many advantages in the infrared (IR): the star-planet brightness contast is reduced, planet emission peaks in the IR, and the emission from M dwarfs, whose habitable-zone, Earth-mass planets are most readily detectable with current capabilites, peaks in the IR. One caveat is that low-mass stars host a variety of stellar activity that can complicated the detection and characterization of exoplanets. Furthermore, the signature of these phenomena, known extensively in the optical, are not well characterized in the IR. 
+<img src="/local_files/flares.jpg" width="400" ALIGN="right" HSPACE="25" />
+As an undergrad at the University of Washington, I worked with Prof. John Wisniewski on a project at the intersection of stellar variability and exoplanet detection. The detection and characterization of exoplanets has many advantages in the infrared (IR): the star-planet brightness contast is reduced, planet emission peaks in the IR, and the emission from M dwarfs, whose habitable-zone, Earth-mass planets are most readily detectable with current capabilites, peaks in the IR. One caveat is that low-mass stars host a variety of stellar activity that can complicated the detection and characterization of exoplanets. Furthermore, the signatures of these phenomena, known extensively in the optical, are not well characterized in the IR. 
+
+To better understand the sources in stellar variability in the IR, our project searched for continuum variations in the near-IR associated with stellar flares. By monitoring a sample of known M dwarf flare stars, simultaneously in the near-IR and optical, where flares are easily detectable, we compared the broadband response across wavelength regimes. The figure to the left presents one night of observation in which we detected a flare in the optical. With no detectable increase in the IR, we placed upper limits on the IR repsonse based on the optical energy output. 
 
 <a href='http://adsabs.harvard.edu/abs/2012AJ....143...12T' target='blank'> A link to the peer-reviewed paper can be found here.</a>
+
+While this null result is a 
 
 Subsequent works in this field -- TRAPPIST-1
 
