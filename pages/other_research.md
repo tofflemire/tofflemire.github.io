@@ -23,18 +23,17 @@ A follow-up paper is currently in preparation to present membership statuses for
 
 (This work would not have been possible without the following people: Robert Mathieu, Natalie Gosnell, Emily Leiner, Katelyn Milliman, and Imants Platais)
 
-<br>
+<hr>
 
 ##### <a name='xspec'>X-ray Spectroscopy of Recurrnet Novae</a>
 <img src="/local_files/TPyx.jpg" width="300" ALIGN="left" HSPACE="25" />
 For my Masters Thesis, I worked with Dr. Marina Orio studying the X-ray spectra of recurrent novae during outburst. 
 
-<br>
+<hr>
 
 ##### <a name='flares'>Optical and Near-Infrared Time-Series Photometry of Stellar Flares</a>
 
-<br>
+<hr>
 
 ##### <a name='tsallis'>Analysis of the Column Density Distribution of Simulated MHD Turbulence</a>
 
-<hr>
