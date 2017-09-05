@@ -21,7 +21,7 @@ The left panel displays the accretion rate as a function of an arbitrarily label
 
 The right panel displays a scale schematic of TWA 3A's orbit as the two stars travel through their orbits. 
 
-Mass accretion rates are measured from a photometric excess in the Johnson U-band. Observations were made with the <a href='https://lco.global/' target="_blank">Las Cumbres Observatories Global Telescope 1m Network </a> . 
+Mass accretion rates are measured from a photometric excess in the Johnson U-band. Observations were made with the <a href='https://lco.global/' target="_blank">Las Cumbres Observatories Global Telescope 1m Network </a>. 
 
 A peer-reviewed article published in the Astrophysical Journal Letters on this result can be found <a href='https://arxiv.org/abs/1706.07073' target="_blank">here</a>.
 <hr>
@@ -37,7 +37,7 @@ The left panel displays the accretion rate as a function of an arbitrarily label
 
 The right panel displays a scale schematic of DQ Tau's orbit as the two stars travel through their orbits. 
 
-Mass accretion rates are measured from a photometric excess in the Johnson U-band. Observations were made with the <a href='https://lco.global/' target="_blank">Las Cumbres Observatories Global Telescope 1m Network </a> , the <a href='http://www.apo.nmsu.edu/Telescopes/ARCSAT/index.html' target="_blank">Apache Point Observatory's ARCSAT</a> telescope , and the <a href='https://www.noao.edu/0.9m/' target="_blank">WIYN 0.9m</a> telescope.
+Mass accretion rates are measured from a photometric excess in the Johnson U-band. Observations were made with the <a href='https://lco.global/' target="_blank">Las Cumbres Observatories Global Telescope 1m Network </a>, the <a href='http://www.apo.nmsu.edu/Telescopes/ARCSAT/index.html' target="_blank">Apache Point Observatory's ARCSAT</a> telescope , and the <a href='https://www.noao.edu/0.9m/' target="_blank">WIYN 0.9m</a> telescope.
 
 A peer-reviewed article published in the Astrophysical Journal on this result can be found <a href='https://arxiv.org/abs/1612.02431' target="_blank"> here</a>.
 <hr>
