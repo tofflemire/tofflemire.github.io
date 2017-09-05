@@ -56,6 +56,6 @@ While this null result is encouraging for future exoplanet characterization in t
 <img src="/local_files/CD_supersonic.jpg" width="300" ALIGN="left" HSPACE="25" />
 Before starting graduate school at the University of Wisconsin, I spent a summer in Madison doing research as part of the NSF REU program. I worked with Prof. Alex Lazarian and, then graduate student, Blakesley Burkhart on a project analyizing the column density distribution of simulated magnetohydrodynamic (MHD) turbulence. 
 
-The primary motivation of our work was to find a novel way of analyzing observable quantities of the interstellar medium (ISM), namely the projected column density, that reveal the level of turbulence and magnetic field strength. Turbulence and magnetic fields play a large role in the 
+The primary motivation of our work was to find a novel way of analyzing observable quantities of the interstellar medium (ISM), namely the projected column density, that reveal the level of turbulence and the magnetic field strength. Turbulence and magnetic fields play a large role in the evolution of the ISM and the formation of stars but they are notoriously hard to measure. By analyzing the spatial distribution of gas in simulations, where the turbulen mach number and magnetic field strength are known, we 
 
 <a href='http://adsabs.harvard.edu/abs/2011ApJ...736...60T' target='blank'> A link to the peer-reviewed paper can be found here.</a>
