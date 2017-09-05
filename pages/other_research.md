@@ -44,9 +44,7 @@ To better understand the sources in stellar variability in the IR, our project s
 
 <a href='http://adsabs.harvard.edu/abs/2012AJ....143...12T' target='blank'> A link to the peer-reviewed paper can be found here.</a>
 
-While this null result is a 
-
-Subsequent works in this field -- TRAPPIST-1
+While this null result is encouraging for future exoplanet characterization in the IR, the picture has become more unclear since our 2012 paper. More broadband continuum flare have been reported in the near and mid-IR, most notably in the <i>Spitzer</i> lightcurve of the multi-planet hosting M dwarf, TRAPPIST-1. Based on our upper limits above, these would correspond to enourmous events in the optical, unlike those typically observed. This suggests the existence of IR emission mechanisms that are not included on the current models stellar flare emission. 
 
 (This work would not have been possible without the following people: John Wisniewski, Adam Kowalski, Suzanne Hawley, James Davenport, and Sarah Schimdt)
 
