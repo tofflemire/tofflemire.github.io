@@ -10,8 +10,8 @@ permalink: "/sims/"
 
 ## AREPO
 
-<video src="movie_e05.mp4" poster="poster.jpg" width="320" height="200" controls preload></video>
+<video src="movie_e05.mp4" width="320" height="200" controls preload></video>
 
-test
+test no poster
 
 
