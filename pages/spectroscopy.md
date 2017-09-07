@@ -18,6 +18,6 @@ permalink: "/spectroscopy/"
 
 <img src="/local_files/TWA_HeI.png" width="300" ALIGN="left">
 
-Conference proceedings can be found here.
+Conference proceedings can be found <a href='/local_files/tofflemire_sfst.pdf' target='blank'>here</a>.
 
 ### HRS Reductions
