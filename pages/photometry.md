@@ -9,9 +9,10 @@ permalink: "/photometry/"
 ---
 <hr>
 
-<a href='https://tofflemire.github.io/research/'>(A more broad overview of my thesis can be found here.)</a>
+<a href='https://tofflemire.github.io/research/'>(A more general overview of my thesis can be found here.)</a>
 
 ### LCOGT: Survey of Accretion Variability in Pre-MS Binaries
+<a href=''https://lco.global/' target='blank'><img src="/local_files/LCO-logo-web.jpg" width="300" ALIGN="left" HSPACE="25" /></a>
 
 ### SMARTS: 
 
