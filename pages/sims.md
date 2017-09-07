@@ -7,7 +7,11 @@ teaser: ""
 categories:
 permalink: "/sims/"
 ---
-<video controls autoplay>
+
+## AREPO
+<video width="320" height="240" controls>
   <source src="movie_e0.5.mp4" type="video/mp4">
+  <source src="movie_e0.5.ogg" type="video/ogg">
   Your browser does not support the video tag.
 </video>
+
