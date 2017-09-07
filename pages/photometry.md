@@ -13,7 +13,7 @@ permalink: "/photometry/"
 
 ### LCOGT: Survey of Accretion Variability in Pre-MS Binaries
 <a href=''https://lco.global/' target='blank'>
-  <img src="/local_files/LCO-logo-web.jpg" width="300" ALIGN="left"/>
+  <img src="/local_files/LCO-logo-web.jpg" width="300" ALIGN="left">
 </a>
 
 ### SMARTS: 
