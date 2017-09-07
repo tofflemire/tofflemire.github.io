@@ -7,24 +7,11 @@ teaser: ""
 categories:
 permalink: "/other_research/"
 ---
-<!--more-->
-
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1">
-<div class="panel radius" markdown="1">
-**Table of Contents**
-{: #toc }
-*  TOC
-{:toc}
-</div>
-</div><!-- /.medium-4.columns -->
-
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-
 <hr>
 <a name='wocs'> </a>
 <br>
 #### Studying the Membership and Binary Populations of Open Clusters
+
 <img src="/local_files/NGC6791_CMD.jpg" width="300" ALIGN="right" HSPACE="25" />
 As part of the WIYN Open Cluster Study (WOCS), I help continue a decades long radial-velocity (RV) survey of open clusters. With the WIYN/Hydra multi-object spectrograph, we obtain multi-epoch, high-precision (0.4 km/s) RV measurements that are used to determine cluster membership and to characterize the population of spectrscopic binaries. 
 
@@ -42,6 +29,7 @@ A follow-up paper is currently in preparation to present membership statuses for
 <a name='xspec'> </a>
 <br>
 #### X-ray Spectroscopy of Recurrnet Novae
+
 <img src="/local_files/TPyx.jpg" width="300" ALIGN="left" HSPACE="25" />
 For my Masters Thesis, I worked with Dr. Marina Orio studying the X-ray spectra of recurrent novae during outburst. X-ray grating spectra from <i>Chandra</i> and <i>XMM-Newton</i> are capable of probing the hottest clumps of ejected material and, once they become optically thin, the hot white dwarf (WD) atmosphere itself. With two observations during the decay of the 2011 outburst of T Pyxidis, we measured the declining temperature and luminosity of the white dwarf atmosphere. The figure to the left presents the modeled WD continuum and emission lines from ejected material from our two observations. We also used the He-like triplets of O VIII and N VI as nebluar diagnostics to measure the temperature and density of the ejected material. The high densities suggested the ejecta was clumpy in nature -- the ejected mass would be enormous if it were a constant-density shell. We also found the X-ray conintuum flux to vary periodically on the orbital period, suggesting temperature inhomogeneities on the WD surface. 
 
@@ -51,6 +39,7 @@ For my Masters Thesis, I worked with Dr. Marina Orio studying the X-ray spectra 
 <a name='flares'> </a>
 <br>
 #### Optical and Near-Infrared Time-Series Photometry of Stellar Flares
+
 <img src="/local_files/flares.jpg" width="400" ALIGN="right" HSPACE="25" />
 As an undergrad at the University of Washington, I worked with Prof. John Wisniewski on a project at the intersection of stellar variability and exoplanet detection. The detection and characterization of exoplanets has many advantages in the infrared (IR): the star-planet brightness contast is reduced, planet emission peaks in the IR, and the emission from M dwarfs, whose habitable-zone, Earth-mass planets are most readily detectable with current capabilites, peaks in the IR. One caveat is that low-mass stars host a variety of stellar activity that can complicated the detection and characterization of exoplanets. Furthermore, the signatures of these phenomena, known extensively in the optical, are not well characterized in the IR. 
 
@@ -66,6 +55,7 @@ While this null result is encouraging for future exoplanet characterization in t
 <a name='tsallis'> </a>
 <br>
 #### Analysis of the Column Density Distribution of Simulated MHD Turbulence
+
 <img src="/local_files/CD_subsonic.jpg" width="300" ALIGN="left" HSPACE="25" />
 <img src="/local_files/CD_supersonic.jpg" width="300" ALIGN="left" HSPACE="25" />
 Before starting graduate school at the University of Wisconsin, I spent a summer in Madison doing research as part of the NSF REU program. I worked with Prof. Alex Lazarian and, then graduate student, Blakesley Burkhart on a project analyizing the column density distribution of simulated magnetohydrodynamic (MHD) turbulence. 
