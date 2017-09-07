@@ -37,7 +37,7 @@ A little bit about <a href='http://www.apo.nmsu.edu/Telescopes/ARCSAT/index.html
 
 #### TWA 3A
 
-<img src="/local_files/TWA_Mdot_AveComp_FINAL.pdf" width="300" ALIGN="left">
+<img src="/local_files/TWA_Mdot_AveComp_FINAL.png" width="300" ALIGN="left">
 
 ### Ongoing Work
 
