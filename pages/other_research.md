@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 title: "Other Research"
 subheadline: ""
 meta_teaser: ""
