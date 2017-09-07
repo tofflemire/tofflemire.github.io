@@ -7,6 +7,18 @@ teaser: ""
 categories:
 permalink: "/other_research/"
 ---
+<!--more-->
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
 <hr>
 <a name='wocs'> </a>
 <br>
