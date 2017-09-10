@@ -10,7 +10,7 @@ permalink: "/photometry/"
 <a href='https://tofflemire.github.io/research/'>(A more general overview of my thesis can be found here.)</a>
 <hr>
 
-### Motivation
+## Motivation
 Numerical simulations of the binary-disk interaction predict that the accretion rate onto the stellar surface(s) will be modulated by the binary orbital period. Orbital dynamics influence the flows of circumbinary and circumstellar material that, depending on the binary orbital parameters, can lead to periodic enhanced accretion events. The animation below is a simulation of the binary-disk interaction for an equal-mass binary with an eccentricity of 0.5. The simulation comes <a href='http://adsabs.harvard.edu/abs/2016ApJ...827...43M' target='blank'>Munoz & Lai 2016</a>. The color scheme present the logarithmic surface density with high densities in while and low densities in black. 
 
 <video src="/local_files/movie_e05.mp4" width="400" height="400" ALIGN="left" controls preload></video>
@@ -23,24 +23,24 @@ In a simplistic summary, the binary orbit clears out a central gap creating a ci
 
 The predicted time-variable accretion is most extreme for eccentric, equal-mass binaries. The specific phase, duration, and amplitude of periodic enhanced accretion events depend sensitively on the binary orbital parameters. If the behavior depicted by these models are accurate, they carry many implications for the formation of stars and planets in the binary environment. However, conclusive observational evidence for this binary accretion paradigm has yet to be made.
 
-### Survey of Accretion Variability in Pre-MS Binaries
+## Survey of Accretion Variability in Pre-MS Binaries
 
 To test the predictions of the binary-disk interaction, we have conducted a long-term photometric monitoring campaign capable of tracing the time-variable accretion behavior of short-period, pre-MS binaries. We have compiled a sample of nine shirt-period binaries with diverse orbital parameters allowing us to not only search for evidence of periodic enhanced accretion events but also test their orbital parameter dependence. 
 
-#### LCO
+### LCO
 <a href='https://lco.global/' target='blank'>
   <img src="/local_files/LCO-logo-web.jpg" width="200" ALIGN="left">
 </a>
 
 
-#### SMARTS
+### SMARTS
 <a href='http://www.astro.yale.edu/smarts/' target='blank'>
   <img src="/local_files/smarts.jpg" width="200" ALIGN="right">
 </a>
 
-### Early Results
+## Early Results
 
-#### DQ Tau
+### DQ Tau
 
 A little bit about <a href='http://www.apo.nmsu.edu/Telescopes/ARCSAT/index.html' target='blank'>ARCSAT</a> and the <a href='https://www.noao.edu/0.9m/' target='blank'>WIYN 0.9m</a> telescopes.
 
@@ -48,9 +48,9 @@ A little bit about <a href='http://www.apo.nmsu.edu/Telescopes/ARCSAT/index.html
 <img src="/local_files/DQ_CMD.jpg" width="300" ALIGN="left">
 <img src="/local_files/DQ_Model.jpg" width="300" ALIGN="left">
 
-#### TWA 3A
+### TWA 3A
 
 <img src="/local_files/TWA_Mdot_AveComp_FINAL.png" width="300" ALIGN="left">
 
-### Ongoing Work
+## Ongoing Work
 
