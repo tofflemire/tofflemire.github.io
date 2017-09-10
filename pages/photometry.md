@@ -42,10 +42,10 @@ With our observations now complete, we have focused on the eccentric binaries in
 ### DQ Tau
 DQ Tau is an equal-mass, pre-MS binary with an eccentricity of 0.57 and an orbital period of 15.8 days.
 
-<img src="/local_files/DQ_Mdot.png" width="300" ALIGN="right" HSPACE="25" />
+<img src="/local_files/DQ_Mdot.png" width="400" ALIGN="right" HSPACE="25" />
 The figure to the right presents the mass accretion rate as a function of orbital cycle. The mass accretion rate is derived from LCO <i>U</i>-band observations. The vertical dashed lines mark periastron passages. Although there is a significant amount of variation from one orbit to the next, we find consistent accretion events near periastron passages, just as the models above predict. A fourier analysis of these data find periodicity in the accretion rate matching the oribtal period. 
 
-<img src="/local_files/DQ_Model.jpg" width="300" ALIGN="left" HSPACE="25" />
+<img src="/local_files/DQ_Model.jpg" width="400" ALIGN="left" HSPACE="25" />
 To more readily compare our observations to the results of numerical simulations, we have derived the median accretion rate as a function of orbital phase. The figure on the left presents DQ Tau's median accretion rate in blue and the results on the <a href='http://adsabs.harvard.edu/abs/2016ApJ...827...43M' target='blank'>Munoz & Lai 2016</a> simulation in red. Good agreement exists in that both are periodic and have similar average durations, providing strong evidence for accretion stream-fed accretion events.
 
 The differences between the two, most notably the phase shift in the observed accretion events and large amount of variability observed, point to limitation with current modeling efforts. We believe the main source of discrepancy between the models and observations of DQ Tau has to due with the impact stellar magnetic fields have on accretion flows. (No model of binary accretion currently includes stellar magentic fields.) 
@@ -65,9 +65,9 @@ An animation of DQ Tau's accretion rate as the stars move through their orbit ca
 ### TWA 3A
 TWA 3A is a near-equal-mass (q=0.84), pre-MS binary with an eccentricity of 0.63 and an orbital period of 34.9 days.
 
-<img src="/local_files/TWA_3A_LC.png" width="300" ALIGN="right" HSPACE="25" />
+<img src="/local_files/TWA_3A_LC.png" width="700" ALIGN="right" HSPACE="25" />
 
-<img src="/local_files/TWA_Mdot_AveComp_FINAL.png" width="300" ALIGN="left" HSPACE="25" />
+<img src="/local_files/TWA_Mdot_AveComp_FINAL.png" width="400" ALIGN="left" HSPACE="25" />
 
 
 An animation of TWA 3A's accretion rate as the stars move through their orbit can be found <a href='https://tofflemire.github.io/animations/'>here</a>.
