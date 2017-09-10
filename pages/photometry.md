@@ -30,12 +30,9 @@ To test the predictions of the binary-disk interaction, we have conducted a long
 With the Las Cumbres Observatory (<a href='https://lco.global/' target='blank'>LCO</a>) global telescope network, we are able to observe our binaries at candences and over time periods that previously could not have been done from a single observing site. For each binary we created a custom observing program that provided 20 observations per orbit for 10 consecuative orbital periods. Our observations were taken in broadband <i> UBVRIY </i> and narrowband H-alpha and H-beta filters. Most crutial for our work is the inclusion of <i>U</i>-band which can be used to determine the accretion rate. 
 # <a href='https://lco.global/' target='blank'> <img src="/local_files/LCO-logo-web.jpg" width="200" ALIGN="left"> </a>
 
-At the same time, we had queue scheduled observations with the <a href='http://www.astro.yale.edu/smarts/' target='blank'>SMARTS</a> 1.3m telescope taking <i>BV</i> and <i>JK</i> images for a 
+At the same time, we had queue scheduled observations with the <a href='http://www.astro.yale.edu/smarts/' target='blank'>SMARTS</a> 1.3m telescope taking <i>BV</i> and <i>JK</i> images for a subset of our binary sample. The optical data provide an indirect measure of the accretion luminosity while the near-infrared trace the amount and temperature of circumstellar dust. 
 
-### SMARTS
-<a href='http://www.astro.yale.edu/smarts/' target='blank'>
-  <img src="/local_files/smarts.jpg" width="200" ALIGN="right">
-</a>
+# <a href='http://www.astro.yale.edu/smarts/' target='blank'> <img src="/local_files/smarts.jpg" width="200" ALIGN="right"> </a>
 
 ## Early Results
 
