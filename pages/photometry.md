@@ -36,6 +36,8 @@ At the same time, we had queue scheduled observations with the <a href='http://w
 
 ## Early Results
 
+With our observations now complete, we have focused on the eccentric binaries in our sample DQ Tau and TWA 3A, where the level of accretion variability is predicted to be highest. 
+
 ### DQ Tau
 
 A little bit about <a href='http://www.apo.nmsu.edu/Telescopes/ARCSAT/index.html' target='blank'>ARCSAT</a> and the <a href='https://www.noao.edu/0.9m/' target='blank'>WIYN 0.9m</a> telescopes.
