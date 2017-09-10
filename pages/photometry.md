@@ -42,7 +42,7 @@ With our observations now complete, we have focused on the eccentric binaries in
 ### DQ Tau
 DQ Tau is an equal-mass, pre-MS binary with an eccentricity of 0.57 and an orbital period of 15.8 days.
 
-<img src="/local_files/DQ_Mdot.jpg" width="300" ALIGN="right" HSPACE="25" />
+<img src="/local_files/DQ_Mdot.png" width="300" ALIGN="right" HSPACE="25" />
 The figure to the right presents the mass accretion rate as a function of orbital cycle. The mass accretion rate is derived from LCO <i>U</i>-band observations. The vertical dashed lines mark periastron passages. Although there is a significant amount of variation from one orbit to the next, we find consistent accretion events near periastron passages, just as the models above predict. A fourier analysis of these data find periodicity in the accretion rate matching the oribtal period. 
 
 <img src="/local_files/DQ_Model.jpg" width="300" ALIGN="left" HSPACE="25" />
