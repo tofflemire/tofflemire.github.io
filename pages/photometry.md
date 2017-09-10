@@ -43,7 +43,7 @@ With our observations now complete, we have focused on the eccentric binaries in
 DQ Tau is an equal-mass, pre-MS binary with an eccentricity of 0.57 and an orbital period of 15.8 days.
 
 <img src="/local_files/DQ_Mdot.png" width="400" ALIGN="right" HSPACE="25" />
-The figure to the right presents the mass accretion rate as a function of orbital cycle. The mass accretion rate is derived from LCO <i>U</i>-band observations. The vertical dashed lines mark periastron passages. Although there is a significant amount of variation from one orbit to the next, we find consistent accretion events near periastron passages, just as the models above predict. A fourier analysis of these data find periodicity in the accretion rate matching the oribtal period. 
+The figure to the right presents the mass accretion rate as a function of orbital cycle. The mass accretion rate is derived from LCO <i>U</i>-band observations (additional high cadence observations were made with the APO <a href='http://www.apo.nmsu.edu/Telescopes/ARCSAT/index.html' target='blank'>ARCSAT</a> and <a href='https://www.noao.edu/0.9m/' target='blank'>WIYN 0.9m</a> telescopes). The vertical dashed lines mark periastron passages. Although there is a significant amount of variation from one orbit to the next, we find consistent accretion events near periastron passages, just as the models above predict. A fourier analysis of these data find periodicity in the accretion rate matching the oribtal period. 
 
 <img src="/local_files/DQ_Model.jpg" width="400" ALIGN="left" HSPACE="25" />
 To more readily compare our observations to the results of numerical simulations, we have derived the median accretion rate as a function of orbital phase. The figure on the left presents DQ Tau's median accretion rate in blue and the results on the <a href='http://adsabs.harvard.edu/abs/2016ApJ...827...43M' target='blank'>Munoz & Lai 2016</a> simulation in red. Good agreement exists in that both are periodic and have similar average durations, providing strong evidence for accretion stream-fed accretion events.
@@ -54,8 +54,6 @@ Low mass stars have strong magentic fields that are capable of distrupting disk 
 
 We are currently investigating the role circumstellar disks play on the timing and variability of binary, pulsed accretion events in collabotation with Diego Munoz. More about that project be found <a href='https://tofflemire.github.io/sims/'>here</a>.
 
-<!-- A little bit about <a href='http://www.apo.nmsu.edu/Telescopes/ARCSAT/index.html' target='blank'>ARCSAT</a> and the <a href='https://www.noao.edu/0.9m/' target='blank'>WIYN 0.9m</a> telescopes. -->
-
 <!-- <img src="/local_files/DQ_CMD.jpg" width="300" ALIGN="left"> --> 
 
 <a href='http://adsabs.harvard.edu/abs/2017ApJ...835....8T' target='blank'> A link to the peer-reviewed paper on DQ Tau can be found here.</a>
@@ -65,6 +63,7 @@ An animation of DQ Tau's accretion rate as the stars move through their orbit ca
 ### TWA 3A
 TWA 3A is a near-equal-mass (q=0.84), pre-MS binary with an eccentricity of 0.63 and an orbital period of 34.9 days.
 
+The figure below presents a subset of our 
 <img src="/local_files/TWA_3A_LC.png" width="700" ALIGN="right" HSPACE="25" />
 
 <img src="/local_files/TWA_Mdot_AveComp_FINAL.png" width="400" ALIGN="left" HSPACE="25" />
