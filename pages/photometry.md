@@ -40,6 +40,7 @@ At the same time, we had queue scheduled observations with the <a href='http://w
 With our observations now complete, we have focused on the eccentric binaries in our sample DQ Tau and TWA 3A, where the level of accretion variability is predicted to be highest. 
 
 ### DQ Tau
+DQ Tau is an equal-mass, pre-MS binary with an eccentricity of 0.57. 
 
 <img src="/local_files/DQ_Mdot.jpg" width="300" ALIGN="right" HSPACE="25" />
 The figure to the right presents the mass accretion rate as a function of orbital cycle. The mass accretion rate is derived from LCO <i>U</i>-band observations. The vertical dashed lines mark periastron passages. Although there is a significant amount of variation from one orbit to the next, we find consistent accretion events near periastron passages, just as the models above predict. A fourier analysis of these data find periodicity in the accretion rate matching the oribtal period. 
@@ -47,19 +48,19 @@ The figure to the right presents the mass accretion rate as a function of orbita
 <img src="/local_files/DQ_Model.jpg" width="300" ALIGN="left" HSPACE="25" />
 To more readily compare our observations to the results of numerical simulations, we have derived the median accretion rate as a function of orbital phase. The figure on the left presents DQ Tau's median accretion rate in blue and the results on the <a href='http://adsabs.harvard.edu/abs/2016ApJ...827...43M' target='blank'>Munoz & Lai 2016</a> simulation in red. Good agreement exists in that both are periodic and have similar average durations, providing strong evidence for accretion stream-fed accretion events.
 
-The differences between the two, most notably the phase shift in the observed accretion events and large amount of variability observed, point to limitation with current modeling efforts. We believe the main source of discrepancy between the models and observations of DQ Tau has to due with the impact stellar magnetic fields have on accretion flows. (No model of binary accretion includes stellar magentic fields.) 
+The differences between the two, most notably the phase shift in the observed accretion events and large amount of variability observed, point to limitation with current modeling efforts. We believe the main source of discrepancy between the models and observations of DQ Tau has to due with the impact stellar magnetic fields have on accretion flows. (No model of binary accretion currently includes stellar magentic fields.) 
 
-Low mass stars have strong magentic fields that are capable of distrupting disk material near the stellar surface. Single stars are typically assumed to have a magnetically dominated region within ~5 stellar radii where magnetic fields confine accretion flows, funneling them onto the star at magnetic footpoints. 
+Low mass stars have strong magentic fields that are capable of distrupting disk material near the stellar surface. Single stars are typically assumed to have a magnetically dominated region within ~5 stellar radii where magnetic fields confine accretion flows, funneling them onto the star at magnetic footpoints. The orbit of DQ Tau brings the two stars to within ~12 stellar radii of eachother, making it unlikely that each star is able to host a circumstellar disk like the models suggest. Without circumstellar disks (i.e. without a reserviour of material near each star), accretion events become sensitive to the timing at which circumbinary accretion streams supply material to the central stars, delaying accretion events as compared to models. While these models may not be a great match to DQ Tau, they are likely to be more representative of wider binaries where stable circumstellar disks are more likely. 
 
-
-
-An animation of DQ Tau's accretion rate as the stars move through their orbit can be found <a href='https://tofflemire.github.io/animations/'>here</a>.
+We are currently investigating the role circumstellar disks play on the timing and variability of binary, pulsed accretion events in collabotation with Diego Munoz. More about that project be found <a href='https://tofflemire.github.io/sims/' here</a>.
 
 <!-- A little bit about <a href='http://www.apo.nmsu.edu/Telescopes/ARCSAT/index.html' target='blank'>ARCSAT</a> and the <a href='https://www.noao.edu/0.9m/' target='blank'>WIYN 0.9m</a> telescopes. -->
 
 <!-- <img src="/local_files/DQ_CMD.jpg" width="300" ALIGN="left"> --> 
 
 <a href='http://adsabs.harvard.edu/abs/2017ApJ...835....8T' target='blank'> A link to the peer-reviewed paper on DQ Tau can be found here.</a>
+
+An animation of DQ Tau's accretion rate as the stars move through their orbit can be found <a href='https://tofflemire.github.io/animations/'>here</a>.
 
 ### TWA 3A
 
