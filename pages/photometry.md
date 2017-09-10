@@ -37,7 +37,7 @@ At the same time, we had queue scheduled observations with the <a href='http://w
 
 ## Early Results
 
-With our observations now complete, we have focused on the eccentric binaries in our sample DQ Tau and TWA 3A, where the level of accretion variability is predicted to be highest. 
+With our observations now complete, we have focused on the eccentric binaries in our sample, DQ Tau and TWA 3A, where the level of accretion variability is predicted to be highest. 
 
 ### DQ Tau
 DQ Tau is an equal-mass, pre-MS binary with an eccentricity of 0.57 and an orbital period of 15.8 days.
