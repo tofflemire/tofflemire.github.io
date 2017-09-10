@@ -13,7 +13,7 @@ permalink: "/photometry/"
 Numerical simulations of the binary-disk interaction predict that the accretion rate onto the stellar surface(s) will be modulated by the binary orbital period. Orbital dynamics influence the flows of circumbinary and circumstellar material that, depending on the binary orbital parameters, can lead to periodic enhanced accretion events. The animation below is a simulation of the binary-disk interaction for an equal-mass binary with an eccentricity of 0.5. The simulation comes <a href='http://adsabs.harvard.edu/abs/2016ApJ...827...43M' target='blank'>Munoz & Lai 2016</a>. The color scheme present the logarithmic surface density with high densities in while and low densities in black. 
 
 <video src="/local_files/movie_e05.mp4" width="400" height="400" ALIGN="left" controls preload></video>
-In a simplistic summary, the binary orbit clears out a central gap creating a circumbinary disk and a circumstellar disk around each star. As this eccentric binary goes through its orbit, apastron passage (furthest separation of the two stars) 
+In a simplistic summary, the binary orbit clears out a central gap creating a circumbinary disk and a circumstellar disk around each star. As this eccentric binary goes through its orbit, apastron passage (furthest separation of the two stars) induces a stream of material, made from the inner edge of the circumbinary disk, that brings material into the cleared gap that feed the circum stellar disks. The figure below is the mass accretion rate from 
 
 Here is the time-dependent accretion rate from the model above. 
 
