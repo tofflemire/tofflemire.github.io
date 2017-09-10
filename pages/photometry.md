@@ -7,9 +7,10 @@ teaser: ""
 categories:
 permalink: "/photometry/"
 ---
+<a href='https://tofflemire.github.io/research/'>(A more general overview of my thesis can be found here.)</a>
 <hr>
 
-<a href='https://tofflemire.github.io/research/'>(A more general overview of my thesis can be found here.)</a>
+Numerical simulations of the binary-disk interaction predict that the accretion rate onto the stellar surface(s) will be modulated by the orbital period. 
 
 <img src="/local_files/ML2016_Mdot.jpg" width="300" ALIGN="left">
 
