@@ -10,11 +10,11 @@ permalink: "/photometry/"
 <a href='https://tofflemire.github.io/research/'>(A more general overview of my thesis can be found here.)</a>
 <hr>
 
-Numerical simulations of the binary-disk interaction predict that the accretion rate onto the stellar surface(s) will be modulated by the binary orbital period. Orbital dynamics influence the flows of circumbinary and circumstellar material that, depending on the binary orbital parameters, can lead to periodic enhanced accretion events. The simulation below 
+Numerical simulations of the binary-disk interaction predict that the accretion rate onto the stellar surface(s) will be modulated by the binary orbital period. Orbital dynamics influence the flows of circumbinary and circumstellar material that, depending on the binary orbital parameters, can lead to periodic enhanced accretion events. The animation below is a simulation of the binary-disk interaction for an equal-mass binary with an eccentricity of 0.5. The simulation comes <a href='http://adsabs.harvard.edu/abs/2016ApJ...827...43M' target='blank'>Munoz & Lai 2016</a>. 
 
-<video src="/local_files/movie_e05.mp4" width="400" height="400" ALIGN="center" controls preload></video>
+<video src="/local_files/movie_e05.mp4" width="400" height="400" ALIGN="middle" controls preload></video>
 
-Here is the time-dependent accretion rate from the model above. 
+In a simplistic summary of the binary-disk interaction, Here is the time-dependent accretion rate from the model above. 
 
 <img src="/local_files/ML2016_Mdot.jpg" width="300" ALIGN="left">
 
@@ -23,8 +23,6 @@ Here is the time-dependent accretion rate from the model above.
 <a href='https://lco.global/' target='blank'>
   <img src="/local_files/LCO-logo-web.jpg" width="300" ALIGN="left">
 </a>
-
-### SMARTS: 
 
 <a href='http://www.astro.yale.edu/smarts/' target='blank'>
   <img src="/local_files/smarts.jpg" width="300" ALIGN="left">
