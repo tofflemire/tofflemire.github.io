@@ -20,13 +20,11 @@ In a simplistic summary, the binary orbit clears out a central gap creating a ci
   <img src="/local_files/ML2016_Mdot.jpg" width="700" ALIGN="left">
 </a>
 
-The predicted time-variable accretion is most extreme for eccentric, equal-mass binaries. The specific phase, duration, and amplitude of periodic enhanced accretion events depend sensitively on the binary orbital parameters. 
-
-<br>
+The predicted time-variable accretion is most extreme for eccentric, equal-mass binaries. The specific phase, duration, and amplitude of periodic enhanced accretion events depend sensitively on the binary orbital parameters. If the behavior depicted by these models are accurate, they carry many implications for the formation of stars and planets in the binary environment. However, conclusive observational evidence for this binary accretion paradigm has yet to be made.
 
 ### Survey of Accretion Variability in Pre-MS Binaries: LCO and SMARTS
 
-The interaction between binary stars and their disk material is fundamentally different than single stars and carries with it implications for the formation of stars and planets in the binary enviroment. 
+To test the predictions of the binary-disk interaction, we have conducted a long-term photometric monitoring campaign capable of tracing the time-variable accretion behavior of short-period, pre-MS binaries. 
 
 <a href='https://lco.global/' target='blank'>
   <img src="/local_files/LCO-logo-web.jpg" width="300" ALIGN="left">
