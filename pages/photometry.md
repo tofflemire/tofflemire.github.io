@@ -49,9 +49,13 @@ A little bit about <a href='http://www.apo.nmsu.edu/Telescopes/ARCSAT/index.html
 <!-- <img src="/local_files/DQ_CMD.jpg" width="300" ALIGN="left"> --> 
 <img src="/local_files/DQ_Model.jpg" width="300" ALIGN="left">
 
+<a href='http://adsabs.harvard.edu/abs/2017ApJ...835....8T' target='blank'> A link to the peer-reviewed paper on DQ Tau can be found here.</a>
+
 ### TWA 3A
 
 <img src="/local_files/TWA_Mdot_AveComp_FINAL.png" width="300" ALIGN="left">
+
+<a href='http://adsabs.harvard.edu/abs/2017ApJ...842L..12T' target='blank'> A link to the peer-reviewed paper on TWA 3A can be found here.</a>
 
 ## Ongoing Work
 
