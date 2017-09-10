@@ -47,7 +47,9 @@ The figure to the right presents the mass accretion rate as a function of orbita
 <img src="/local_files/DQ_Model.jpg" width="300" ALIGN="left" HSPACE="25" />
 To more readily compare our observations to the results of numerical simulations, we have derived the median accretion rate as a function of orbital phase. The figure on the left presents DQ Tau's median accretion rate in blue and the results on the <a href='http://adsabs.harvard.edu/abs/2016ApJ...827...43M' target='blank'>Munoz & Lai 2016</a> simulation in red. Good agreement exists in that both are periodic and have similar average durations, providing strong evidence for accretion stream-fed accretion events.
 
-The differences between the two, most notably the phase shift in the observed accretion events and large amount of variability observed point to limitation with the current modeling effort. The main source 
+The differences between the two, most notably the phase shift in the observed accretion events and large amount of variability observed, point to limitation with current modeling efforts. We believe the main source of discrepancy between the models and observations of DQ Tau has to due with the impact stellar magnetic fields have on accretion flows. (No model of binary accretion includes stellar magentic fields.) 
+
+Low mass stars have strong magentic fields that are capable of distrupting disk material near the stellar surface. Single stars are typically assumed to have a magnetically dominated region within ~5 stellar radii where magnetic fields confine accretion flows, funneling them onto the star at magnetic footpoints. 
 
 
 
