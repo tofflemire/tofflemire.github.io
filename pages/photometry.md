@@ -18,10 +18,11 @@ In a simplistic summary, the binary orbit clears out a central gap creating a ci
 <a href='http://adsabs.harvard.edu/abs/2016ApJ...827...43M' target='blank'>
   <img src="/local_files/ML2016_Mdot.jpg" width="500" ALIGN="left">
 </a>
+<br>
 
-### Survey of Accretion Variability in Pre-MS Binaries: LCOGT and SMARTS
+### Survey of Accretion Variability in Pre-MS Binaries: LCO and SMARTS
 
-This interaction between binary stars and their disk material is fundamentally different than single stars and carries with it implications for the formation of stars and planets in the binary enviroment. 
+The interaction between binary stars and their disk material is fundamentally different than single stars and carries with it implications for the formation of stars and planets in the binary enviroment. 
 
 <a href='https://lco.global/' target='blank'>
   <img src="/local_files/LCO-logo-web.jpg" width="300" ALIGN="left">
