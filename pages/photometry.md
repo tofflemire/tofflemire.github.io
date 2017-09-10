@@ -40,7 +40,7 @@ At the same time, we had queue scheduled observations with the <a href='http://w
 With our observations now complete, we have focused on the eccentric binaries in our sample DQ Tau and TWA 3A, where the level of accretion variability is predicted to be highest. 
 
 ### DQ Tau
-DQ Tau is an equal-mass, pre-MS binary with an eccentricity of 0.57. 
+DQ Tau is an equal-mass, pre-MS binary with an eccentricity of 0.57 and an orbital period of 15.8 days.
 
 <img src="/local_files/DQ_Mdot.jpg" width="300" ALIGN="right" HSPACE="25" />
 The figure to the right presents the mass accretion rate as a function of orbital cycle. The mass accretion rate is derived from LCO <i>U</i>-band observations. The vertical dashed lines mark periastron passages. Although there is a significant amount of variation from one orbit to the next, we find consistent accretion events near periastron passages, just as the models above predict. A fourier analysis of these data find periodicity in the accretion rate matching the oribtal period. 
@@ -52,7 +52,7 @@ The differences between the two, most notably the phase shift in the observed ac
 
 Low mass stars have strong magentic fields that are capable of distrupting disk material near the stellar surface. Single stars are typically assumed to have a magnetically dominated region within ~5 stellar radii where magnetic fields confine accretion flows, funneling them onto the star at magnetic footpoints. The orbit of DQ Tau brings the two stars to within ~12 stellar radii of eachother, making it unlikely that each star is able to host a circumstellar disk like the models suggest. Without circumstellar disks (i.e. without a reserviour of material near each star), accretion events become sensitive to the timing at which circumbinary accretion streams supply material to the central stars, delaying accretion events as compared to models. While these models may not be a great match to DQ Tau, they are likely to be more representative of wider binaries where stable circumstellar disks are more likely. 
 
-We are currently investigating the role circumstellar disks play on the timing and variability of binary, pulsed accretion events in collabotation with Diego Munoz. More about that project be found <a href='https://tofflemire.github.io/sims/' here</a>.
+We are currently investigating the role circumstellar disks play on the timing and variability of binary, pulsed accretion events in collabotation with Diego Munoz. More about that project be found <a href='https://tofflemire.github.io/sims/'>here</a>.
 
 <!-- A little bit about <a href='http://www.apo.nmsu.edu/Telescopes/ARCSAT/index.html' target='blank'>ARCSAT</a> and the <a href='https://www.noao.edu/0.9m/' target='blank'>WIYN 0.9m</a> telescopes. -->
 
@@ -63,8 +63,9 @@ We are currently investigating the role circumstellar disks play on the timing a
 An animation of DQ Tau's accretion rate as the stars move through their orbit can be found <a href='https://tofflemire.github.io/animations/'>here</a>.
 
 ### TWA 3A
+TWA 3A is a near-equal-mass (q=0.84), pre-MS binary with an eccentricity of 0.63 and an orbital period of 34.9 days.
 
-<img src="/local_files/TWA_Mdot_AveComp_FINAL.png" width="300" ALIGN="left">
+<img src="/local_files/TWA_Mdot_AveComp_FINAL.png" width="300" ALIGN="left" HSPACE="25" />
 
 
 An animation of TWA 3A's accretion rate as the stars move through their orbit can be found <a href='https://tofflemire.github.io/animations/'>here</a>.
