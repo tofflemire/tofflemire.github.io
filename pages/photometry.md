@@ -69,11 +69,11 @@ The figure below presents a subset of our <i>UBVR</i> lightcurves from LCO and S
 <img src="/local_files/TWA_Mdot_AveComp_FINAL.png" width="400" ALIGN="left" HSPACE="25" />
 Again computing the median mass accretion rate from the <i>U</i>-band, we compare TWA 3A to DQ Tau and the hydrodynamical simulation above. The DQ Tau and TWA 3A accretion profiles are remarkably similar. We note that TWA 3A shows much less variability from orbit to otbirt than DQ Tau, but this may be due to its lower overall accretion rate. 
 
-TWA 3A is one of the binaries in our sample for which we have overlapping time-series spectroscopy. You can learn more about that project <a href'https://tofflemire.github.io/spectroscopy/' target='blank'>here</a>.
+TWA 3A is one of the binaries in our sample for which we have overlapping time-series spectroscopy. You can learn more about that project <a href='https://tofflemire.github.io/spectroscopy/' target='blank'>here</a>.
 
 An animation of TWA 3A's accretion rate as the stars move through their orbit can be found <a href='https://tofflemire.github.io/animations/'>here</a>.
 
 <a href='http://adsabs.harvard.edu/abs/2017ApJ...842L..12T' target='blank'> A link to the peer-reviewed paper on TWA 3A can be found here.</a>
 
 ## Ongoing Work
-
+The 
