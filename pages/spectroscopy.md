@@ -24,15 +24,19 @@ In these simulations the circumbinary disk develops an asymmetry that precess ov
 The above discussion is just one explaination of the physics that could be behind determining which star is the dominant accretor in a binary systems. But it exemplifies the types of detailed inferences that can be made about the binary-disk interaction and inner disk dynamics generally with information kinematics of accretion flows. 
 
 ## Time-Series Spectroscopy
+For a subset of the binaries in our photometric sample we have obtained time-series, high-resolution, optical spectroscopy. It was crucial that these observations overlap with our more densely sampled photometric coverage to provide context with the large-scale accretion trends in the systems. 
+
+SALT/HRS SMARTS/CHIRON
 
 ### Early Results
-<img src="/local_files/Ha_all.png" width="300" ALIGN="left">
+<img src="/local_files/Ha_all.png" width="700" ALIGN="left">
 
 <img src="/local_files/TWA_HeI.png" width="300" ALIGN="left">
 
 Conference proceedings can be found <a href='/local_files/tofflemire_sfst.pdf' target='blank'>here</a>.
 
 ### Ongoing Work
+With almost 6000 &#8491; of high-resolution wavelength coverage, there are many features to explore across our temporal observing sequence. 
 
 ## SALT/HRS Reductions
 
