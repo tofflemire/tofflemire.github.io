@@ -31,7 +31,7 @@ Our spectra come from the <a href='https://www.salt.ac.za/' target='blank'>SALT<
 ### Early Results - TWA 3A
 TWA 3A is a near-equal-mass (q=0.84), pre-MS binary with an eccentricity of 0.63 and an orbital period of 34.9 days. Over the course of 3 orbital periods we were able to obtain 14 SALT/HRS measurements. 
 
-The figure below presents the emission line H-alpha, which traces accretion shocks at the stellar surface. The observations are ordered according to 
+The figure below presents the accretion tracing emission line H-alpha. Observations are ordered according to their orbital phase listed in the top right of each panel; the color-coding and number in parenthesis designates the orbit in which the observation was made. 
 <img src="/local_files/Ha_all.png" width="700" ALIGN="left">
 
 
