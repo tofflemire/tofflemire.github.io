@@ -29,15 +29,15 @@ For a subset of the binaries in our photometric sample we have obtained time-ser
 Our spectra come from the <a href='https://www.salt.ac.za/' target='blank'>SALT</a> telescope's High-Resolution Spectrograph (HRS) and the <a href='http://www.astro.yale.edu/smarts/' target='blank'>SMARTS</a> 1.5m CHIRON spectrograph. Both are echelle spectrographs providing spectral resolutions of R~30,000 and wavelength coverage from ~3300-9000&#8491;.
 
 ### Early Results - TWA 3A
-TWA 3A is a near-equal-mass (q=0.84), pre-MS binary with an eccentricity of 0.63 and an orbital period of 34.9 days. Over the course of 3 orbital periods we were able to obtain 14 SALT/HRS measurements. 
+TWA 3A is a near-equal-mass (q=0.84), pre-MS binary with an eccentricity of 0.63 and an orbital period of 34.9 days. Over the course of 3 consecuative orbital periods we were able to obtain 14 SALT/HRS measurements. 
 
-The figure below presents the accretion tracing emission line H-alpha. Observations are ordered according to their orbital phase listed in the top right of each panel; the color-coding and number in parenthesis designates the orbit in which the observation was made. Following the conclusion made from <i>U</i>-band observations (also tracing the accretion rate), the H-alpha emission increases near periastron passage as models would predict for an eccentric binary. 
+The figure below presents the accretion tracing emission line H-alpha. Observations are ordered according to their orbital phase listed in the top right of each panel; the color-coding and number in parenthesis designates the orbit in which the observation was made. Following the conclusion made from <i>U</i>-band observations (also tracing the accretion rate), the H-alpha emission increases near periastron passage, just as models would predict for an eccentric binary. The vertical blue and red lines at the bottom of each plot mark the primary and secondary stellar velocity, respectively. Due to H-alpha's large and complex emission profile it is difficult to perscribe emission to one star over another, but structure in it's high-velocity wings may be able to trace emission in accretion stream further from the stars. 
 <img src="/local_files/Ha_all.png" width="700" ALIGN="left">
-
 
 <img src="/local_files/TWA_HeI.png" width="300" ALIGN="left">
 
-Conference proceedings can be found <a href='/local_files/tofflemire_sfst.pdf' target='blank'>here</a>.
+
+A paper on our TWA 3A spectra is in preparation but a conference proceedings with our preliminary results can be found <a href='/local_files/tofflemire_sfst.pdf' target='blank'>here</a>.
 
 ### Ongoing Work
 With almost 6000&#8491; of high-resolution wavelength coverage, there are many features to investigate across our temporal observing sequence. We are currently exploring the rest of this rich data set. 
