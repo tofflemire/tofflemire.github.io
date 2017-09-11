@@ -7,10 +7,14 @@ teaser: ""
 categories:
 permalink: "/spectroscopy/"
 ---
-
 <a href='https://tofflemire.github.io/research/'>(A more general overview of my thesis can be found here.)</a>
-
 <hr>
+
+## Motivation
+
+<a href='http://adsabs.harvard.edu/abs/2016ApJ...827...43M' target='blank'>
+  <img src="/local_files/ML2016_Mdot.jpg" width="700" ALIGN="left">
+</a>
 
 ### SALT/HRS Time-Series Spectroscopy
 
