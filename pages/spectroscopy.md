@@ -24,9 +24,9 @@ In these simulations the circumbinary disk develops an asymmetry that precess ov
 The above discussion is just one explaination of the physics that could be behind determining which star is the dominant accretor in a binary systems. But it exemplifies the types of detailed inferences that can be made about the binary-disk interaction and inner disk dynamics generally with information kinematics of accretion flows. 
 
 ## Time-Series Spectroscopy
-For a subset of the binaries in our photometric sample we have obtained time-series, high-resolution, optical spectroscopy. It was crucial that these observations overlap with our more densely sampled photometric coverage to provide context with the large-scale accretion trends in the systems. 
+For a subset of the binaries in our photometric sample we have obtained time-series, high-resolution, optical spectroscopy. These observations allow us to begin to probe the kinematic properties of binary-disk interaction. It was crucial that these observations overlap with our more densely sampled photometric coverage to provide context with the large-scale accretion trends in the systems. 
 
-SALT/HRS SMARTS/CHIRON
+Our spectra come from the <a href='https://www.salt.ac.za/' target='blank'>SALT</a> telescope's High-Resolution Spectrograph (HRS) and the <a href='http://www.astro.yale.edu/smarts/' target='blank'>SMARTS</a> 1.5m CHIRON spectrograph. Both are echelle spectrographs providing spectral resolutions of R~30,000 and wavelength coverage from ~3300-9000&#8491;.
 
 ### Early Results
 <img src="/local_files/Ha_all.png" width="700" ALIGN="left">
@@ -36,7 +36,7 @@ SALT/HRS SMARTS/CHIRON
 Conference proceedings can be found <a href='/local_files/tofflemire_sfst.pdf' target='blank'>here</a>.
 
 ### Ongoing Work
-With almost 6000 &#8491; of high-resolution wavelength coverage, there are many features to explore across our temporal observing sequence. 
+With almost 6000&#8491; of high-resolution wavelength coverage, there are many features to explore across our temporal observing sequence. 
 
 ## SALT/HRS Reductions
 
