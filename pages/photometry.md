@@ -63,8 +63,8 @@ An animation of DQ Tau's accretion rate as the stars move through their orbit ca
 ### TWA 3A
 TWA 3A is a near-equal-mass (q=0.84), pre-MS binary with an eccentricity of 0.63 and an orbital period of 34.9 days.
 
-The figure below presents a subset of our 
-<img src="/local_files/TWA_3A_LC.png" width="700" ALIGN="right" HSPACE="25" />
+The figure below presents a subset of our <i>UBVR</i> lightcurves from LCO and SMARTS. 
+<img src="/local_files/TWA_3A_LC.png" width="600" ALIGN="right" HSPACE="25" />
 
 <img src="/local_files/TWA_Mdot_AveComp_FINAL.png" width="400" ALIGN="left" HSPACE="25" />
 
