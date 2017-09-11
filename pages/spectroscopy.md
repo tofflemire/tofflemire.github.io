@@ -21,9 +21,7 @@ The prediction of periodic pulsed accretion events, which our photometry support
 
 In these simulations the circumbinary disk develops an asymmetry that precess over the course of hunderds of binary orbits. The star who's apastron passage brings it nearest to the overdense region will preferentially receive more mass. During the time frame plotted above it is the star depicted in blue, but over many binary orbital periods, the star depicted in the red curve will become the dominant accretor (see Figure 3 in <a href='http://adsabs.harvard.edu/abs/2016ApJ...827...43M' target='blank'>Munoz & Lai 2016</a>). 
 
-The above discussion is just one explaination of the physics that could be behind determining which star is the dominant accretor in a binary systems. But it exemplifies the types of detail inferences that can be made with 
-
-This is just one detailed explaination of ... but it goes to show how much knowing which stars predominantly accretes can tell us about the binary disk interaction and the inner disk dynamics generally. 
+The above discussion is just one explaination of the physics that could be behind determining which star is the dominant accretor in a binary systems. But it exemplifies the types of detailed inferences that can be made about the binary-disk interaction and inner disk dynamics generally with information kinematics of accretion flows. 
 
 ## Time-Series Spectroscopy
 
