@@ -42,4 +42,4 @@ Conference proceedings can be found <a href='/local_files/tofflemire_sfst.pdf' t
 With almost 6000&#8491; of high-resolution wavelength coverage, there are many features to explore across our temporal observing sequence. We are currently exploring the rest of this rich data set. 
 
 ## SALT/HRS Reductions
-As a new instrument, HRS does not have a fully developed reduction pipeline. There are a few aspects of the instrument that makes an optimal spectral extraction not straightforward. The page linked <a href=''>here</a> chronicals my reduction scheme for HRS data. 
+As a new instrument, HRS does not have a fully developed reduction pipeline. There are a few aspects of the instrument that makes an optimal spectral extraction not straightforward. The page linked <a href='https://tofflemire.github.io/spectroscopy/hrs_red/'>here</a> chronicals my reduction scheme for HRS data. 
