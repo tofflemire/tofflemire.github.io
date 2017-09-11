@@ -37,7 +37,9 @@ The figure below presents the accretion tracing emission line H-alpha. Observati
 <br> 
 
 <img src="/local_files/TWA_HeI.png" width="300" ALIGN="left">
-The figure at the left presents the accretion tracing emission line He I 5876&#8491;. As with the plot above, the spectra are ordered by their orbital phase and color coded by the orbit in which they were obtained. Both are presented as text to the right of each line. Blue and red vertical lines associated with each spectrum mark the primary and secondary stellar velocities, respectively. Due to its relatively narrow width, we can use He I to trace which star is the dominant source of accretion emission. The He I velocity centroid consistently coincides with the primary velocity suggesting it is the primary accretor. 
+The figure at the left presents the accretion tracing emission line He I 5876&#8491;. As with the plot above, the spectra are ordered by their orbital phase and color coded by the orbit in which they were obtained. Both are presented as text to the right of each line. Blue and red vertical lines associated with each spectrum mark the primary and secondary stellar velocities, respectively. 
+
+Due to its relatively narrow width, we can use He I to trace which star is the dominant source of accretion emission. The He I velocity centroid regularly coincides with the primary velocity, suggesting it is the primary accretor. 
 
 A paper on our TWA 3A spectra is in preparation but a conference proceedings with our preliminary results can be found <a href='/local_files/tofflemire_sfst.pdf' target='blank'>here</a>.
 
