@@ -42,5 +42,7 @@ A paper on our TWA 3A spectra is in preparation but a conference proceedings wit
 ### Ongoing Work
 With almost 6000&#8491; of high-resolution wavelength coverage, there are many features to investigate across our temporal observing sequence. We are currently exploring the rest of this rich data set. 
 
+<hr>
+
 ## SALT/HRS Reductions
 As a new instrument, HRS does not have a fully developed, publically available reduction pipeline. There are a few aspects of the instrument that makes an optimal spectral extraction not straightforward. The page linked <a href='https://tofflemire.github.io/spectroscopy/hrs_red/'>here</a> chronicals my reduction scheme for HRS data. 
