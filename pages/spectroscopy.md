@@ -34,9 +34,10 @@ TWA 3A is a near-equal-mass (q=0.84), pre-MS binary with an eccentricity of 0.63
 The figure below presents the accretion tracing emission line H-alpha. Observations are ordered according to their orbital phase listed in the top right of each panel; the color-coding and number in parenthesis designates the orbit in which the observation was made. Following the conclusion made from <i>U</i>-band observations (also tracing the accretion rate), the H-alpha emission increases near periastron passage, just as models would predict for an eccentric binary. The vertical blue and red lines at the bottom of each plot mark the primary and secondary stellar velocity, respectively. Due to H-alpha's large and complex emission profile it is difficult to perscribe emission to one star over another, but structure in it's high-velocity wings may be able to trace emission in accretion stream further from the stars. 
 <img src="/local_files/Ha_all.png" width="700" ALIGN="left">
 
+<img src="/local_files/TWA_HeI.png" width="300" ALIGN="left">
+
 <br> 
 
-<img src="/local_files/TWA_HeI.png" width="300" ALIGN="left">
 The figure at the left presents the accretion tracing emission line He I 5876&#8491;. As with the plot above, the spectra are ordered by their orbital phase and color coded by the orbit in which they were obtained. Both are presented as text to the right of each line. Blue and red vertical lines associated with each spectrum mark the primary and secondary stellar velocities, respectively. 
 
 Due to its relatively narrow width, we can use He I to trace which star is the dominant source of accretion emission. The He I velocity centroid regularly coincides with the primary velocity, suggesting it is the primary accretor. 
