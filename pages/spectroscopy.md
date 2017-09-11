@@ -45,4 +45,4 @@ With almost 6000&#8491; of high-resolution wavelength coverage, there are many f
 <hr>
 
 ## SALT/HRS Reductions
-As a new instrument, HRS does not have a fully developed, publically available reduction pipeline. There are a few aspects of the instrument that makes an optimal spectral extraction not straightforward. The page linked <a href='https://tofflemire.github.io/spectroscopy/hrs_red/'>here</a> chronicals my reduction scheme for HRS data. 
+As a new instrument, HRS does not have a fully developed, publically available reduction pipeline. There are a few aspects of the instrument that make an optimal spectral extraction not straightforward. This <a href='https://tofflemire.github.io/spectroscopy/hrs_red/'>page</a> chronicals my reduction scheme for HRS data. 
