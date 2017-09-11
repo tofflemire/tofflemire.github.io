@@ -11,7 +11,9 @@ permalink: "/spectroscopy/"
 <hr>
 
 ## Motivation
-Our effort to characterize the binary-disk interaction with time-series, optical and near-infrared photometry (more about that <a href='https://tofflemire.github.io/photometry/'>here</a>) has allowed us to make 
+Our effort to characterize the binary-disk interaction with time-series, optical and near-infrared photometry (more about that <a href='https://tofflemire.github.io/photometry/'>here</a>) has allowed us to make critical tests of binary accretion theory. This method, however, is only able to provide course information such as the combined accretion rate onto both stars and the relative temperature and amount of circumstellar dust near the stars. Most importantly, these data to not supply kinematic information on the accretion streams that bridge the gap between the central binary and the circumbinary disk. 
+
+The prediction of periodic pulsed accretion events that our photometry has revealed has become a consensus of various 
 
 <a href='http://adsabs.harvard.edu/abs/2016ApJ...827...43M' target='blank'>
   <img src="/local_files/ML2016_Mdot.jpg" width="700" ALIGN="left">
