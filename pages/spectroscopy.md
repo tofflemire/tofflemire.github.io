@@ -28,7 +28,10 @@ For a subset of the binaries in our photometric sample we have obtained time-ser
 
 Our spectra come from the <a href='https://www.salt.ac.za/' target='blank'>SALT</a> telescope's High-Resolution Spectrograph (HRS) and the <a href='http://www.astro.yale.edu/smarts/' target='blank'>SMARTS</a> 1.5m CHIRON spectrograph. Both are echelle spectrographs providing spectral resolutions of R~30,000 and wavelength coverage from ~3300-9000&#8491;.
 
-### Early Results
+### Early Results - TWA 3A
+TWA 3A is a near-equal-mass (q=0.84), pre-MS binary with an eccentricity of 0.63 and an orbital period of 34.9 days. Over the course of 3 orbital periods we were able to obtain 14 SALT/HRS measurements. 
+
+The figure below present the emission line H-alpha, which traces the
 <img src="/local_files/Ha_all.png" width="700" ALIGN="left">
 
 <img src="/local_files/TWA_HeI.png" width="300" ALIGN="left">
@@ -36,7 +39,7 @@ Our spectra come from the <a href='https://www.salt.ac.za/' target='blank'>SALT<
 Conference proceedings can be found <a href='/local_files/tofflemire_sfst.pdf' target='blank'>here</a>.
 
 ### Ongoing Work
-With almost 6000&#8491; of high-resolution wavelength coverage, there are many features to explore across our temporal observing sequence. 
+With almost 6000&#8491; of high-resolution wavelength coverage, there are many features to explore across our temporal observing sequence. We are currently exploring the rest of this rich data set. 
 
 ## SALT/HRS Reductions
-
+As a new instrument, HRS does not have a fully developed reduction pipeline. There are a few aspects of the instrument that makes an optimal spectral extraction not straightforward. The page linked <a href=''>here</a> chronicals my reduction scheme for HRS data. 
