@@ -31,7 +31,7 @@ Our spectra come from the <a href='https://www.salt.ac.za/' target='blank'>SALT<
 ### Early Results - TWA 3A
 TWA 3A is a near-equal-mass (q=0.84), pre-MS binary with an eccentricity of 0.63 and an orbital period of 34.9 days. Over the course of 3 orbital periods we were able to obtain 14 SALT/HRS measurements. 
 
-The figure below presents the accretion tracing emission line H-alpha. Observations are ordered according to their orbital phase listed in the top right of each panel; the color-coding and number in parenthesis designates the orbit in which the observation was made. 
+The figure below presents the accretion tracing emission line H-alpha. Observations are ordered according to their orbital phase listed in the top right of each panel; the color-coding and number in parenthesis designates the orbit in which the observation was made. Following the conclusion made from <i>U</i>-band observations (also tracing the accretion rate), the H-alpha emission increases near periastron passage as models would predict for an eccentric binary. 
 <img src="/local_files/Ha_all.png" width="700" ALIGN="left">
 
 
@@ -40,7 +40,7 @@ The figure below presents the accretion tracing emission line H-alpha. Observati
 Conference proceedings can be found <a href='/local_files/tofflemire_sfst.pdf' target='blank'>here</a>.
 
 ### Ongoing Work
-With almost 6000&#8491; of high-resolution wavelength coverage, there are many features to explore across our temporal observing sequence. We are currently exploring the rest of this rich data set. 
+With almost 6000&#8491; of high-resolution wavelength coverage, there are many features to investigate across our temporal observing sequence. We are currently exploring the rest of this rich data set. 
 
 ## SALT/HRS Reductions
-As a new instrument, HRS does not have a fully developed reduction pipeline. There are a few aspects of the instrument that makes an optimal spectral extraction not straightforward. The page linked <a href='https://tofflemire.github.io/spectroscopy/hrs_red/'>here</a> chronicals my reduction scheme for HRS data. 
+As a new instrument, HRS does not have a fully developed, publically available reduction pipeline. There are a few aspects of the instrument that makes an optimal spectral extraction not straightforward. The page linked <a href='https://tofflemire.github.io/spectroscopy/hrs_red/'>here</a> chronicals my reduction scheme for HRS data. 
