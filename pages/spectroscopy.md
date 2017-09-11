@@ -35,7 +35,7 @@ The figure below presents the accretion tracing emission line H-alpha. Observati
 <img src="/local_files/Ha_all.png" width="700" ALIGN="left">
 
 <img src="/local_files/TWA_HeI.png" width="300" ALIGN="left">
-
+The figure at the left presents the accretion tracing emission line He I 5876&#8491;. As with the plot above, the spectra are ordered by their orbital phase and color coded by the orbit in which they were obtained. Both are presented as text to the right of each line. 
 
 A paper on our TWA 3A spectra is in preparation but a conference proceedings with our preliminary results can be found <a href='/local_files/tofflemire_sfst.pdf' target='blank'>here</a>.
 
