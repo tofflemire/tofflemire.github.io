@@ -63,11 +63,13 @@ An animation of DQ Tau's accretion rate as the stars move through their orbit ca
 ### TWA 3A
 TWA 3A is a near-equal-mass (q=0.84), pre-MS binary with an eccentricity of 0.63 and an orbital period of 34.9 days.
 
-The figure below presents a subset of our <i>UBVR</i> lightcurves from LCO and SMARTS. 
 <img src="/local_files/TWA_3A_LC.png" width="600" ALIGN="right" HSPACE="25" />
+The figure below presents a subset of our <i>UBVR</i> lightcurves from LCO and SMARTS. Typical of accretion, the amplitude of variability is larger in the blue (top) filters than the red. As with DQ Tau, we see persistent brightening events near periastron passages (dashed vertial lines). 
 
 <img src="/local_files/TWA_Mdot_AveComp_FINAL.png" width="400" ALIGN="left" HSPACE="25" />
+Again computing the median mass accretion rate from the <i>U</i>-band, we compare TWA 3A to DQ Tau and the hydrodynamical simulation above. The DQ Tau and TWA 3A accretion profiles are remarkably similar. We note that TWA 3A shows much less variability from orbit to otbirt than DQ Tau, but this may be due to its lower overall accretion rate. 
 
+TWA 3A is one of the binaries in our sample for which we have overlapping time-series spectroscopy. You can learn more about that project <a href'https://tofflemire.github.io/spectroscopy/' target='blank'>here</a>.
 
 An animation of TWA 3A's accretion rate as the stars move through their orbit can be found <a href='https://tofflemire.github.io/animations/'>here</a>.
 
