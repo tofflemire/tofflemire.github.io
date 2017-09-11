@@ -11,12 +11,13 @@ permalink: "/spectroscopy/"
 <hr>
 
 ## Motivation
+Our effort to characterize the binary-disk interaction with time-series, optical and near-infrared photometry (more about that <a href='https://tofflemire.github.io/photometry/'>here</a>) has allowed us to make 
 
 <a href='http://adsabs.harvard.edu/abs/2016ApJ...827...43M' target='blank'>
   <img src="/local_files/ML2016_Mdot.jpg" width="700" ALIGN="left">
 </a>
 
-### SALT/HRS Time-Series Spectroscopy
+### Time-Series  Spectroscopy
 
 <img src="/local_files/Ha_all.png" width="300" ALIGN="left">
 
