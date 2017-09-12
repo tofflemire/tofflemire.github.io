@@ -76,4 +76,4 @@ An animation of TWA 3A's accretion rate as the stars move through their orbit ca
 <a href='http://adsabs.harvard.edu/abs/2017ApJ...842L..12T' target='blank'> A link to the peer-reviewed paper on TWA 3A can be found here.</a>
 
 ## Ongoing Work
-We are currently working through the data on our 7 remaining binaries. A publication describing the full sample, including the near-infrared photometry is now in prepataion. 
+We are currently working through the data on our 7 remaining binaries. A publication describing the full sample, including the near-infrared photometry is now in preparation. 
