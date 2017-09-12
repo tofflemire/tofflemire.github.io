@@ -50,9 +50,9 @@ To more readily compare our observations to the results of numerical simulations
 
 The differences between the two, most notably the phase shift between the accretion peaks and large amount of variability observed, point to limitation with current modeling efforts. We believe the main source of discrepancy between models and the observations of DQ Tau has to due with the impact stellar magnetic fields have on accretion flows. (No model of binary accretion currently includes stellar magnetic fields.) 
 
-Low mass stars have strong magnttic fields that are capable of disrupting disk material near the stellar surface. Single stars are typically assumed to have a magnetically dominated region within ~5 stellar radii where magnetic fields confine accretion flows, funneling them onto the star at magnetic foot-points. The orbit of DQ Tau brings the two stars to within ~12 stellar radii of each other, making it unlikely that each star is able to host a circumstellar disk like the models suggest. Without circumstellar disks (i.e. without a reservoir of material near each star), accretion events become sensitive to the timing at which circumbinary accretion streams supply material to the central stars, delaying accretion events as compared to models. While these models are not an ideal match to DQ Tau, they are likely to be more representative of wider binaries where stable circumstellar disks are more likely. 
+Low mass stars have strong magnttic fields that are capable of disrupting disk material near the stellar surface. Single stars are typically assumed to have a magnetically dominated region within ~5 stellar radii where magnetic fields confine accretion flows, funneling them onto the star at magnetic foot-points. The orbit of DQ Tau brings the two stars to within ~12 stellar radii of each other, making it unlikely that each star is able to host a circumstellar disk like the models suggest. Without circumstellar disks (i.e. without a reservoir of material near each star), accretion events become sensitive to the timing at which circumbinary accretion streams supply material to the central stars, delaying accretion events as compared to models. Although these models are not an ideal match to DQ Tau, they are likely to be more representative of wide binaries with stable circumstellar disks.
 
-We are currently investigating the role circumstellar disks play on the timing and variability of binary, pulsed accretion events in collabotation with Diego Munoz. More about that project be found <a href='https://tofflemire.github.io/sims/'>here</a>.
+We are currently investigating the role circumstellar disks play on the timing and variability of binary, pulsed accretion events in collaboration with Diego Munoz. More about that project can be found <a href='https://tofflemire.github.io/sims/'>here</a>.
 
 <!-- <img src="/local_files/DQ_CMD.jpg" width="300" ALIGN="left"> --> 
 
@@ -61,13 +61,13 @@ We are currently investigating the role circumstellar disks play on the timing a
 An animation of DQ Tau's accretion rate as the stars move through their orbit can be found <a href='https://tofflemire.github.io/animations/'>here</a>.
 
 ### TWA 3A
-TWA 3A is a near-equal-mass (q=0.84), pre-MS binary with an eccentricity of 0.63 and an orbital period of 34.9 days.
+TWA 3A is a near equal mass (q=0.84), pre-MS binary with an eccentricity of 0.63 and an orbital period of 34.9 days.
 
 <img src="/local_files/TWA_3A_LC.png" width="600" ALIGN="right" HSPACE="25" />
-The figure below presents a subset of our <i>UBVR</i> lightcurves from LCO and SMARTS. Typical of accretion, the amplitude of variability is larger in the blue (top) filters than the red. As with DQ Tau, we see persistent brightening events near periastron passages (dashed vertial lines). 
+The figure below presents our <i>UBVR</i> lightcurves from LCO and SMARTS. Typical of accretion, the amplitude of variability is larger in the blue (top) filters than the red. As with DQ Tau, we see persistent brightening events near periastron passages (dashed vertical lines). 
 
 <img src="/local_files/TWA_Mdot_AveComp_FINAL.png" width="400" ALIGN="left" HSPACE="25" />
-Again computing the median mass accretion rate from the <i>U</i>-band, we compare TWA 3A to DQ Tau and the hydrodynamical simulation above. The DQ Tau and TWA 3A accretion profiles are remarkably similar. We note that TWA 3A shows much less variability from orbit to otbirt than DQ Tau, but this may be due to its lower overall accretion rate. 
+Again computing the median mass accretion rate from the <i>U</i>-band, we compare TWA 3A to DQ Tau and the hydrodynamical simulation above. The DQ Tau and TWA 3A accretion profiles are remarkably similar. We note that TWA 3A shows much less variability from orbit to orbit than DQ Tau. This may be due to its lower overall accretion rate. 
 
 TWA 3A is one of the binaries in our sample for which we have overlapping time-series spectroscopy. You can learn more about that project <a href='https://tofflemire.github.io/spectroscopy/' target='blank'>here</a>.
 
@@ -76,4 +76,4 @@ An animation of TWA 3A's accretion rate as the stars move through their orbit ca
 <a href='http://adsabs.harvard.edu/abs/2017ApJ...842L..12T' target='blank'> A link to the peer-reviewed paper on TWA 3A can be found here.</a>
 
 ## Ongoing Work
-We are curretly working through the data on our 7 remaining binaries. A publication describing the full sample, including the near-infrared photometry is now in prepataion. 
+We are currently working through the data on our 7 remaining binaries. A publication describing the full sample, including the near-infrared photometry is now in prepataion. 
