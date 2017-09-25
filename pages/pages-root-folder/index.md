@@ -14,7 +14,7 @@ layout: page
 header:
   image_fullwidth: web_background.jpg
   caption: (Hubble Legacy Archive, NASA, ESO - Judy Schmidt)
-  caption_url: http://geckzilla.com/art/v/830
+  caption_url: http://geckzilla.com/art/
 title:  "Welcome"
 permalink: /index.html
 homepage: true
