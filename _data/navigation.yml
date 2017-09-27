@@ -6,6 +6,8 @@
   url: "/research/"
   side: left
   dropdown:
+  - title: "Dissertation Overview"
+    url: "/research/"
   - title: "Time-Series Photometry of Pre-MS Binary Stars"
     url: "/photometry/"
   - title: "Time-Series Spectra of Pre-MS Binary Stars"
