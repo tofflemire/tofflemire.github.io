@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Time-Series Photometry of Accreting Pre-MS Binary Stars"
 subheadline: ""
 meta_teaser: ""
