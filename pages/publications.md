@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Refereed Publications"
 subheadline: ""
 meta_teaser: ""
