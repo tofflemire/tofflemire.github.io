@@ -26,13 +26,15 @@
   url: "/cv/"
   side: left
 
+- title: "Animations"
+  url: "/animations/"
+  side: left
+
 - title: "About Me"
   url: "/aboutme/"
   side: left
 
-- title: "Animations"
-  url: "/animations/"
-  side: left
+
 
 - title: "Contact"
   url: "/contact/"
