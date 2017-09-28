@@ -35,7 +35,7 @@ The figure below presents the accretion tracing emission line H-alpha. Observati
 
 <img src="/local_files/Ha_all.png" width="700" ALIGN="middle">
 
-<img src="/local_files/TWA_HeI.png" width="300" ALIGN="left">
+<img src="/local_files/TWA_HeI.png" width="300" ALIGN="left" HSPACE="25">
 
 <br> 
 
