@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Hydrodynamics Simulations of Binary Accretion"
 subheadline: "(In Progress)"
 meta_teaser: ""
