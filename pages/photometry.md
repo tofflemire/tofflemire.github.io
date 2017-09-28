@@ -60,9 +60,9 @@ We are currently investigating the role circumstellar disks play on the timing a
 An animation of DQ Tau's accretion rate as the stars move through their orbit can be found <a href='https://tofflemire.github.io/animations/'>here</a>.
 
 ### TWA 3A
+<img src="/local_files/TWA_3A_LC.png" width="600" ALIGN="right" HSPACE="25" />
 TWA 3A is a near equal mass (q=0.84), pre-MS binary with an eccentricity of 0.63 and an orbital period of 34.9 days.
 
-<img src="/local_files/TWA_3A_LC.png" width="600" ALIGN="right" HSPACE="25" />
 The figure below presents our <i>UBVR</i> lightcurves from LCO and SMARTS. Typical of accretion, the amplitude of variability is larger in the blue (top) filters than the red. As with DQ Tau, we see persistent brightening events near periastron passages (dashed vertical lines). 
 
 <img src="/local_files/TWA_Mdot_AveComp_FINAL.png" width="400" ALIGN="left" HSPACE="25" />
@@ -73,6 +73,8 @@ TWA 3A is one of the binaries in our sample for which we have overlapping time-s
 An animation of TWA 3A's accretion rate as the stars move through their orbit can be found <a href='https://tofflemire.github.io/animations/'>here</a>.
 
 <a href='http://adsabs.harvard.edu/abs/2017ApJ...842L..12T' target='blank'> A link to the peer-reviewed paper on TWA 3A can be found here.</a>
+
+<br>
 
 ## Ongoing Work
 We are currently working through the data on our 7 remaining binaries. A publication describing the full sample, including the near-infrared photometry is now in preparation. 
