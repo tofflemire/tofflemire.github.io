@@ -10,8 +10,7 @@ permalink: "/animations/"
 <!--more-->
 <hr>
 ## TWA 3A
-<div id="video-wrap">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iGKtvyx1_Ss" align="left" frameborder="100" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iGKtvyx1_Ss" style="padding:10px;border:10px solid black;" align="left" frameborder="100" allowfullscreen></iframe>
 
 An animation of the mass accretion rate onto the binary system TWA 3A as a function of orbital phase. 
 
@@ -27,7 +26,7 @@ A peer-reviewed article published in the Astrophysical Journal Letters on this r
 <hr>
 ## DQ Tau
 <div id="video-wrap">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8HZ36mJSF10" align="left" frameborder="100" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8HZ36mJSF10" align="left" style="padding:10px;border:10px solid black;" frameborder="100" allowfullscreen></iframe></div>
 
 An animation of the mass accretion rate onto DQ Tau as a function of orbital phase. 
 
