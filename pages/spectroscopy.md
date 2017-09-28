@@ -32,7 +32,8 @@ Our spectra come from the <a href='https://www.salt.ac.za/' target='blank'>SALT<
 TWA 3A is a near equal mass (q=0.84), pre-MS binary with an eccentricity of 0.63 and an orbital period of 34.9 days. Over the course of 3 consecutive orbital periods we were able to obtain 14 SALT/HRS measurements. 
 
 The figure below presents the accretion tracing emission line H-alpha. Observations are ordered according to their orbital phase listed in the top right of each panel; the color-coding and number in parenthesis designates the orbit in which the observation was made. Following the conclusion made from <i>U</i>-band observations (also tracing the accretion rate), the H-alpha emission increases near periastron passage, just as models would predict for an eccentric binary. The vertical blue and red lines at the bottom of each plot mark the primary and secondary stellar velocity, respectively. Due to H-alpha's large and complex emission profile, it is difficult to prescribe emission to one star over another. Structure in its high-velocity wings, however, may be able to trace accretion streams further from the stars.
-<img src="/local_files/Ha_all.png" width="700" ALIGN="left">
+
+<img src="/local_files/Ha_all.png" width="700" ALIGN="middle">
 
 <img src="/local_files/TWA_HeI.png" width="300" ALIGN="left">
 
