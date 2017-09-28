@@ -17,7 +17,7 @@ Numerical simulations of the binary-disk interaction predict that the accretion 
 In a simplistic summary, the binary orbit clears out a central gap creating a circumbinary disk and a circumstellar disk around each star. As this eccentric binary goes through its orbit, apastron passage (furthest separation of the two stars) induces a stream of circumbinary disk material that crosses the cleared gap, feeding the circumstellar disks. The figure below presents the mass accretion rate from this simulation where bursts of accretion are seen proceeding each periastron passage (closest approach of the two stars).
 
 <a href='http://adsabs.harvard.edu/abs/2016ApJ...827...43M' target='blank'>
-  <img src="/local_files/ML2016_Mdot.jpg" width="700" ALIGN="left">
+  <img src="/local_files/ML2016_Mdot.jpg" width="700" ALIGN="left" HSPACE="25">
 </a>
 
 The predicted time-variable accretion is most extreme for eccentric, equal-mass binaries. The specific phase, duration, and amplitude of periodic enhanced accretion events depend sensitively on the binary orbital parameters. If the behavior depicted by these models is accurate, they carry many implications for the formation of stars and planets in the binary environment. Due to the demanding observations need to test these predictions, conclusive evidence for this binary accretion paradigm has yet to be made.
