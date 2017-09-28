@@ -10,7 +10,8 @@ permalink: "/animations/"
 <!--more-->
 <hr>
 ## TWA 3A
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iGKtvyx1_Ss" align="left" frameborder="100" allowfullscreen></iframe>
+<div id="video-wrap">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iGKtvyx1_Ss" align="left" frameborder="100" allowfullscreen></iframe></div>
 
 An animation of the mass accretion rate onto the binary system TWA 3A as a function of orbital phase. 
 
@@ -25,7 +26,8 @@ Mass accretion rates are measured from a photometric excess in the Johnson U-ban
 A peer-reviewed article published in the Astrophysical Journal Letters on this result can be found <a href='https://arxiv.org/abs/1706.07073' target="_blank">here</a>.
 <hr>
 ## DQ Tau
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8HZ36mJSF10" align="left" frameborder="100" allowfullscreen></iframe>
+<div id="video-wrap">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8HZ36mJSF10" align="left" frameborder="100" allowfullscreen></iframe></div>
 
 An animation of the mass accretion rate onto DQ Tau as a function of orbital phase. 
 
