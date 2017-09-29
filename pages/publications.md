@@ -12,8 +12,8 @@ permalink: "/publications/"
 ## First Author Publications
 
 <ol reversed>
-  Tofflemire, B. M., Mathieu, R. D., Herczeg, G. J., Akeson, R. L., & Ciardi, D. R. 2017b,
-ApJL, 842, L12 – <li style="margin-bottom: 10px;"> <em>Pulsed Accretion in the T Tauri Binary TWA 3A</em> - <a href='http://adsabs.harvard.edu/abs/2017ApJ...842L..12T' target="_blank">ADS</a> </li>
+  <li style="margin-bottom: 10px;"> Tofflemire, B. M., Mathieu, R. D., Herczeg, G. J., Akeson, R. L., & Ciardi, D. R. 2017b,
+ApJL, 842, L12 – <em>Pulsed Accretion in the T Tauri Binary TWA 3A</em> - <a href='http://adsabs.harvard.edu/abs/2017ApJ...842L..12T' target="_blank">ADS</a> </li>
 
   <li style="margin-bottom: 10px;"> <em>Accretion and Magnetic Reconnection in the Classical T Tauri Binary DQ Tau</em> - Tofflemire, B. M., Mathieu, R. D., Ardila, D. R., et al. 2017a, <em>ApJ</em>, 835, 8 - <a href='http://adsabs.harvard.edu/abs/2017ApJ...835....8T' target="_blank">ADS</a> </li>
   
