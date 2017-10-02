@@ -37,8 +37,7 @@ permalink: "/publications/"
 
   <li style="margin-bottom: 10px;"> Mack, C., III, Ge, J., Deshpande, R., et al. (including <b>Tofflemire</b>, B. and 41 co-authors) 2013, <em>AJ</em>, 145, 139<br><em>A Cautionary Tale: MARVELS Brown Dwarf Candidate Reveals Itself to be a Very Long Period, Highly Eccentric Spectroscopic Stellar Binary</em> - <a href='http://adsabs.harvard.edu/abs/2013AJ....145..139M' target="_blank">ADS</a> </li>
 
-  <li style="margin-bottom: 10px;"> Orio, M., Behar, E., Gallagher, J., Bianchini, A., Chiosi, E., Luna, G., Nelson, T., Rauch,
-T., Schaefer, B., & <b>Tofflemire</b>, B., 2013, <em>MNRAS</em>, 429, 1342<br><em>Thomson scattering and collisional ionization in the X-ray grating spectra of the recurrent nova U Scorpii</em> - <a href='http://adsabs.harvard.edu/abs/2013MNRAS.429.1342O' target="_blank">ADS</a> </li>
+  <li style="margin-bottom: 10px;"> Orio, M., Behar, E., Gallagher, J., et al. (including <b>Tofflemire</b>, B. and 6 co-authors) 2013, <em>MNRAS</em>, 429, 1342<br><em>Thomson scattering and collisional ionization in the X-ray grating spectra of the recurrent nova U Scorpii</em> - <a href='http://adsabs.harvard.edu/abs/2013MNRAS.429.1342O' target="_blank">ADS</a> </li>
   
   <li style="margin-bottom: 10px;"> Fleming, S. W., Ge, J., Barnes, R., et al. (including <b>Tofflemire</b>, B. and 58 co-authors) 2012, <em>AJ</em>, 144, 72<br><em>Very Low Mass Stellar and Substellar Companions to Solar-like Stars from
 MARVELS. II. A Short-period Companion Orbiting an F Star with Evidence of a Stellar Tertiary and Significant Mutual Inclination </em> - <a href='http://adsabs.harvard.edu/abs/2012AJ....144...72F' target="_blank">ADS</a> </li>
