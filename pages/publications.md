@@ -14,7 +14,7 @@ permalink: "/publications/"
 <ol reversed>
   <li style="margin-bottom: 10px;"> 
     <b>Tofflemire</b>, B. M., Mathieu, R. D., Herczeg, G. J., Akeson, R. L., & Ciardi, D. R. 2017b, <em>ApJL</em>, 842, L12
-    
+    <br>
     <em>Pulsed Accretion in the T Tauri Binary TWA 3A</em> - <a href='http://adsabs.harvard.edu/abs/2017ApJ...842L..12T' target="_blank">ADS</a> 
   </li>
 
