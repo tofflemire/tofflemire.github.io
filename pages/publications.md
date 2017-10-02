@@ -14,7 +14,7 @@ permalink: "/publications/"
 <ol reversed>
   <li style="margin-bottom: 10px;"> <b>Tofflemire</b>, B. M., Mathieu, R. D., Herczeg, G. J., Akeson, R. L., & Ciardi, D. R. 2017b, <em>ApJL</em>, 842, L12
     
-    <em>Pulsed Accretion in the T Tauri Binary TWA 3A</em> - <a href='http://adsabs.harvard.edu/abs/2017ApJ...842L..12T' target="_blank">ADS</a> </li>
+  <em>Pulsed Accretion in the T Tauri Binary TWA 3A</em> - <a href='http://adsabs.harvard.edu/abs/2017ApJ...842L..12T' target="_blank">ADS</a> </li>
 
   <li style="margin-bottom: 10px;"> <b>Tofflemire</b>, B. M., Mathieu, R. D., Ardila, D. R., et al. 2017a, <em>ApJ</em>, 835, 8 - <em>Accretion and Magnetic Reconnection in the Classical T Tauri Binary DQ Tau</em> - <a href='http://adsabs.harvard.edu/abs/2017ApJ...835....8T' target="_blank">ADS</a> </li>
   
@@ -31,7 +31,7 @@ permalink: "/publications/"
 
 ## Other Publications
 <ol reversed>
-  <li style="margin-bottom: 10px;"> Peretz, U., Orio, M., Behar, E., Bianchini, A., Gallagher, J., Rauch, T., <b>Tofflemire<\b>, B., & Zemko, P., 2016, <em>ApJ</em> 829, 2 829, 2 – <em>Chemical and Physical Parameters from X-Ray High-resolution Spectra of the Galactic Nova V959 Mon</em> - <a href='http://adsabs.harvard.edu/abs/2016ApJ...829....2P' target="_blank">ADS</a> </li>
+  <li style="margin-bottom: 10px;"> Peretz, U., Orio, M., Behar, E., Bianchini, A., Gallagher, J., Rauch, T., <b>Tofflemire</b>, B., & Zemko, P., 2016, <em>ApJ</em> 829, 2 829, 2 – <em>Chemical and Physical Parameters from X-Ray High-resolution Spectra of the Galactic Nova V959 Mon</em> - <a href='http://adsabs.harvard.edu/abs/2016ApJ...829....2P' target="_blank">ADS</a> </li>
     
   <li style="margin-bottom: 10px;"> Milliman, K., Leiner, E., Mathieu, R., <b>Tofflemire</b>, B., & Platais, I. 2016, <em>AJ</em>, 151, 152 – <em>WIYN Open Cluster Study. LXXI. Spectroscopic Membership and Orbits of NGC 6791 Sub-Subgiants</em>  - <a href='http://adsabs.harvard.edu/abs/2016AJ....151..152M' target="_blank">ADS</a> </li>
 
