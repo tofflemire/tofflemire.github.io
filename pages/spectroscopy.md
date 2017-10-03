@@ -15,7 +15,7 @@ Our effort to observationally characterize the binary-disk interaction with time
 
 The prediction of periodic pulsed accretion events, which our photometry supports, has become a consensus of numerical simulations from many different groups. One prediction that sets different simulations apart, however, is the star that preferentially accretes mass from the circumbinary streams. Some modeling efforts suggest that mass will preferentially feed the primary or secondary depending on the orbital parameters. Others suggest the disk itself plays a significant role in determining the primary accretor. The figure below from <a href='http://adsabs.harvard.edu/abs/2016ApJ...827...43M' target='blank'>Munoz & Lai 2016</a> presents the accretion rate for an equal-mass binary with an eccentricity of 0.5. Each star's accretion rate is presented separately in the red and blue curves. The star represented with the blue curve is the dominant accretor in the system, however, these author argue this has more to do with the properties of the disk than the binary. 
 
-<a href='http://adsabs.harvard.edu/abs/2016ApJ...827...43M' target='blank' hspace="25">
+<a href='http://adsabs.harvard.edu/abs/2016ApJ...827...43M' target='blank' HSPACE="25">
   <img src="/local_files/ML2016_Mdot.jpg" width="700" ALIGN="left">
 </a>
 
