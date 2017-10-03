@@ -32,7 +32,7 @@ For a subset of our binaries, we have also obtained time-series, high-resolution
 
 <big><b> <a href='https://tofflemire.github.io/spectroscopy/'> Time-Series Spectroscopy of Accreting Pre-MS Binary Stars </a></b></big>
 
-The results of our photometric monitoring campaign have provided strong evidence for periodic pulsed accretion events in pre-MS binaries, just as models predict. However, there are notable differences in the duration, consistency, and location in orbital phase between the models and our observations. To root out the cause of these differences, we are in the process of creating hydrodynamic simulations of binary accretion tailored to a subset of our binaries. More on this project can be found at the following link.
+The results of our photometric monitoring campaign have provided strong evidence for periodic pulsed accretion events in pre-MS binaries, just as models predict. However, there are notable differences in the duration and location in orbital phase between the models and our observations. To root out the cause of these differences, we are in the process of creating hydrodynamic simulations of binary accretion tailored to a subset of our binaries. More on this project can be found at the following link.
 
 <big><b> <a href='https://tofflemire.github.io/sims/'> Hydrodynamic Simulations of Binary Accretion </a></b></big>
 
