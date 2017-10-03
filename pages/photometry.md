@@ -20,7 +20,7 @@ In a simplistic summary, the binary orbit clears out a central gap creating a ci
   <img src="/local_files/ML2016_Mdot.jpg" width="700" ALIGN="left" HSPACE="25">
 </a>
 
-The predicted time-variable accretion is most extreme for eccentric, equal-mass binaries. The specific phase, duration, and amplitude of periodic enhanced accretion events depend sensitively on the binary orbital parameters. If the behavior depicted by these models is accurate, they carry many implications for the formation of stars and planets in the binary environment. Due to the demanding observations needed to test these predictions, conclusive evidence for this binary accretion paradigm had yet to be made before our work.
+The predicted time-variable accretion is most extreme for eccentric, equal-mass binaries. The specific phase, duration, and amplitude of periodic enhanced accretion events depend sensitively on the binary orbital parameters. If the behavior depicted by these models is accurate, they carry many implications for the formation of stars and planets in the binary environment. Confirming the binary accretion model requires demaning observations that had not been obtained before our work.
 
 ## Survey of Accretion Variability in Pre-MS Binaries
 
