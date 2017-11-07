@@ -29,7 +29,9 @@ permalink: "/cv/"
 <LI>2012 &ndash; University of Wisconsin – University Housing Honored Instructor</LI>
 <LI>2011 &ndash; University of Washington’s Astronomy Bear Prize Recipient</LI>
 <LI>2010, 2011 &ndash; University of Washington Mary Gates Research Scholarship</LI>
+  
 </UL>
+
 
 ## PDF Versions
 <a href='/local_files/Tofflemire_CV_2page.pdf' target="_blank">Two Page</a>
