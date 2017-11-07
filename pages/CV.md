@@ -18,6 +18,7 @@ permalink: "/cv/"
 </UL>
 
 ## Awards
+
 <UL>
 <LI>2017 &ndash; University of Wisconsin Jansky Award for Outstanding Research</LI>
 <LI>2016, 2017 &ndash; University of Wisconsin Graduate School Conference Presentation Award</LI>
@@ -29,11 +30,10 @@ permalink: "/cv/"
 <LI>2012 &ndash; University of Wisconsin – University Housing Honored Instructor</LI>
 <LI>2011 &ndash; University of Washington’s Astronomy Bear Prize Recipient</LI>
 <LI>2010, 2011 &ndash; University of Washington Mary Gates Research Scholarship</LI>
-  
 </UL>
 
-
 ## PDF Versions
+
 <a href='/local_files/Tofflemire_CV_2page.pdf' target="_blank">Two Page</a>
 <br/>
 <a href='/local_files/Tofflemire_CV.pdf' target="_blank">Unabridged</a>
