@@ -19,8 +19,10 @@ permalink: "/cv/"
 
 ## Awards
 <UL>
+<LI>2017 &ndash; University of Wisconsin Jansky Award for Outstanding Research</LI>
 <LI>2016, 2017 &ndash; University of Wisconsin Graduate School Conference Presentation Award</LI>
 <LI>2015 &ndash; Sigma Xi Grants in Aid of Research</LI>
+<LI>2015 &ndash; University of Wisconsin Bautz Travel Fellowship<\LI>
 <LI>2015 &ndash; University of Wisconsin Vilas Conference Presentation Award</LI>
 <LI>2015 &ndash; University of Wisconsin Vilas Research Travel Grant</LI>
 <LI>2015 &ndash; AAS 225 Chambliss Student Prize Honorable Mention</LI>
