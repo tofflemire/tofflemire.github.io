@@ -32,7 +32,7 @@ permalink: "/cv/"
 <LI>2010, 2011 &ndash; University of Washington Mary Gates Research Scholarship</LI>
 </UL>
 
-## PDF Versions - test
+## PDF Versions
 
 <a href='/local_files/Tofflemire_CV_2page.pdf' target="_blank">Two Page</a>
 <br/>
