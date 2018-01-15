@@ -36,7 +36,7 @@ The results of our photometric monitoring campaign have provided strong evidence
 
 <big><b> <a href='https://tofflemire.github.io/sims/'> Hydrodynamic Simulations of Binary Accretion </a></b></big>
 
-(This work would not be possible without the following people: Robert Mathieu, Greg Herczeg, David Ardila, Christopher Johns-Krull, Rachel Akeson, David Ciardi, and Diego Munoz)
+(This work would not be possible without the following people: Robert Mathieu, Greg Herczeg, David Ardila, Christopher Johns-Krull, Rachel Akeson, David Ciardi, Lisa Prato, and Diego Munoz)
 
 <hr>
 
