@@ -65,7 +65,7 @@ the Milky Way, and Extra-Solar Planetary Systems</em> - <a href='http://adsabs.h
 
 ## PhD Thesis
 
-  Tofflemire, B. M., <em>Pulsed Accretion in Eccentric Binaries: An Observational Study of the Photometric and Kinematic Variability of Accretion in Short-Period, Pre-Main Sequence Binary Stars</em>, Order No. 10837796 The University of Wisconsin - Madison, 2018. Ann Arbor: ProQuest. Web. 9 Sep. 2018. <a href='/local_files/Tofflemire_CV.pdf' target="_blank"> PDF </a>
+  Tofflemire, B. M., 2018, Order No. 10837796, The University of Wisconsin - Madison, 2018. Ann Arbor: ProQuest. Web. 9 Sep.<br><em>Pulsed Accretion in Eccentric Binaries: An Observational Study of the Photometric and Kinematic Variability of Accretion in Short-Period, Pre-Main Sequence Binary Stars</em>,  <a href='/local_files/Tofflemire_Thesis_Final.pdf' target="_blank"> PDF </a>
 
 <hr>
 A comprehensive list of my publications, including conference proceedings, can be found in my <a href='/local_files/Tofflemire_CV.pdf' target="_blank"> unabridged CV </a>. 
