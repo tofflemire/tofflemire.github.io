@@ -31,8 +31,8 @@ permalink: "/publications/"
 
 ## Co-Author Publications
 <ol reversed>
-  <li style="margin-bottom: 10px;"> Zemko, P., Ciroi, S., Orio, M., et al. (including <b>Tofflemire</b>, B. and 8 co-authors) 2018, submitted <br><em> Optical Observations of Novae in Quiescence</em></li>
-    
+  <li style="margin-bottom: 10px;"> Zemko, P., Ciroi, S., Orio, M., et al. (including <b>Tofflemire</b>, B. and 8 co-authors) 2018, NMRAS, 480, 4489Z <br><em> Optical Observations of Novae in Quiescence</em> - <a href='http://adsabs.harvard.edu/abs/2018MNRAS.480.4489Z' target="_blank">ADS</a> </li>
+   
   <li style="margin-bottom: 10px;"> Peretz, U., Orio, M., Behar, E., Bianchini, A., Gallagher, J., Rauch, T., <b>Tofflemire</b>, B., & Zemko, P., 2016, <em>ApJ</em> 829, 2 829, 2<br><em>Chemical and Physical Parameters from X-Ray High-resolution Spectra of the Galactic Nova V959 Mon</em> - <a href='http://adsabs.harvard.edu/abs/2016ApJ...829....2P' target="_blank">ADS</a> </li>
     
   <li style="margin-bottom: 10px;"> Milliman, K., Leiner, E., Mathieu, R., <b>Tofflemire</b>, B., & Platais, I. 2016, <em>AJ</em>, 151, 152<br><em>WIYN Open Cluster Study. LXXI. Spectroscopic Membership and Orbits of NGC 6791 Sub-Subgiants</em>  - <a href='http://adsabs.harvard.edu/abs/2016AJ....151..152M' target="_blank">ADS</a> </li>
