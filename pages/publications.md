@@ -31,7 +31,13 @@ permalink: "/publications/"
 
 ## Co-Author Publications
 <ol reversed>
-  <li style="margin-bottom: 10px;"> Zemko, P., Ciroi, S., Orio, M., et al. (including <b>Tofflemire</b>, B. and 8 co-authors) 2018, NMRAS, 480, 4489Z <br><em> Optical Observations of Novae in Quiescence</em> - <a href='http://adsabs.harvard.edu/abs/2018MNRAS.480.4489Z' target="_blank">ADS</a> </li>
+
+  <li style="margin-bottom: 10px;"> Newton, E., Mann, A., <b>Tofflemire</b>, B., et al. 2019, submitted <br><em> TESS Hunt for Young and Maturing Exoplanets (THYME) I:
+  A planet in the 45 Myr Tucana-Horologium association </em> </li>
+
+  <li style="margin-bottom: 10px;"> Kounkel, M., Covey, K., Moe, M., et al. (including <b>Tofflemire</b>, B. and 25 co-authors) 2019, submitted <br><em> Close companions around young stars</em> </li>
+
+  <li style="margin-bottom: 10px;"> Zemko, P., Ciroi, S., Orio, M., et al. (including <b>Tofflemire</b>, B. and 8 co-authors) 2018, <em>NMRAS</em>, 480, 4489Z <br><em> Optical Observations of Novae in Quiescence</em> - <a href='http://adsabs.harvard.edu/abs/2018MNRAS.480.4489Z' target="_blank">ADS</a> </li>
    
   <li style="margin-bottom: 10px;"> Peretz, U., Orio, M., Behar, E., Bianchini, A., Gallagher, J., Rauch, T., <b>Tofflemire</b>, B., & Zemko, P., 2016, <em>ApJ</em> 829, 2 829, 2<br><em>Chemical and Physical Parameters from X-Ray High-resolution Spectra of the Galactic Nova V959 Mon</em> - <a href='http://adsabs.harvard.edu/abs/2016ApJ...829....2P' target="_blank">ADS</a> </li>
     

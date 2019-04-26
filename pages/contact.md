@@ -36,7 +36,7 @@ permalink: "/contact/"
 
 <div style='float:left; width:50%; margin-left:30px'>
     <p>
-        tofflemi -at- astro.wisc.edu
+        tofflemire -at- utexas.edu
     </p>
     
     <br/>
@@ -46,25 +46,22 @@ permalink: "/contact/"
         
         <br/>
         
-        University of Wisconsin - Madison
+        University of Texas at Austin
         
-        <br/>
-        
-        6511C Sterling Hall 
         
         <br/>
         
-        475 N. Charter Street
+        2515 Speedway, Stop C1400
         
         <br/>
         
-        Madison, Wisconsin 53706 
+        Austin, Texas 78712
     </p>
     
     <br/>
     
     <p>
-     <a href='http://www.astro.wisc.edu/our-people/graduate-students/tofflemire-benjamin/' target="_blank"> link </a>
+     <a href='https://astronomy.utexas.edu/component/cobalt/item/11-astronomy/3714-tofflemire-benjamin?Itemid=1272' target="_blank"> link </a>
     </p>
 </div>
 

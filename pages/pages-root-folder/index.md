@@ -20,11 +20,13 @@ permalink: /index.html
 homepage: true
 ---
 <hr>
-I am a PhD candidate in the Department of Astronomy at the University of Wisconsin-Madison where I work with Prof. Robert Mathieu. I have previously received a M.S. in Astronomy from UW-Madison and a B.S. in Astronomy and Physics from the University of Washington. My dissertation focuses on the late stages of binary star formation. Specifically, I study how the orbital motion of binary stars affects the distribution and dynamics of circumstellar material. More broadly, I am interested in using the intrinsic variability of accreting systems as a tool to understand the interaction between forming stars and their surrounding material. 
+I am a postdoctoral fellow in the Department of Astronomy at the University of Texas at Austin where I work with Prof. Adam Kraus.  I received a PhD in Astronomy from UW-Madison and a B.S. in Astronomy and Physics from the University of Washington.  My research mainly focuses on observing young, low-mass stars -- determining how they interact with their circumstellar environment, measuring their masses and radii, detecting planets around them, and investigating how all of these properties are affected by stellar companions. 
 
-I am looking forward to defending my thesis in the spring of 2018! 
+#My dissertation focuses on the late stages of binary star formation. 
+#Specifically, I study how the orbital motion of binary stars affects the distribution and dynamics of circumstellar material. 
+#More broadly, I am interested in using the intrinsic variability of accreting systems as a tool to understand the interaction between forming stars and their surrounding material. 
 
-Learn more about my graduate research <a href='https://tofflemire.github.io/research/'>here</a>.
+Learn more about my research <a href='https://tofflemire.github.io/research/'>here</a>.
 
 <a href='http://adsabs.harvard.edu/abs/2017ApJ...842L..12T' target="blank">Here is my most recent paper!</a>
 
