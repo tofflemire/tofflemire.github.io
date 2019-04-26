@@ -11,7 +11,8 @@ permalink: "/art/"
 <hr>
 
 ## Real Art
-Near the end of my PhD, I had the great pleasure to collaborate with Lydia Schweitzer, a UW-Madison art major, to create the following images. They are her renditions of the binary systems I studied for my thesis. They depict a pre-main sequence binary accreting material from a circumbinary disk. A simulation that helped inform these images can be found <a href='https://tofflemire.github.io/photometry/'>here</a>. It was an amazing experience working with her and I can't recommend the exercise of communicating your science in this way enough -- it was a blast! If you're interested in working with Lydia, you can find her contact info <a href='https://www.linkedin.com/in/lydia-schweitzer-73189916b' target='blank'>here</a>
+Near the end of my PhD, I had the great pleasure to collaborate with Lydia Schweitzer, a UW-Madison art major, to create the following images. They are her renditions of the binary systems I studied for my thesis. They depict a pre-main sequence binary accreting material from a circumbinary disk. A simulation that helped inform these images can be found <a href='https://tofflemire.github.io/photometry/'>here</a>. It was an amazing experience working with her and I can't recommend the exercise of communicating your science in this way enough -- it was a blast! If you're interested in working with Lydia, you can find her contact info <a href='https://www.linkedin.com/in/lydia-schweitzer-73189916b' target='blank'>here</a>.s
+
 <img src="/local_files/binary_final_zoom1.png" width="500" ALIGN="left" HSPACE="25">
 <img src="/local_files/binary_final_zoom2.png" width="500" ALIGN="left" HSPACE="25">
 
