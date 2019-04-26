@@ -30,6 +30,10 @@
   url: "/animations/"
   side: left
 
+- title: "Art"
+  url: "/art/"
+  side: left
+
 - title: "About Me"
   url: "/aboutme/"
   side: left

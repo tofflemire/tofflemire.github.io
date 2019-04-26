@@ -40,4 +40,4 @@ Mass accretion rates are measured from a photometric excess in the Johnson U-ban
 
 A peer-reviewed article published in the Astrophysical Journal on this result can be found <a href='https://arxiv.org/abs/1612.02431' target="_blank"> here</a>.
 <hr>
-More fun animations I have made for grad classes over the years can be found on my <a href='https://www.youtube.com/user/BenTofflemire' target="_blank">youtube channel</a>. 
+More animations I have made for grad classes over the years can be found on my <a href='https://www.youtube.com/user/BenTofflemire' target="_blank">youtube channel</a>. 
