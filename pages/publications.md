@@ -13,7 +13,7 @@ permalink: "/publications/"
 
 <ol reversed>
   <li style="margin-bottom: 10px;"> 
-    <b>Tofflemire</b>, B. M., Mathieu, R. D., & Johns-Krull, C. 2019 <em>AJ</em>, in press <br><em>Accretion Kinematics in the T Tauri Binary TWA 3A: Evidence for Preferential Accretion onto the TWA 3A Primary</em> - <a href='https://ui.adsabs.harvard.edu/abs/2019arXiv191012878T/abstract' target="_blank">ADS</a> 
+    <b>Tofflemire</b>, B. M., Mathieu, R. D., & Johns-Krull, C. 2019, <em>AJ</em>, in press <br><em>Accretion Kinematics in the T Tauri Binary TWA 3A: Evidence for Preferential Accretion onto the TWA 3A Primary</em> - <a href='https://ui.adsabs.harvard.edu/abs/2019arXiv191012878T/abstract' target="_blank">ADS</a> 
   </li>
 
   <li style="margin-bottom: 10px;"> 
