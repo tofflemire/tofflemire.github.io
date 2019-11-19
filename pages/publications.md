@@ -13,6 +13,10 @@ permalink: "/publications/"
 
 <ol reversed>
   <li style="margin-bottom: 10px;"> 
+    <b>Tofflemire</b>, B. M., Mathieu, R. D., & Johns-Krull, C. 2019 <em>AJ</em>, in press <br><em>Accretion Kinematics in the T Tauri Binary TWA 3A: Evidence for Preferential Accretion onto the TWA 3A Primary</em> - <a href='https://arxiv.org/abs/1910.12878' target="_blank">ADS</a> 
+  </li>
+
+  <li style="margin-bottom: 10px;"> 
     <b>Tofflemire</b>, B. M., Mathieu, R. D., Herczeg, G. J., Akeson, R. L., & Ciardi, D. R. 2017b, <em>ApJL</em>, 842, L12<br><em>Pulsed Accretion in the T Tauri Binary TWA 3A</em> - <a href='http://adsabs.harvard.edu/abs/2017ApJ...842L..12T' target="_blank">ADS</a> 
   </li>
 
@@ -37,7 +41,7 @@ permalink: "/publications/"
 
   <li style="margin-bottom: 10px;"> Kounkel, M., Covey, K., Moe, M., et al. (including <b>Tofflemire</b>, B. and 25 co-authors) 2019, submitted <br><em> Close companions around young stars</em> </li>
 
-  <li style="margin-bottom: 10px;"> Zemko, P., Ciroi, S., Orio, M., et al. (including <b>Tofflemire</b>, B. and 8 co-authors) 2018, <em>NMRAS</em>, 480, 4489Z <br><em> Optical Observations of Novae in Quiescence</em> - <a href='http://adsabs.harvard.edu/abs/2018MNRAS.480.4489Z' target="_blank">ADS</a> </li>
+  <li style="margin-bottom: 10px;"> Zemko, P., Ciroi, S., Orio, M., et al. (including <b>Tofflemire</b>, B. and 8 co-authors) 2018, <em>NMRAS</em>, 480, 4489Z <br><em> Optical Observations of 'Hot' Novae Returning to Quiescence</em> - <a href='http://adsabs.harvard.edu/abs/2018MNRAS.480.4489Z' target="_blank">ADS</a> </li>
    
   <li style="margin-bottom: 10px;"> Peretz, U., Orio, M., Behar, E., Bianchini, A., Gallagher, J., Rauch, T., <b>Tofflemire</b>, B., & Zemko, P., 2016, <em>ApJ</em> 829, 2 829, 2<br><em>Chemical and Physical Parameters from X-Ray High-resolution Spectra of the Galactic Nova V959 Mon</em> - <a href='http://adsabs.harvard.edu/abs/2016ApJ...829....2P' target="_blank">ADS</a> </li>
     
