@@ -28,4 +28,6 @@ Learn more about my research <a href='https://tofflemire.github.io/research/'>he
 
 <a href='https://ui.adsabs.harvard.edu/abs/2019arXiv191012878T/abstract' target="blank">Here is my most recent paper!</a>
 
+<a href='/local_files/Welcome_to_THYME2020.pdf' target="_blank">The THYME 2020 Program</a>
+
 <hr>
