@@ -26,6 +26,6 @@ I am a postdoctoral fellow in the Department of Astronomy at the University of T
 
 Learn more about my research <a href='https://tofflemire.github.io/research/'>here</a>.
 
-<a href='https://ui.adsabs.harvard.edu/abs/2019arXiv191012878T/abstract' target="blank">Here is my most recent paper!</a>
+<a href='https://arxiv.org/abs/2102.06066' target="blank">Here is my most recent paper! It's about a young exoplanet!</a>
 
 <hr>
