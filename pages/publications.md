@@ -13,7 +13,11 @@ permalink: "/publications/"
 
 <ol reversed>
   <li style="margin-bottom: 10px;"> 
-    <b>Tofflemire</b>, B. M., Mathieu, R. D., & Johns-Krull, C. 2019, <em>AJ</em>, in press <br><em>Accretion Kinematics in the T Tauri Binary TWA 3A: Evidence for Preferential Accretion onto the TWA 3A Primary</em> - <a href='https://ui.adsabs.harvard.edu/abs/2019arXiv191012878T/abstract' target="_blank">ADS</a> 
+    <b>Tofflemire</b>, B. M., Rizzuto, A. C., Newton, E. R., Kraus, A. L. et al. 2021, <em>AJ</em>, in press <br><em>TESS Hunt for Young and Maturing Exoplanets (THYME) V: A Sub-Neptune Transiting a Young Star in a Newly Discovered 250 Myr Association</em> - <a href='https://ui.adsabs.harvard.edu/abs/2021arXiv210206066T/abstract' target="_blank">ADS</a> 
+  </li>
+
+  <li style="margin-bottom: 10px;"> 
+    <b>Tofflemire</b>, B. M., Mathieu, R. D., & Johns-Krull, C. 2019, <em>AJ</em>, 158, 245T <br><em>Accretion Kinematics in the T Tauri Binary TWA 3A: Evidence for Preferential Accretion onto the TWA 3A Primary</em> - <a href='https://ui.adsabs.harvard.edu/abs/2019AJ....158..245T/abstract' target="_blank">ADS</a> 
   </li>
 
   <li style="margin-bottom: 10px;"> 
@@ -36,10 +40,19 @@ permalink: "/publications/"
 ## Co-Author Publications
 <ol reversed>
 
-  <li style="margin-bottom: 10px;"> Newton, E., Mann, A., <b>Tofflemire</b>, B., et al. 2019, submitted <br><em> TESS Hunt for Young and Maturing Exoplanets (THYME) I:
-  A planet in the 45 Myr Tucana-Horologium association </em> </li>
+  <li style="margin-bottom: 10px;"> Newton, E., Mann, A., Kraus, A., et al. (including <b>Tofflemire</b>, B. and 49 co-authors) 2021, <em>AJ</em>, 161, 65N <br><em> TESS Hunt for Young and Maturing Exoplanets (THYME). IV. Three Small Planets Orbiting a 120 Myr Old Star in the Pisces-Eridanus Stream </em> - <a href='https://ui.adsabs.harvard.edu/abs/2021AJ....161...65N/abstract' target="_blank">ADS</a> </li> 
 
-  <li style="margin-bottom: 10px;"> Kounkel, M., Covey, K., Moe, M., et al. (including <b>Tofflemire</b>, B. and 25 co-authors) 2019, submitted <br><em> Close companions around young stars</em> </li>
+  <li style="margin-bottom: 10px;"> Waalkes, W., Berta-Thompson, Z., Collins, K., Feinstein, A., <b>Tofflemire</b>, B., et al. (36 co-authors) 2021, <em>AJ</em>, 161, 13W <br><em> TOI 122b and TOI 237b: Two Small Warm Planets Orbiting Inactive M Dwarfs Found by TESS </em> - <a href='https://ui.adsabs.harvard.edu/abs/2021AJ....161...13W/abstract' target="_blank">ADS</a> </li> 
+
+  <li style="margin-bottom: 10px;"> Nine, A., Milliman, K., Mathieu, R., et al. (including <b>Tofflemire</b>, B. and 3 co-authors) 2020, <em>AJ</em>, 160, 169N <br><em> WIYN Open Cluster Study. LXXXII. Radial-velocity Measurements and Spectroscopic Binary Orbits in the Open Cluster NGC 7789 </em> - <a href='https://ui.adsabs.harvard.edu/abs/2020AJ....160..169N/abstract' target="_blank">ADS</a> </li> 
+
+  <li style="margin-bottom: 10px;"> Rizzuto, A., Newton, E., Mann, A., <b>Tofflemire</b>b>, B et al. (13 co-authors) 2020, <em>AJ</em>, 160, 33R <br><em> T TESS Hunt for Young and Maturing Exoplanets (THYME). II. A 17 Myr Old Transiting Hot Jupiter in the Sco-Cen Association </em> - <a href='https://ui.adsabs.harvard.edu/abs/2020AJ....160...33R/abstract' target="_blank">ADS</a> </li> 
+
+  <li style="margin-bottom: 10px;"> Pearce, L., Kraus, A., Dupuy, T., et al. (including <b>Tofflemire</b>, B. and 3 co-authors) 2020, <em>ApJ</em>, 894, 115P <br><em> Orbital Parameter Determination for Wide Stellar Binary Systems in the Age of Gaia </em> - <a href='https://ui.adsabs.harvard.edu/abs/2020ApJ...894..115P/abstract' target="_blank">ADS</a> </li> 
+
+  <li style="margin-bottom: 10px;"> Newton, E., Mann, A., <b>Tofflemire</b>, B., et al. 2019, <em>ApJ</em>, 880L, 17N <br><em> TESS Hunt for Young and Maturing Exoplanets (THYME) I: A Planet in the 45 Myr Tucana-Horologium Association </em> - <a href='https://ui.adsabs.harvard.edu/abs/2019ApJ...880L..17N/abstract' target="_blank">ADS</a> </li>
+
+  <li style="margin-bottom: 10px;"> Kounkel, M., Covey, K., Moe, M., et al. (including <b>Tofflemire</b>, B. and 25 co-authors) 2019, <em>AJ</em>, 157, 196K  <br><em> Close companions around young stars</em> - <a href='https://ui.adsabs.harvard.edu/abs/2019AJ....157..196K/abstract' target="_blank">ADS</a> </li>
 
   <li style="margin-bottom: 10px;"> Zemko, P., Ciroi, S., Orio, M., et al. (including <b>Tofflemire</b>, B. and 8 co-authors) 2018, <em>NMRAS</em>, 480, 4489Z <br><em> Optical Observations of 'Hot' Novae Returning to Quiescence</em> - <a href='http://adsabs.harvard.edu/abs/2018MNRAS.480.4489Z' target="_blank">ADS</a> </li>
    
