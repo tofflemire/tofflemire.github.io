@@ -20,6 +20,7 @@ permalink: "/cv/"
 ## Awards
 
 <UL>
+<LI>2020 &ndash; 51 Pegasi b Postdoctoral Fellowship in Planetary Astronomy </LI>	
 <LI>2017 &ndash; University of Wisconsin Jansky Award for Outstanding Research</LI>
 <LI>2016, 2017 &ndash; University of Wisconsin Graduate School Conference Presentation Award</LI>
 <LI>2015 &ndash; Sigma Xi Grants in Aid of Research</LI>
