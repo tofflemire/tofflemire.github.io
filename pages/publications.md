@@ -13,7 +13,7 @@ permalink: "/publications/"
 
 <ol reversed>
   <li style="margin-bottom: 10px;"> 
-    <b>Tofflemire</b>, B. M., Rizzuto, A. C., Newton, E. R., Kraus, A. L. et al. 2021, <em>AJ</em>, in press <br><em>TESS Hunt for Young and Maturing Exoplanets (THYME) V: A Sub-Neptune Transiting a Young Star in a Newly Discovered 250 Myr Association</em> - <a href='https://ui.adsabs.harvard.edu/abs/2021arXiv210206066T/abstract' target="_blank">ADS</a> 
+    <b>Tofflemire</b>, B. M., Rizzuto, A. C., Newton, E. R., Kraus, A. L. et al. (26 co-authors) 2021, <em>AJ</em>, in press <br><em>TESS Hunt for Young and Maturing Exoplanets (THYME) V: A Sub-Neptune Transiting a Young Star in a Newly Discovered 250 Myr Association</em> - <a href='https://ui.adsabs.harvard.edu/abs/2021arXiv210206066T/abstract' target="_blank">ADS</a> 
   </li>
 
   <li style="margin-bottom: 10px;"> 
@@ -37,6 +37,17 @@ permalink: "/publications/"
 
 <hr>
 
+## Student Publications
+<ol reversed>
+
+  <li style="margin-bottom: 10px;"> <b>Gutierrez</b>, M., <b>Catlett</b>, V., <b>Tofflemire</b>, B., et al. (2 coauthors) 2020, <em>RNAAS</em>, 4, 7G <br><em> Constraining Temperature and Density of Accretion Flows in T Tauri Stars from Brackett Line Ratios </em> - <a href='https://ui.adsabs.harvard.edu/abs/2020RNAAS...4....7G/abstract' target="_blank">ADS</a> </li> 
+
+  <li style="margin-bottom: 10px;"> <b>Catlett</b>, V., <b>Gutierrez</b>, M., <b>Tofflemire</b>, B., et al. (2 coauthors) 2019, <em>RNAAS</em>, 3, 195C <br><em> Near-infrared Accretion Diagnostics of Young Stellar Objects </em> - <a href='https://ui.adsabs.harvard.edu/abs/2019RNAAS...3..195C/abstract' target="_blank">ADS</a> </li> 
+
+</ol>
+
+<hr>
+
 ## Co-Author Publications
 <ol reversed>
 
@@ -46,7 +57,7 @@ permalink: "/publications/"
 
   <li style="margin-bottom: 10px;"> Nine, A., Milliman, K., Mathieu, R., et al. (including <b>Tofflemire</b>, B. and 3 co-authors) 2020, <em>AJ</em>, 160, 169N <br><em> WIYN Open Cluster Study. LXXXII. Radial-velocity Measurements and Spectroscopic Binary Orbits in the Open Cluster NGC 7789 </em> - <a href='https://ui.adsabs.harvard.edu/abs/2020AJ....160..169N/abstract' target="_blank">ADS</a> </li> 
 
-  <li style="margin-bottom: 10px;"> Rizzuto, A., Newton, E., Mann, A., <b>Tofflemire</b>b>, B et al. (13 co-authors) 2020, <em>AJ</em>, 160, 33R <br><em> T TESS Hunt for Young and Maturing Exoplanets (THYME). II. A 17 Myr Old Transiting Hot Jupiter in the Sco-Cen Association </em> - <a href='https://ui.adsabs.harvard.edu/abs/2020AJ....160...33R/abstract' target="_blank">ADS</a> </li> 
+  <li style="margin-bottom: 10px;"> Rizzuto, A., Newton, E., Mann, A., <b>Tofflemire</b>, B et al. (13 co-authors) 2020, <em>AJ</em>, 160, 33R <br><em> TESS Hunt for Young and Maturing Exoplanets (THYME). II. A 17 Myr Old Transiting Hot Jupiter in the Sco-Cen Association </em> - <a href='https://ui.adsabs.harvard.edu/abs/2020AJ....160...33R/abstract' target="_blank">ADS</a> </li> 
 
   <li style="margin-bottom: 10px;"> Pearce, L., Kraus, A., Dupuy, T., et al. (including <b>Tofflemire</b>, B. and 3 co-authors) 2020, <em>ApJ</em>, 894, 115P <br><em> Orbital Parameter Determination for Wide Stellar Binary Systems in the Age of Gaia </em> - <a href='https://ui.adsabs.harvard.edu/abs/2020ApJ...894..115P/abstract' target="_blank">ADS</a> </li> 
 
