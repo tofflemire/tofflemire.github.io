@@ -13,7 +13,7 @@ permalink: "/publications/"
 
 <ol reversed>
   <li style="margin-bottom: 10px;"> 
-    <b>Tofflemire</b>, B. M., Rizzuto, A. C., Newton, E. R., Kraus, A. L. et al. (26 co-authors) 2021, <em>AJ</em>, in press <br><em>TESS Hunt for Young and Maturing Exoplanets (THYME) V: A Sub-Neptune Transiting a Young Star in a Newly Discovered 250 Myr Association</em> - <a href='https://ui.adsabs.harvard.edu/abs/2021arXiv210206066T/abstract' target="_blank">ADS</a> 
+    <b>Tofflemire</b>, B. M., Rizzuto, A. C., Newton, E. R., Kraus, A. L. et al. (26 co-authors) 2021, <em>AJ</em>, 161, 171T <br><em>TESS Hunt for Young and Maturing Exoplanets (THYME) V: A Sub-Neptune Transiting a Young Star in a Newly Discovered 250 Myr Association</em> - <a href='https://ui.adsabs.harvard.edu/abs/2021arXiv210206066T/abstract' target="_blank">ADS</a> 
   </li>
 
   <li style="margin-bottom: 10px;"> 
