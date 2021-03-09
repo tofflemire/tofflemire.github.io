@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Refereed Publications"
+title: "Publications"
 subheadline: ""
 meta_teaser: ""
 teaser: ""
@@ -50,6 +50,8 @@ permalink: "/publications/"
 
 ## Co-Author Publications
 <ol reversed>
+
+  <li style="margin-bottom: 10px;"> Kidder, B., Mace G., Lopez-Valdivia, R., et al. (including <b>Tofflemire</b>, B. and 4 co-authors) 2021, <em>ApJ</em>, submitted <br><em> The IGRINS YSO Survey: Veiling Spectra of Pre-Main-Sequence Stars in Taurus-Auriga </em> </li> 
 
   <li style="margin-bottom: 10px;"> Newton, E., Mann, A., Kraus, A., et al. (including <b>Tofflemire</b>, B. and 49 co-authors) 2021, <em>AJ</em>, 161, 65N <br><em> TESS Hunt for Young and Maturing Exoplanets (THYME). IV. Three Small Planets Orbiting a 120 Myr Old Star in the Pisces-Eridanus Stream </em> - <a href='https://ui.adsabs.harvard.edu/abs/2021AJ....161...65N/abstract' target="_blank">ADS</a> </li> 
 
