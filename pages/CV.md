@@ -31,9 +31,9 @@ permalink: "/cv/"
 ## Awards
 
 <UL>
-<LI>2021 &ndash; TESS Cycle 3 Guest Investigator Prorgam ($70,000)</LI>	
+<LI>2021 &ndash; <em>TESS</em> Cycle 3 Guest Investigator Prorgam ($70,000)</LI>	
 <LI>2020 &ndash; 51 Pegasi b Postdoctoral Fellowship in Planetary Astronomy ($500,000)</LI>	
-<LI>2020 &ndash; TESS Cycle 3 Guest Investigator Prorgam ($75,000)</LI>	
+<LI>2020 &ndash; <em>TESS</em> Cycle 3 Guest Investigator Prorgam ($75,000)</LI>	
 <LI>2017 &ndash; University of Wisconsin Jansky Award for Outstanding Research</LI>
 <LI>2016, 2017 &ndash; University of Wisconsin Graduate School Conference Presentation Award ($2,400)</LI>
 <LI>2015 &ndash; Sigma Xi Grants in Aid of Research ($2,500)</LI>

@@ -13,6 +13,10 @@ permalink: "/publications/"
 
 <ol reversed>
   <li style="margin-bottom: 10px;"> 
+    <b>Tofflemire</b>, B. M., Kraus, A.~L., Mann, A.W., et al.\ (12 co-authors) 2022, <em>AJ</em>, submitted <br><em>A Low-Mass, Pre-Main Sequence Eclipsing Binary in the 40 Myr Columba Association -- Fundamental Stellar Parameters and Modeling the Effect of Star Spots</em> - <a href='' target="_blank">ADS</a> 
+  </li>  
+
+  <li style="margin-bottom: 10px;"> 
     <b>Tofflemire</b>, B. M., Rizzuto, A. C., Newton, E. R., Kraus, A. L. et al. (26 co-authors) 2021, <em>AJ</em>, 161, 171T <br><em>TESS Hunt for Young and Maturing Exoplanets (THYME) V: A Sub-Neptune Transiting a Young Star in a Newly Discovered 250 Myr Association</em> - <a href='https://ui.adsabs.harvard.edu/abs/2021arXiv210206066T/abstract' target="_blank">ADS</a> 
   </li>
 
@@ -39,6 +43,9 @@ permalink: "/publications/"
 
 ## Student Publications
 <ol reversed>
+  <li style="margin-bottom: 10px;"> <b>Wilson</b>, M., <b>Tofflemire</b>, B., Kerr, R., et al. (2 coauthors) 2022, <em>RNAAS</em>, 6, 9 <br><em> Characterization of a Solar Mass Eclipsing Binary with TESS and IGRINS </em> - <a href='https://ui.adsabs.harvard.edu/abs/2022RNAAS...6..196W/abstract' target="_blank">ADS</a> </li> 
+
+  <li style="margin-bottom: 10px;"> <b>Fitton</b>, S., <b>Tofflemire</b>, B., Kraus, A. 2021, <em>RNAAS</em>, 6, 18 <br><em> Disk Material Inflates Gaia RUWE Values in Single Stars </em> - <a href='https://ui.adsabs.harvard.edu/abs/2022RNAAS...6...18F/abstract' target="_blank">ADS</a> </li> 
 
   <li style="margin-bottom: 10px;"> <b>Gutierrez</b>, M., <b>Catlett</b>, V., <b>Tofflemire</b>, B., et al. (2 coauthors) 2020, <em>RNAAS</em>, 4, 7G <br><em> Constraining Temperature and Density of Accretion Flows in T Tauri Stars from Brackett Line Ratios </em> - <a href='https://ui.adsabs.harvard.edu/abs/2020RNAAS...4....7G/abstract' target="_blank">ADS</a> </li> 
 
@@ -51,7 +58,33 @@ permalink: "/publications/"
 ## Co-Author Publications
 <ol reversed>
 
-  <li style="margin-bottom: 10px;"> Kidder, B., Mace G., Lopez-Valdivia, R., et al. (including <b>Tofflemire</b>, B. and 4 co-authors) 2021, <em>ApJ</em>, submitted <br><em> The IGRINS YSO Survey: Veiling Spectra of Pre-Main-Sequence Stars in Taurus-Auriga </em> </li> 
+  <li style="margin-bottom: 10px;"> Sun, Q., Wang, S., Mann, A., <b>Tofflemire</b>, B., et al. (2 co-authors) 2022, <em>AJ</em>, submitted <br><em>The Sub-Neptune TOI-251b in MELANGE-5 - a Newly Discovered ~200 Myr Young Stellar Association</em></li>
+
+  <li style="margin-bottom: 10px;"> Wood, M., Mann, A., Barber, M., Bush, J., Kraus, A., <b>Tofflemire</b>, B., et al. (31 co-authors), 2022, <em>AJ</em>, submitted <br><em>
+  TESS Hunt for Young and Maturing Exoplanets (THYME) IX: a 27 Myr extended population of Lower-Centaurus Crux with a transiting two-planet system</em></li>
+
+  <li style="margin-bottom: 10px;"> Krolikowski, D., Kraus, A., <b>Tofflemire</b>, B. & Morley, C. 2022, <em>AJ</em>, submitted <br><em> The Strength and Variability of the Helium 10830~\AA\ Triplet in Young Stars, and Implications for Exosphere Detection</em></li>
+
+  <li style="margin-bottom: 10px;"> Zhang, Z., Morley, C., Gully-Santiago, M., et al. (including <b>Tofflemire</b> and 13 co-authors) 2022, <em>Science</em>, submitted <br><em>
+  Detection of Extended Tidal Tails of Photoevaporative Mass Loss in the Hot Jupiter HAT-P-32 b</em></li>
+
+  <li style="margin-bottom: 10px;"> Kerr, R., Kraus, A., Murphy, S., Krolikowski, D., Offner, S., <b>Tofflemire</b>, B., & Rizzuto, A. 2022, <em>AJ</em>, accepted <br><em>SPYGLASS-II: The Multi-Generational and Multi-Origin Star Formation History of Cepheus Far North</em> - <a href='https://ui.adsabs.harvard.edu/abs/2022arXiv220912959K/abstract' target="_blank">ADS</a> </li> 
+
+  <li style="margin-bottom: 10px;"> Barber, M., Mann, A., Johnathan, B., <b>Tofflemire</b>, B., et al. (including 7 co-authors) 2022, <em>AJ</em>, 164, 88, <br><em>Transit Hunt for Young and Maturing Exoplanets (THYME). VIII. A Pleiades-age Association Harboring Two Transiting Planetary Systems from Kepler</em> - <a href='https://ui.adsabs.harvard.edu/abs/2022AJ....164...88B/abstract' target="_blank">ADS</a> </li> 
+
+  <li style="margin-bottom: 10px;"> Newton, E., Rampalli, R., Kraus, A., et al. (including <b>Tofflemire</b> and 36 co-authors) 2022, <em>AJ</em>, 164, 115 <br><em> TESS Hunt for Young and Maturing Exoplanets (THYME). VII. Membership, Rotation, and Lithium in the Young Cluster Group-X and a New Young Exoplanet</em> - <a href='https://ui.adsabs.harvard.edu/abs/2022AJ....164..115N/abstract' target="_blank">ADS</a> </li> 
+
+  <li style="margin-bottom: 10px;"> Mann, A., Wood, M., Schmidt, S., et al. (including <b>Tofflemire</b> and 47 co-authors) 2022, <em>AJ</em>, 163, 156 <br><em>TESS Hunt for Young and Maturing Exoplanets (THYME) VI: an 11 Myr giant planet transiting a very low-mass star in Lower Centaurus Crux</em> - <a href='https://ui.adsabs.harvard.edu/abs/2022AJ....163..156M/abstract' target="_blank">ADS</a> </li> 
+
+  <li style="margin-bottom: 10px;"> Gosnell, N., Gully-Santiago, M., Leiner, E., & <b>Tofflemire</b>, B. 2022, <em>ApJ</em>, 925, 5 <br><em>Observationally Constraining the Starspot Properties of Magnetically Active M67 Sub-Subgiant S1063</em> - <a href='https://ui.adsabs.harvard.edu/abs/2022ApJ...925....5G/abstract' target="_blank">ADS</a> </li> 
+
+  <li style="margin-bottom: 10px;"> Zhou, G., Wirth, C., Huang, C., et al. (including <b>Tofflemire</b> and 36 co-authors) 2022, <em>AJ</em>, 163, 289 <br><em>A Mini-Neptune from TESS and CHEOPS Around the 120 Myr Old AB Dor Member HIP 94235</em> - <a href='https://ui.adsabs.harvard.edu/abs/2022AJ....163..289Z/abstract' target="_blank">ADS</a> </li> 
+  
+  <li style="margin-bottom: 10px;"> Han, E., Rappaport, S., Vanderburg, A., <b>Tofflemire</b>, B., et al. (11 co-authors) 2022, <em>MNRAS</em>, 510, 2448 <br><em> A 2+1 + 1 quadruple star system containing the most eccentric, low-mass, short-period, eclipsing binary known</em> - <a href='https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.2448H/abstract' target="_blank">ADS</a> </li> 
+
+  <li style="margin-bottom: 10px;"> Leiner, E., Geller, A., Gully-Santiago, M., Gosnell, N. & <b>Tofflemire</b>, B. 2022, ApJ, 927, 222 <br><em>Revealing the Field Sub-subgiant Population Using a Catalog of Active Giant Stars and Gaia EDR3</em> - <a href='https://ui.adsabs.harvard.edu/abs/2022ApJ...927..222L/abstract' target="_blank">ADS</a> </li> 
+  
+  <li style="margin-bottom: 10px;"> Kidder, B., Mace G., Lopez-Valdivia, R., et al. (including <b>Tofflemire</b>, B. and 4 co-authors) 2021, <em>ApJ</em>, 922, 27 <br><em> The IGRINS YSO Survey: Veiling Spectra of Pre-Main-Sequence Stars in Taurus-Auriga </em> - <a href='https://ui.adsabs.harvard.edu/abs/2021ApJ...922...27K/abstract' target="_blank">ADS</a> </li> 
 
   <li style="margin-bottom: 10px;"> Newton, E., Mann, A., Kraus, A., et al. (including <b>Tofflemire</b>, B. and 49 co-authors) 2021, <em>AJ</em>, 161, 65N <br><em> TESS Hunt for Young and Maturing Exoplanets (THYME). IV. Three Small Planets Orbiting a 120 Myr Old Star in the Pisces-Eridanus Stream </em> - <a href='https://ui.adsabs.harvard.edu/abs/2021AJ....161...65N/abstract' target="_blank">ADS</a> </li> 
 
@@ -77,20 +110,17 @@ permalink: "/publications/"
 
   <li style="margin-bottom: 10px;"> Orio, M., Behar, E., Gallagher, J., et al. (including <b>Tofflemire</b>, B. and 6 co-authors) 2013, <em>MNRAS</em>, 429, 1342<br><em>Thomson scattering and collisional ionization in the X-ray grating spectra of the recurrent nova U Scorpii</em> - <a href='http://adsabs.harvard.edu/abs/2013MNRAS.429.1342O' target="_blank">ADS</a> </li>
   
-  <li style="margin-bottom: 10px;"> Fleming, S. W., Ge, J., Barnes, R., et al. (including <b>Tofflemire</b>, B. and 58 co-authors) 2012, <em>AJ</em>, 144, 72<br><em>Very Low Mass Stellar and Substellar Companions to Solar-like Stars from
-MARVELS. II. A Short-period Companion Orbiting an F Star with Evidence of a Stellar Tertiary and Significant Mutual Inclination </em> - <a href='http://adsabs.harvard.edu/abs/2012AJ....144...72F' target="_blank">ADS</a> </li>
+  <li style="margin-bottom: 10px;"> Fleming, S. W., Ge, J., Barnes, R., et al. (including <b>Tofflemire</b>, B. and 58 co-authors) 2012, <em>AJ</em>, 144, 72<br><em>Very Low Mass Stellar and Substellar Companions to Solar-like Stars from MARVELS. II. A Short-period Companion Orbiting an F Star with Evidence of a Stellar Tertiary and Significant Mutual Inclination </em> - <a href='http://adsabs.harvard.edu/abs/2012AJ....144...72F' target="_blank">ADS</a> </li>
 
   <li style="margin-bottom: 10px;"> Wisniewski, J. P., Ge, J., Crepp, J. R., et al. (including <b>Tofflemire</b>, B. and 41 co-authors) 2012, <em>AJ</em>, 143, 107<br><em>Very Low Mass Stellar and Substellar Companions to Solar-like Stars from MARVELS. I. A Low-mass Ratio Stellar Companion to TYC 4110-01037-1 in a 79 Day Orbit</em> - <a href='http://adsabs.harvard.edu/abs/2012AJ....143..107W' target="_blank">ADS</a> </li>
   
-  <li style="margin-bottom: 10px;"> Sayres, C., Subasavage, J. P., Bergeron, P., Dufour, P., Davenport, J., AlSayyad, Y., &
-<b>Tofflemire</b>, B., 2012, <em>AJ</em>, 143, 103<br><em>A Multi-survey Approach to White Dwarf Discovery</em> -  <a href='http://adsabs.harvard.edu/abs/2012AJ....143..103S' target="_blank">ADS</a> </li>
+  <li style="margin-bottom: 10px;"> Sayres, C., Subasavage, J. P., Bergeron, P., Dufour, P., Davenport, J., AlSayyad, Y., & <b>Tofflemire</b>, B., 2012, <em>AJ</em>, 143, 103<br><em>A Multi-survey Approach to White Dwarf Discovery</em> -  <a href='http://adsabs.harvard.edu/abs/2012AJ....143..103S' target="_blank">ADS</a> </li>
 
   <li style="margin-bottom: 10px;"> Schmidt, S., Kowalski, A., Hawley, S., Hilton, E., Wisniewski, J., & <b>Tofflemire</b>, B., 2012, <em>ApJ</em>, 745, 14<br><em>Probing the Flare Atmospheres of M Dwarfs Using Infrared Emission Lines</em> - <a href='http://adsabs.harvard.edu/abs/2012ApJ...745...14S' target="_blank">ADS</a> </li>
   
   <li style="margin-bottom: 10px;"> Hornbeck, J., Grady, C., Perrin, M., Wisniewski, J., <b>Tofflemire</b>, B., et al. (11 co-authors) 2012, <em>ApJ</em>, 744, 54<br><em>PDS 144: The First Confirmed Herbig Ae-Herbig Ae Wide Binary</em> - <a href='http://adsabs.harvard.edu/abs/2012ApJ...744...54H' target="_blank">ADS</a> </li>
   
-  <li style="margin-bottom: 10px;"> Eisenstein, D. J., Weinberg, D. H., Agol, E., et al. (including <b>Tofflemire</b>, B. and 252 coauthors) 2011, <em>AJ</em>, 142, 72<br><em>SDSS-III: Massive Spectroscopic Surveys of the Distant Universe,
-the Milky Way, and Extra-Solar Planetary Systems</em> - <a href='http://adsabs.harvard.edu/abs/2011AJ....142...72E' target="_blank">ADS</a> </li>
+  <li style="margin-bottom: 10px;"> Eisenstein, D. J., Weinberg, D. H., Agol, E., et al. (including <b>Tofflemire</b>, B. and 252 coauthors) 2011, <em>AJ</em>, 142, 72<br><em>SDSS-III: Massive Spectroscopic Surveys of the Distant Universe, the Milky Way, and Extra-Solar Planetary Systems</em> - <a href='http://adsabs.harvard.edu/abs/2011AJ....142...72E' target="_blank">ADS</a> </li>
 
   <li style="margin-bottom: 10px;"> Aihara, H., Allende Prieto, C., An, D., et al. (including <b>Tofflemire</b>, B. and 176 co-authors) 2011, <em>ApJS</em>, 193, 29<br><em>The Eighth Data Release of the Sloan Digital Sky Survey: First Data from SDSS-III</em> - <a href='http://adsabs.harvard.edu/abs/2011ApJS..193...29A' target="_blank">ADS</a> </li>
   
