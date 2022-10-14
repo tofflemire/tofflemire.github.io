@@ -9,11 +9,21 @@ permalink: "/publications/"
 ---
 <!--more-->
 <hr>
+## Publication Summary
+
+<UL>
+<LI>First Author Publications: 9 | 200+ citations </LI>
+<LI>Total Refereed Publications: 42 | 3500+ citations </LI>
+<LI>H-Index: 19 </LI>
+<LI>Student-led Publications: 4</LI>
+</UL>
+
+<hr>
 ## First Author Publications
 
 <ol reversed>
   <li style="margin-bottom: 10px;"> 
-    <b>Tofflemire</b>, B. M., Kraus, A.~L., Mann, A.W., et al.\ (12 co-authors) 2022, <em>AJ</em>, submitted <br><em>A Low-Mass, Pre-Main Sequence Eclipsing Binary in the 40 Myr Columba Association -- Fundamental Stellar Parameters and Modeling the Effect of Star Spots</em> - <a href='' target="_blank">ADS</a> 
+    <b>Tofflemire</b>, B. M., Kraus, A. L., Mann, A.W., et al. (12 co-authors) 2022, <em>AJ</em>, submitted <br><em>A Low-Mass, Pre-Main Sequence Eclipsing Binary in the 40 Myr Columba Association -- Fundamental Stellar Parameters and Modeling the Effect of Star Spots</em> - <a href='' target="_blank">ADS</a> 
   </li>  
 
   <li style="margin-bottom: 10px;"> 
