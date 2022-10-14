@@ -9,6 +9,17 @@ permalink: "/cv/"
 ---
 <!--more-->
 <hr>
+
+## Appointments
+
+<UL>
+<LI>2020-present &ndash; 51 Pegasi b Postdoctoral Fellow, UT-Austin -- Faculty Host: Adam Kraus </LI>
+<LI>2018-2020 &ndash; Postdoctoral Fellow, UT-Austin -- Advisor: Adam Kraus </LI>
+<LI>2013-2018 &ndash; Research Assistant, UW-Madison -- Advisor: Robert Mathieu</LI>
+<LI>2011-2013 &ndash; Research Assistant, UW-Madison -- Advisor: Marina Orio</LI>
+<LI>2010-2011 &ndash; Research Assistant, University of Washington -- Advisor: John Wisniewski & Suzanne Hawley</LI>
+</UL>
+
 ## Education
 
 <UL>
@@ -20,17 +31,19 @@ permalink: "/cv/"
 ## Awards
 
 <UL>
-<LI>2020 &ndash; 51 Pegasi b Postdoctoral Fellowship in Planetary Astronomy </LI>	
+<LI>2021 &ndash; TESS Cycle 3 Guest Investigator Prorgam ($70,000)</LI>	
+<LI>2020 &ndash; 51 Pegasi b Postdoctoral Fellowship in Planetary Astronomy ($500,000)</LI>	
+<LI>2020 &ndash; TESS Cycle 3 Guest Investigator Prorgam ($75,000)</LI>	
 <LI>2017 &ndash; University of Wisconsin Jansky Award for Outstanding Research</LI>
-<LI>2016, 2017 &ndash; University of Wisconsin Graduate School Conference Presentation Award</LI>
-<LI>2015 &ndash; Sigma Xi Grants in Aid of Research</LI>
-<LI>2015 &ndash; University of Wisconsin Bautz Travel Fellowship</LI>
-<LI>2015 &ndash; University of Wisconsin Vilas Conference Presentation Award</LI>
+<LI>2016, 2017 &ndash; University of Wisconsin Graduate School Conference Presentation Award ($2,400)</LI>
+<LI>2015 &ndash; Sigma Xi Grants in Aid of Research ($2,500)</LI>
+<LI>2015 &ndash; University of Wisconsin Bautz Travel Fellowship ($1,200)</LI>
+<LI>2015 &ndash; University of Wisconsin Vilas Conference Presentation Award ($600)</LI>
 <LI>2015 &ndash; University of Wisconsin Vilas Research Travel Grant</LI>
 <LI>2015 &ndash; AAS 225 Chambliss Student Prize Honorable Mention</LI>
 <LI>2012 &ndash; University of Wisconsin – University Housing Honored Instructor</LI>
 <LI>2011 &ndash; University of Washington’s Astronomy Bear Prize Recipient</LI>
-<LI>2010, 2011 &ndash; University of Washington Mary Gates Research Scholarship</LI>
+<LI>2010, 2011 &ndash; University of Washington Mary Gates Research Scholarship ($4,000)</LI>
 </UL>
 
 ## PDF Versions
