@@ -13,11 +13,11 @@ permalink: "/cv/"
 ## Appointments
 
 <UL>
-<LI>2020-present &ndash; 51 Pegasi b Postdoctoral Fellow, UT-Austin -- Faculty Host: Adam Kraus </LI>
-<LI>2018-2020 &ndash; Postdoctoral Fellow, UT-Austin -- Advisor: Adam Kraus </LI>
-<LI>2013-2018 &ndash; Research Assistant, UW-Madison -- Advisor: Robert Mathieu</LI>
-<LI>2011-2013 &ndash; Research Assistant, UW-Madison -- Advisor: Marina Orio</LI>
-<LI>2010-2011 &ndash; Research Assistant, University of Washington -- Advisor: John Wisniewski & Suzanne Hawley</LI>
+<LI>2020-present &ndash; 51 Pegasi b Postdoctoral Fellow, UT-Austin &ndash; Faculty Host: Adam Kraus </LI>
+<LI>2018-2020 &ndash; Postdoctoral Fellow, UT-Austin &ndash; Advisor: Adam Kraus </LI>
+<LI>2013-2018 &ndash; Research Assistant, UW-Madison &ndash; Advisor: Robert Mathieu</LI>
+<LI>2011-2013 &ndash; Research Assistant, UW-Madison &ndash; Advisor: Marina Orio</LI>
+<LI>2010-2011 &ndash; Research Assistant, University of Washington &ndash; Advisor: John Wisniewski & Suzanne Hawley</LI>
 </UL>
 
 ## Education
