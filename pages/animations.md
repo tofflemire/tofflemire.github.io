@@ -40,4 +40,25 @@ Mass accretion rates are measured from a photometric excess in the Johnson U-ban
 
 A peer-reviewed article published in the Astrophysical Journal on this result can be found <a href='https://arxiv.org/abs/1612.02431' target="_blank"> here</a>.
 <hr>
+## Star Spots -- Doppler Imaging Demo
+<div id="video-wrap">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UbxJOw3MoUo" align="left" style="padding:10px;border:10px solid white;" frameborder="100" allowfullscreen></iframe></div>
+
+An animation of the integrated flux and emergent line profile from a spotted star as a function of rotational phase. In this example, the star is viewed at an inclination of 45 degrees and has an equatorial rotational velocity of 150 km/s. As the spot rotates onto the projected surface, it dims the star and alters the line profile. 
+
+Top Left: The star's normalized surface brightness. A linear limb-darkening is applied using 0.75 as the limb darkening coefficient (appropriate for low-mass stars). Lines of constant longitude and latitude are over plotted; bold lines mark the equator and meridian. The spot is located at a latitude of 30 degrees, a longitude of 30 degrees, and has 20% the brightness of the underlying surface. 
+
+Top Right: The integrated flux from the star as a function of rotational phase. The grey dashed line is the full light curve, the blue dot represents the current location in rotational phase and brightness relative to an unspotted surface. 
+
+Bottom Left: The projected radial velocity of each surface element. Solid body rotation is assumed. 
+
+Bottom Right: Integrated line profile. Each individual surface element is represented with a gaussian of 5 km/s at a spectral resolution of R~50,000. Each individual profile is shifted by the projected radial velocity (Bottom Left) and normalized by the surface brightness (Top Left). The summed result is a rotationally broadened absorption line profile with additional features when the spot is present. The dashed black line is an analytic curve for pure rotational broadening. Vertical dashed grey lines are the v sini values. A nice description of why a dark spot makes an upward bump in the line profile can 
+be found <a href="https://articles.adsabs.harvard.edu/pdf/1983PASP...95..565V" target="_blank">here</a>.
+
+
+This animation was made in python with the following packages: matplotlib, moviepy, scipy, numpy.
+<hr>
 More animations I have made for grad classes over the years can be found on my <a href='https://www.youtube.com/user/BenTofflemire' target="_blank">youtube channel</a>. 
+
+
+
