@@ -13,7 +13,7 @@ permalink: "/publications/"
 
 <UL>
 <LI>First Author Publications: 9 | 200+ citations </LI>
-<LI>Total Refereed Publications: 42 | 3500+ citations </LI>
+<LI>Total Refereed Publications: 43 | 3500+ citations </LI>
 <LI>H-Index: 19 </LI>
 <LI>Student-led Publications: 4</LI>
 </UL>
@@ -67,6 +67,9 @@ permalink: "/publications/"
 
 ## Co-Author Publications
 <ol reversed>
+
+  <li style="margin-bottom: 10px;"> Perez Paolino, F., Bary, J., Petersen, M., et al. (including <b>Tofflemire</b> and 3 co-authors) et al. 2022, AJ, submitted <br><em>
+  Correlating Changes in Spot Filling Factors with Stellar Rotation: The Case of LkCa 4 </em></li>
 
   <li style="margin-bottom: 10px;"> Sun, Q., Wang, S., Mann, A., <b>Tofflemire</b>, B., et al. (2 co-authors) 2022, <em>AJ</em>, submitted <br><em>The Sub-Neptune TOI-251b in MELANGE-5 - a Newly Discovered ~200 Myr Young Stellar Association</em></li>
 
