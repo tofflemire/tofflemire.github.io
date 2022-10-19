@@ -6,14 +6,16 @@
   url: "/research/"
   side: left
   dropdown:
-  - title: "Dissertation Overview"
+  - title: "High Level Summaries"
     url: "/research/"
-  - title: "Time-Series Photometry of Pre-MS Binary Stars"
-    url: "/photometry/"
-  - title: "Time-Series Spectra of Pre-MS Binary Stars"
-    url: "/spectroscopy/"
-  - title: "Hydrodynamic Simulations of Binary Accretion"
-    url: "/sims/"
+  - title: "Planet Formation in Binary Systems: An ALMA Study"
+    url: "/alma/"
+  - title: "TESS Hunt for Young and Maturing Exoplanets"
+    url: "/THYME/"
+  - title: "Young Eclipsing Binaries"
+    url: "/young_ebs/"
+  - title: "Accretion in Short-Period Binary Star Systems"
+    url: "/binary_accretion/"
   - title: "Other Research"
     url: "/other_research/"
     
