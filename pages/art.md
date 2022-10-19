@@ -19,6 +19,7 @@ Near the end of my PhD, I had the great pleasure to collaborate with Lydia Schwe
 <hr>
 ## "Real Art"
 I painted this flower pot to depict the interaction between circumbinary accretion flows and magnetic fields of the central stars. Why did I choose this medium? For a while, the UW-Madison Rathskeller (the locaiton of our department happy hour) had a Free Art Friday program. This pot just happened to be the provided canvas when inspiration struck.
+
 <img src="/local_files/Pot1.jpeg" width="250" HSPACE="25">
 <img src="/local_files/Pot2.jpeg" width="250" HSPACE="25">
 <img src="/local_files/Pot3.jpeg" width="250" HSPACE="25">
