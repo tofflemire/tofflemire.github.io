@@ -17,13 +17,16 @@
   - title: "Other Research"
     url: "/other_research/"
     
-    
 - title: "Publications"
   url: "/publications/"
   side: left
 
 - title: "CV"
   url: "/cv/"
+  side: left
+
+- title: "Talks"
+  url: "/talks/"
   side: left
 
 - title: "Animations"
@@ -37,8 +40,6 @@
 - title: "About Me"
   url: "/aboutme/"
   side: left
-
-
 
 - title: "Contact"
   url: "/contact/"
