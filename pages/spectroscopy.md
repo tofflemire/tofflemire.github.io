@@ -28,7 +28,7 @@ For a subset of the binaries in our photometric sample we have obtained time-ser
 
 Our spectra come from the <a href='https://www.salt.ac.za/' target='blank'>SALT</a> telescope's High-Resolution Spectrograph (HRS) and the <a href='http://www.astro.yale.edu/smarts/' target='blank'>SMARTS</a> 1.5m CHIRON spectrograph. Both are echelle spectrographs providing spectral resolutions of R~30,000 and wavelength coverage from ~3300-9000&#8491;.
 
-### Early Results - TWA 3A
+### Results - TWA 3A
 TWA 3A is a near equal mass (q=0.84), pre-MS binary with an eccentricity of 0.63 and an orbital period of 34.9 days. Over the course of 3 consecutive orbital periods we were able to obtain 14 SALT/HRS measurements. 
 
 The figure below presents the accretion tracing emission line H-alpha. Observations are ordered according to their orbital phase listed in the top right of each panel; the color-coding and number in parenthesis designates the orbit in which the observation was made. Following the conclusion made from <i>U</i>-band observations (also tracing the accretion rate), the H-alpha emission increases near periastron passage, just as models would predict for an eccentric binary. The vertical blue and red lines at the bottom of each plot mark the primary and secondary stellar velocity, respectively. Due to H-alpha's large and complex emission profile, it is difficult to ascribe the emission to one star over another. Structure in its high-velocity wings, however, may be able to trace accretion streams further from the stars.
@@ -48,7 +48,3 @@ A paper on our TWA 3A spectra is in preparation but a conference proceeding with
 ### Ongoing Work
 With almost 6000&#8491; of high-resolution wavelength coverage, there are many features to investigate across our temporal observing sequence. We are currently exploring the rest of this rich data set. 
 
-<hr>
-
-## SALT/HRS Reductions
-As a new instrument, HRS does not have a fully developed, publicly available reduction pipeline. There are a few aspects of the instrument that make an optimal spectral extraction not straightforward. This <a href='https://tofflemire.github.io/spectroscopy/hrs_red/'>page</a> chronicles my reduction scheme for HRS data. 

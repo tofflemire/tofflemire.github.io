@@ -34,7 +34,7 @@ At the same time, we had queue-scheduled observations with the <a href='http://w
 
 <!-- <a href='http://www.astro.yale.edu/smarts/' target='blank'> <img src="/local_files/smarts.jpg" width="300" ALIGN="right"> </a> -->
 
-## Early Results
+## Results
 
 With our observations now complete, we have focused on the eccentric binaries in our sample, DQ Tau and TWA 3A, where the level of accretion variability is predicted to be highest. 
 
