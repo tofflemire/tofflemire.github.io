@@ -38,6 +38,7 @@ With time-series optical and near-infrared photometry, we measure the stellar ac
 <a href='https://ui.adsabs.harvard.edu/abs/2019AJ....158..245T/abstract' target='blank'>
   <img src="/local_files/TWA_HeI_cut.png" width="300" ALIGN="right" HSPACE="25">
 </a>
+
 For a subset of our binaries, we have also obtained time-series, high-resolution, optical spectra with the SALT High-Resolution Spectrograph (HRS). With theses data, we search for coherent velocity structures in orbital phase that trace accretion streams and use narrow accretion tracers to determine which star within the binary is preferentially fed. A detailed description of our ongoing work and description of our HRS reductions can be found at the following link.
 
 The results of our photometric monitoring campaign have provided strong evidence for periodic pulsed accretion events in pre-MS binaries, just as models predict. However, there are notable differences in the duration and location in orbital phase between the models and our observations. To root out the cause of these differences, we are in the process of creating hydrodynamic simulations of binary accretion tailored to a subset of our binaries. More on this project can be found at the following link.

@@ -17,6 +17,13 @@ Near the end of my PhD, I had the great pleasure to collaborate with Lydia Schwe
 <img src="/local_files/binary_final_zoom2.png" width="500" ALIGN="left" HSPACE="25">
 
 <hr>
+## "Real Art"
+I painted this flower pot to depict the interaction between circumbinary accretion flows and magnetic fields of the central stars. Why did I choose this medium? For a while, the UW-Madison Rathskeller (the locaiton of our department happy hour) had a Free Art Friday program. This pot just happened to be the provided canvas when inspiration struck.
+<img src="/local_files/Pot1.jpeg" width="250" HSPACE="25">
+<img src="/local_files/Pot2.jpeg" width="250" HSPACE="25">
+<img src="/local_files/Pot3.jpeg" width="250" HSPACE="25">
+
+<hr>
 ## Unknown Pleasures
 While working on the last chapter of my thesis, I spent many months staring at time-series spectra. After making many variants on the same plot, my then office mate and plot consultant, Stephen Pardy, mentioned that my plots reminded him of the <a href='https://en.wikipedia.org/wiki/Unknown_Pleasures' target='blank'>Unknown Pleasures</a> album cover by the band Joy Division. Termed "Joyplots," or ridgeline plots, these types of visualization have become <a href='https://blog.revolutionanalytics.com/2017/07/joyplots.html' target='blank'>popular</a> in the last decade or so for comparing distributions. So, I decided to make my own version from a Calcium line (Ca II K -- 3933.663A) observed in the T Tauri binary TWA 3A. Fun fact: the Unknown Pleasures album cover has an astronomy origin on its own. It is a color-inverted image of a plot from Harold Craft's <a href='http://adsabs.harvard.edu/abs/1970PhDT.........8C' target='blank'>PhD thesis</a> on radio pulse profiles. The original is for the pulsar <a href='https://en.wikipedia.org/wiki/PSR_B1919%2B21' target='blank'>CP 1919</a>. 
 <img src="/local_files/TWA_JD.png" width="500" ALIGN="left" HSPACE="25">
