@@ -12,19 +12,25 @@ permalink: "/research/"
 
 <b>I have a few primary research threads and a lot of fun side projects. Here are brief overviews to help guide your exploration of my research portfolio. </b>
 
-### <a href='https://tofflemire.github.io/alma/'> Planet Fomation in the Binary Environment</a>
+### <a href='https://tofflemire.github.io/alma/'> Planet Formation in the Binary Environment</a>
 
 <a href='https://ui.adsabs.harvard.edu/abs/2019Sci...366...90A/abstract' target='blank'>
-  <img src="/local_files/cosmicpretzel.jpeg" width="400" ALIGN="right" HSPACE="25">
+  <img src="/local_files/cosmicpretzel.jpeg" width="250" ALIGN="right" HSPACE="25">
 </a>
-Binary star systems pose challeneges to planet formation. If the binary separation is smaller than the typical size of a protoplanetary disk, the binary orbit will dynamically truncate or disrupt the reservoir of material that planets form from. The community has found planets in binary systems of all separations, but planets in close binaries are rare. The goal of this research thread is to probe the interaction between the binary orbit and the circumstellar disks. We also hope to identify the ingredients that allow some close binaries to form planets while other do not. 
+Binary star systems pose challeneges to planet formation. If the binary separation is smaller than the typical size of a protoplanetary disk, the binary orbit will dynamically truncate or disrupt the reservoir of material from which planets form. The community has found planets in binary systems of all separations, but planets in close binaries are rare. The goal of this research thread is to probe the dynamical interaction between the binary orbit and the circumstellar disks. We also hope to identify the ingredients that allow some close binaries to form planets while other do not. 
 
 ### <a href='https://tofflemire.github.io/thyme/'> The <em>TESS</em> Hunt for Young and Maturing Exoplanets (THYME)</a>
 
-
+<a href='https://ui.adsabs.harvard.edu/abs/2021AJ....161..171T/abstract' target='blank'>
+  <img src="/local_files/TESSTransit.png" width="250" ALIGN="right" HSPACE="25">
+</a>
+Planets evolve over the first billion years of their lives. This evolution imprints intriguing features on the population of mature exoplanets (e.g., the exoplanet radius valley). We are trying to find young planets as they traverse this formative era to determine the dominate physcial processes that shape their evolution. We do this by identifying transits in light curves of young stars from the <em>TESS</em> mission. We've found lots of them! I'm primarily interested in using <em>Gaia</em> to find the stellar siblings of these planetary systems. This group of stars is required to place precise ages on the systems, making them benchmarks to test planet evolution theory.
 
 ### <a href='https://tofflemire.github.io/young_ebs/'> Characterizing Young Eclipsing Binaries</a>
 
+<a href='https://ui.adsabs.harvard.edu/abs/2021AJ....161..171T/abstract' target='blank'>
+  <img src="/local_files/SpottedEB.png" width="250" ALIGN="right" HSPACE="25">
+</a>
 
 
 ### <a href='https://tofflemire.github.io/binary_accretion/'> Accretion in Short-Period Binary Star Systems</a>
@@ -34,7 +40,7 @@ Accretion, the process by which an object gains mass, is a critical piece of the
 
 <hr>
 
-## <a href='https://tofflemire.github.io/other_research/'>Other Research</a>
+### <a href='https://tofflemire.github.io/other_research/'>Other Research</a>
 
 I've been lucky to work on many different projects during my research career. These projects have been both theory and observation based, making use of data sets spanning the X-ray to near infrared. The links below provide a brief summary of the projects I have led:
 

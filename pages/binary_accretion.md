@@ -10,7 +10,7 @@ permalink: "/binary_accretion/"
 <hr>
 ## Dissertation Overview
 
-<b>This research thread was the main focus of my thesis. I investigated the interaction between young binary star systems and their circumstellar disks </b>
+<b>This research thread was the main focus of my thesis. I investigated the interaction between young binary star systems and their circumbinary disks </b>
 
 ### Background
 
