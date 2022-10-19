@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Research"
+title: "Program Summaries"
 subheadline: ""
 meta_teaser: ""
 teaser: ""
@@ -8,11 +8,21 @@ categories:
 permalink: "/research/"
 ---
 <hr>
-## Dissertation Overview
+## Overview
 
-<b>Investigating the interaction between young binary star systems and their circumstellar disks </b>
+<b>I have a few primary research threads and a lot of fun side projects. Here are brief overviews to help guide your exploration of my research portfolio. </b>
 
-### Background
+### <a href='https://tofflemire.github.io/alma/'> Planet Fomation in the Binary Environment</a>
+
+
+### <a href='https://tofflemire.github.io/thyme/'> The <em>TESS</em> Hunt for Young and Maturing Exoplanets</a>
+
+
+### <a href='https://tofflemire.github.io/young_ebs/'> Characterizing Young Eclipsing Binaries</a>
+
+
+### <a href='https://tofflemire.github.io/binary_accretion/'> Accretion in Short-Period Binary Star Systems</a>
+
 
 Over the past thirty years, a detailed picture of star formation has emerged that highlights the significance of the interaction between a pre-main sequence (pre-MS) star and its protoplanetary disk. Many properties of the emergent star, the lifetime of the circumstellar disk, and the formation of planets are, in part, determined by this star-disk interaction. 
 

@@ -6,12 +6,12 @@
   url: "/research/"
   side: left
   dropdown:
-  - title: "High Level Summaries"
+  - title: "Program Summaries"
     url: "/research/"
   - title: "Planet Formation in Binary Systems: An ALMA Study"
     url: "/alma/"
   - title: "TESS Hunt for Young and Maturing Exoplanets"
-    url: "/THYME/"
+    url: "/thyme/"
   - title: "Young Eclipsing Binaries"
     url: "/young_ebs/"
   - title: "Accretion in Short-Period Binary Star Systems"

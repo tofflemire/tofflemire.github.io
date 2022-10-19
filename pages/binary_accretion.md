@@ -10,7 +10,7 @@ permalink: "/binary_accretion/"
 <hr>
 ## Dissertation Overview
 
-<b>This research thread was the main focus of my thesis where I investigated the interaction between young binary star systems and their circumstellar disks </b>
+<b>This research thread was the main focus of my thesis. I investigated the interaction between young binary star systems and their circumstellar disks </b>
 
 ### Background
 
@@ -27,19 +27,19 @@ Numerical simulations of the binary-disk interaction predict that in short-perio
 
 To test the predictions of binary accretion theory, we have compiled a sample of nine short-period, pre-main sequence binaries for an intensive observational study.
 
+<a href='http://adsabs.harvard.edu/abs/2016ApJ...827...43M' target='blank'>
+  <img src="/local_files/DQ_Mdot.png" width="400" ALIGN="right" HSPACE="25">
+</a>
 With time-series optical and near-infrared photometry, we measure the stellar accretion rate and search variations in the relative amount and temperature of circumstellar material, all as a function of orbital phase. The diverse orbital parameters of the binaries in our sample allow for a general test of the binary-disk interaction, placing constraints on the orbital-parameter dependence of certain predictions. More on this part of my dissertation and the detection of pulsed accretion events can be found at the link below. 
 
 <big><b> <a href='https://tofflemire.github.io/photometry/'> Time-Series Photometry of Accreting Pre-MS Binary Stars </a> </b></big>
 
-<a href='http://adsabs.harvard.edu/abs/2016ApJ...827...43M' target='blank'>
-  <img src="/local_files/DQ_Mdot.png" width="400" ALIGN="right" HSPACE="25">
+<big><b> <a href='https://tofflemire.github.io/spectroscopy/'> Time-Series Spectroscopy of Accreting Pre-MS Binary Stars </a></b></big>
+<a href='https://ui.adsabs.harvard.edu/abs/2019AJ....158..245T/abstract' target='blank'>
+  <img src="/local_files/TWA_HeI_cut.png" width="300" ALIGN="right" HSPACE="25">
 </a>
 For a subset of our binaries, we have also obtained time-series, high-resolution, optical spectra with the SALT High-Resolution Spectrograph (HRS). With theses data, we search for coherent velocity structures in orbital phase that trace accretion streams and use narrow accretion tracers to determine which star within the binary is preferentially fed. A detailed description of our ongoing work and description of our HRS reductions can be found at the following link.
 
-<big><b> <a href='https://tofflemire.github.io/spectroscopy/'> Time-Series Spectroscopy of Accreting Pre-MS Binary Stars </a></b></big>
-<a href='https://ui.adsabs.harvard.edu/abs/2019AJ....158..245T/abstract' target='blank'>
-  <img src="/local_files/TWA_HeI_cut.png" width="400" ALIGN="right" HSPACE="25">
-</a>
 The results of our photometric monitoring campaign have provided strong evidence for periodic pulsed accretion events in pre-MS binaries, just as models predict. However, there are notable differences in the duration and location in orbital phase between the models and our observations. To root out the cause of these differences, we are in the process of creating hydrodynamic simulations of binary accretion tailored to a subset of our binaries. More on this project can be found at the following link.
 
 <big><b> <a href='https://tofflemire.github.io/sims/'> Hydrodynamic Simulations of Binary Accretion </a></b></big>
