@@ -14,9 +14,12 @@ permalink: "/research/"
 
 ### <a href='https://tofflemire.github.io/alma/'> Planet Fomation in the Binary Environment</a>
 
+<a href='https://ui.adsabs.harvard.edu/abs/2019Sci...366...90A/abstract' target='blank'>
+  <img src="/local_files/cosmicpretzel.jpeg" width="400" ALIGN="right" HSPACE="25">
+</a>
+Binary star systems pose challeneges to planet formation. If the binary separation is smaller than the typical size of a protoplanetary disk, the binary orbit will dynamically truncate or disrupt the reservoir of material that planets form from. The community has found planets in binary systems of all separations, but planets in close binaries are rare. The goal of this research thread is to probe the interaction between the binary orbit and the circumstellar disks. We also hope to identify the ingredients that allow some close binaries to form planets while other do not. 
 
-
-### <a href='https://tofflemire.github.io/thyme/'> The <em>TESS</em> Hunt for Young and Maturing Exoplanets</a>
+### <a href='https://tofflemire.github.io/thyme/'> The <em>TESS</em> Hunt for Young and Maturing Exoplanets (THYME)</a>
 
 
 
@@ -26,10 +29,8 @@ permalink: "/research/"
 
 ### <a href='https://tofflemire.github.io/binary_accretion/'> Accretion in Short-Period Binary Star Systems</a>
 
-<a href='http://adsabs.harvard.edu/abs/2016ApJ...827...43M' target='blank'>
-  <img src="/local_files/binary_final_zoom1_small.jpeg" width="400" ALIGN="right" HSPACE="25">
-</a>
-Accretion, the process by which an object gains mass, is a critical piece of the star formation process. After their initial assembly, stars accrete material from a protoplanetary disk. This interaction is complex, but caries important implications for the eventual properties of the star and planet. Short-period binaries have a completely distinct interaction with their protoplanetary disks. Observers and theorists alike are fascinated with these systems because they represent unquie dynamical labratories where we can test (magneto-)hydrodymanic theory in an astropysical settings on human (graduate student) time scales. Observing this binary-disk interaction was the focus of my graduate dissertation. 
+<img src="/local_files/binary_final_zoom1_small.jpg" width="300" ALIGN="left" HSPACE="25">
+Accretion, the process by which an object gains mass, is a critical piece of the story of star formation. After their initial assembly, stars accrete material from a protoplanetary disk. This interaction is complex, but caries important implications for the eventual properties of the star and its planets. Short-period binaries have a completely distinct interaction in which they periodically pull material in from a circumbinary disk. Observers and theorists alike are fascinated with these systems because they represent unquie dynamical labratories where we can test (magneto-)hydrodymanic theory in an astropysical settings on human (graduate student) time scales. Observing this binary-disk interaction was the focus of my graduate dissertation. 
 
 <hr>
 
