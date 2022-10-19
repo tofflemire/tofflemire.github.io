@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Talks"
 subheadline: ""
 meta_teaser: ""
-teaser: "Two recorded presentations I have given at conferences."
+teaser: "Two recordings of presentations I have given at conferences."
 categories:
 permalink: "/talks/"
 ---
