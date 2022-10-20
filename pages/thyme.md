@@ -7,7 +7,7 @@ teaser: ""
 categories:
 permalink: "/thyme/"
 ---
-<a href='https://tofflemire.github.io/research/'>(A more general overview of my thesis can be found here.)</a>
+<a href='https://tofflemire.github.io/research/'>(A more general overview of my research program can be found here.)</a>
 <hr>
 
 ## Motivation

@@ -1,12 +1,14 @@
 ---
 layout: page-fullwidth
-title: "Accretion in Short-Period Binary Star Systems"
+title: "Accretion in Short-Period Binary Systems"
 subheadline: ""
 meta_teaser: ""
 teaser: ""
 categories:
 permalink: "/binary_accretion/"
 ---
+<a href='https://tofflemire.github.io/research/'>(A more general overview of my research program can be found here.)</a>
+
 <hr>
 ## Dissertation Overview
 
