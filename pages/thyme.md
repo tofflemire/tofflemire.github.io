@@ -12,14 +12,31 @@ permalink: "/thyme/"
 
 ## Motivation
 
-
+<a href='https://ui.adsabs.harvard.edu/abs/2022AJ....163..179P/abstract' target='blank'>
+  <img src="/local_files/radiusvalley.png" width="400" ALIGN="right" HSPACE="25">
+</a>
+From their formation, planets have the potential to migrate, thermally contract, and/or experience atmospheric losses, all on timescales where there are few observational constraints. Understanding these formation pathways and how they give rise to demographic features in the mature exoplanet population comprise some of the most pressing question in the exoplanet field. The newly discovered planet radius valley is an excellent example (figure to the right). The marked decline in the exoplanet occurrence rate at ∼1.8 Earth radii, is thought to separate rocky super-Earths from gaseous sub-Neptunes. Its origin has been proposed to result from atmospheric loss; either externally, driven by photoevaporation from the host star, or internally, driven by the thermal release of the planet’s core. Both theories independently reproduce the field-age population, but operate on difference time scales. The characterization of young planets provides the avenue to directly test the relative contributions of each process.
 
 ## THYME
 
-
+The <em>TESS</em> Hunt for Young and Maturing Exoplanets Collaboration is focused on discovering and characterizing young planetary systems. We seek to construct a population of young planets and establish benchmark system to test planet evolution theory. We mine the light curves of young stars, primarily with <em>TESS</em> but also with <em>Kepler</em> and <em>K</em>2, to search for transits. As of Fall 2022 we have discovered 15 planets in 9 systems with ages less than 400 Myr. A list of our publications can be found below. 
 
 ### THYME V and the FriendFinder
 
+I have contributed to many of the THYME papers, but I was the lead author of THYME V. This was our first paper on a planetary system that was not already known as a member of an established association. We usually stick to stars in known associactions because you get the age of the system for free from the previous work in the literature characterizing the association. In this game, a precise age is as important as the planet itself. Placing a precise age requires a coeval ensemble of stars, as I describe below. So this paper had two componemts, a study of the planet itself, an inflated sub-Neptune, and a study of the host star's siblings. 
+
+<a href='https://ui.adsabs.harvard.edu/abs/2021AJ....161..171T/abstract' target='blank'> A link to the peer-reviewed paper can be found here.</a>
+
+#### The Planet: HD 110082 b
+
+<a href='https://ui.adsabs.harvard.edu/abs/2021AJ....161..171T/abstract' target='blank'>
+  <img src="/local_files/TOI1098.png" width="400" ALIGN="left" HSPACE="25">
+</a>
+Hosted by a 1.2 solar mass star, HD 110082 is a 3.2 Earth radius planet orbiting on a 10.2 day period. While its radius makes it a sub-Neptune, it is larger than the field-age sub-Neptune population, as the Figure below depicts. At an age of 250 Myr (see below), we expect HD 110082 b to be actively losing a significant portion of its atmosphere, and as such, should sit above field-age systems. One system alone does not tell us what is driving its radial evolution (e.g., photoevaporation vs core-drive mass loss), but it is a step toward building a population that will address this question. 
+
+#### The Association: MELANGE-1
+
+Measuring the age of a star with the precision required to make it a "benchmark" requires an ensemble of coeval stars (i.e., stars that are the same age). Popular age diagnostics (gyrochronology, Lithum abundance, isochrone fitting) only provide age-dating leverage for certain types of stars with certain ages, and each one on its own significant uncertainty if that 
 
 
 ### THYME Publications (as of Fall 2022):
@@ -36,7 +53,7 @@ permalink: "/thyme/"
   <li style="margin-bottom: 10px;"> Mann, A., Wood, M., Schmidt, S., et al. (including <b>Tofflemire</b> and 47 co-authors) 2022, <em>AJ</em>, 163, 156 <br><em>TESS Hunt for Young and Maturing Exoplanets (THYME) VI: an 11 Myr giant planet transiting a very low-mass star in Lower Centaurus Crux</em> - <a href='https://ui.adsabs.harvard.edu/abs/2022AJ....163..156M/abstract' target="_blank">ADS</a> </li> 
 
   <li style="margin-bottom: 10px;"> 
-    <b>Tofflemire</b>, B., Rizzuto, A., Newton, E., Kraus, A. L. et al. (26 co-authors) 2021, <em>AJ</em>, 161, 171T <br><em>TESS Hunt for Young and Maturing Exoplanets (THYME) V: A Sub-Neptune Transiting a Young Star in a Newly Discovered 250 Myr Association</em> - <a href='https://ui.adsabs.harvard.edu/abs/2021arXiv210206066T/abstract' target="_blank">ADS</a> 
+    <b>Tofflemire</b>, B., Rizzuto, A., Newton, E., Kraus, A. et al. (26 co-authors) 2021, <em>AJ</em>, 161, 171T <br><em>TESS Hunt for Young and Maturing Exoplanets (THYME) V: A Sub-Neptune Transiting a Young Star in a Newly Discovered 250 Myr Association</em> - <a href='https://ui.adsabs.harvard.edu/abs/2021arXiv210206066T/abstract' target="_blank">ADS</a> 
   </li>
 
   <li style="margin-bottom: 10px;"> Newton, E., Mann, A., Kraus, A., et al. (including <b>Tofflemire</b>, B. and 49 co-authors) 2021, <em>AJ</em>, 161, 65N <br><em> TESS Hunt for Young and Maturing Exoplanets (THYME). IV. Three Small Planets Orbiting a 120 Myr Old Star in the Pisces-Eridanus Stream </em> - <a href='https://ui.adsabs.harvard.edu/abs/2021AJ....161...65N/abstract' target="_blank">ADS</a> </li> 
@@ -48,6 +65,7 @@ permalink: "/thyme/"
 
   <li style="margin-bottom: 10px;"> Newton, E., Mann, A., <b>Tofflemire</b>, B., et al. 2019, <em>ApJ</em>, 880L, 17N <br><em> TESS Hunt for Young and Maturing Exoplanets (THYME) I: A Planet in the 45 Myr Tucana-Horologium Association </em> - <a href='https://ui.adsabs.harvard.edu/abs/2019ApJ...880L..17N/abstract' target="_blank">ADS</a> </li>
 
+</ol>
 
 ### Publications using the FriendFinder (as of Fall 2022):
 
@@ -59,9 +77,10 @@ permalink: "/thyme/"
 
   <li style="margin-bottom: 10px;"> Franson, K., Bowler, B., Brandt, T., et al. 2022, <em>AJ</em>, 163, 50 <br><em>Dynamical Mass of the Young Substellar Companion HD 984 B</em> - <a href='https://ui.adsabs.harvard.edu/abs/2022AJ....163...50F/abstract' target="_blank">ADS</a> </li> 
 
-  <li style="margin-bottom: 10px;"> Mann, A., Wood, M., Schmidt, S., et al. (including <b>Tofflemire</b> and 47 co-authors) 2022, <em>AJ</em>, 163, 156 <br><em>TESS Hunt for Young and Maturing Exoplanets (THYME) VI: an 11 Myr giant planet transiting a very low-mass star in Lower Centaurus Crux</em> - <a href='https://ui.adsabs.harvard.edu/abs/2022AJ....163..156M/abstract' target="_blank">ADS</a> </li> 
-
   <li style="margin-bottom: 10px;"> Barber, M., Mann, A., Johnathan, B., <b>Tofflemire</b>, B., et al. (including 7 co-authors) 2022, <em>AJ</em>, 164, 88, <br><em>Transit Hunt for Young and Maturing Exoplanets (THYME). VIII. A Pleiades-age Association Harboring Two Transiting Planetary Systems from Kepler</em> - <a href='https://ui.adsabs.harvard.edu/abs/2022AJ....164...88B/abstract' target="_blank">ADS</a> </li> 
 
   <li style="margin-bottom: 10px;"> Newton, E., Rampalli, R., Kraus, A., et al. (including <b>Tofflemire</b> and 36 co-authors) 2022, <em>AJ</em>, 164, 115 <br><em> TESS Hunt for Young and Maturing Exoplanets (THYME). VII. Membership, Rotation, and Lithium in the Young Cluster Group-X and a New Young Exoplanet</em> - <a href='https://ui.adsabs.harvard.edu/abs/2022AJ....164..115N/abstract' target="_blank">ADS</a> </li> 
 
+  <li style="margin-bottom: 10px;"> Mann, A., Wood, M., Schmidt, S., et al. (including <b>Tofflemire</b> and 47 co-authors) 2022, <em>AJ</em>, 163, 156 <br><em>TESS Hunt for Young and Maturing Exoplanets (THYME) VI: an 11 Myr giant planet transiting a very low-mass star in Lower Centaurus Crux</em> - <a href='https://ui.adsabs.harvard.edu/abs/2022AJ....163..156M/abstract' target="_blank">ADS</a> </li> 
+
+</ol>

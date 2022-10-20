@@ -17,7 +17,7 @@ permalink: "/publications/"
 <LI>H-Index: 19 </LI>
 <LI>Student-led Publications: 4</LI>
 </UL>
-(as of fall 2022)
+(as of Fall 2022)
 
 <hr>
 ## First Author Publications
