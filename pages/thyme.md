@@ -30,7 +30,7 @@ I have contributed to many of the THYME papers, but I was the lead author of THY
 #### The Planet: HD 110082 b
 
 <a href='https://ui.adsabs.harvard.edu/abs/2021AJ....161..171T/abstract' target='blank'>
-  <img src="/local_files/TOI1098.png" width="250" ALIGN="right" HSPACE="25">
+  <img src="/local_files/TOI1098.png" width="300" ALIGN="right" HSPACE="25">
 </a>
 Hosted by a 1.2 solar mass star, HD 110082 is a 3.2 Earth radius planet orbiting on a 10.2 day period. While its radius makes it a sub-Neptune, it is larger than the field-age sub-Neptune population, as the Figure below depicts. At an age of 250 Myr (see below), we expect HD 110082 b to be actively losing a significant portion of its atmosphere, and as such, should sit above field-age systems. One system alone does not tell us what is driving its radial evolution (e.g., photoevaporation vs core-drive mass loss), but it is a step toward building a population that will address this question. 
 
