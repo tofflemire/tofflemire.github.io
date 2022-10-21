@@ -12,7 +12,13 @@ permalink: "/young_ebs/"
 
 ## Motivation
 
+More to come here soon!
 
+<a href='https://ui.adsabs.harvard.edu/abs/2022arXiv221010789T/abstract' target='blank'>
+  <img src="/local_files/EBspots.png" width="400" ALIGN="right" HSPACE="25">
+</a>
+
+<a href='https://ui.adsabs.harvard.edu/abs/2022arXiv221010789T/abstract' target='blank'> A link to the submitted paper can be found here.</a>
 
 
 
