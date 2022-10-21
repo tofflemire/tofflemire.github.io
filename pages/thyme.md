@@ -30,9 +30,11 @@ I have contributed to many of the THYME papers, but I was the lead author of THY
 #### The Planet: HD 110082 b
 
 <a href='https://ui.adsabs.harvard.edu/abs/2021AJ....161..171T/abstract' target='blank'>
-  <img src="/local_files/TOI1098.png" width="300" ALIGN="left" HSPACE="25">
+  <img src="/local_files/TOI1098.png" width="250" ALIGN="right" HSPACE="25">
 </a>
 Hosted by a 1.2 solar mass star, HD 110082 is a 3.2 Earth radius planet orbiting on a 10.2 day period. While its radius makes it a sub-Neptune, it is larger than the field-age sub-Neptune population, as the Figure below depicts. At an age of 250 Myr (see below), we expect HD 110082 b to be actively losing a significant portion of its atmosphere, and as such, should sit above field-age systems. One system alone does not tell us what is driving its radial evolution (e.g., photoevaporation vs core-drive mass loss), but it is a step toward building a population that will address this question. 
+
+<br>
 
 #### The Association: The FriendFinder and MELANGE-1
 
@@ -44,7 +46,7 @@ At first glance, HD 110082 appeared to be part of the 40 Myr Octans association.
   <img src="/local_files/M1rot.png" width="300" HSPACE="25">
 </a>
 <a href='https://ui.adsabs.harvard.edu/abs/2021AJ....161..171T/abstract' target='blank'>
-  <img src="/local_files/M1lli.png" width="300" HSPACE="25">
+  <img src="/local_files/M1li.png" width="300" HSPACE="25">
 </a>
 
 Comparing these sequences it is clear that this collection of stars is older than the Pleiades (120 Myr) and younger than the Hyades (700 Myr). To make this more quantitative, we used a gyrochronology relation and a Lithium age relation to make age posteriors for each star (colored lines in the figure below) and for the entire ensemble (black lines).
@@ -53,7 +55,7 @@ Comparing these sequences it is clear that this collection of stars is older tha
   <img src="/local_files/M1rotpost.png" width="300" HSPACE="25">
 </a>
 <a href='https://ui.adsabs.harvard.edu/abs/2021AJ....161..171T/abstract' target='blank'>
-  <img src="/local_files/M1llipost.png" width="300" HSPACE="25">
+  <img src="/local_files/M1lipost.png" width="300" HSPACE="25">
 </a>
 
 With only a handful the stars, the agreement between these methods is striking. We did indeed find a collection of coeval stars! Using these, we determined the age of the system to be 250 +/- 70 Myr. We coined the collection of stars found using our new technique MELANGE-1. This method stops short of establishing MELANGE-1 a traditional association, that would require much more followup, which is beyond the scope of this nominal planet paper. For the science at hand, we need an age, and this tool allows us to measure one. This approach had gained traction in the field and 6 different planetary systems have been established as benchmarks since 2021 (as of Fall 2022), which I've included below. 
