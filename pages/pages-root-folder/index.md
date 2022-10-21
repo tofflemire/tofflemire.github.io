@@ -26,6 +26,6 @@ I am a <a href='https://www.hsfoundation.org/fellow/benjamin-tofflemire-ph-d/' t
 
 Learn more about my research <a href='https://tofflemire.github.io/research/'>here</a>.
 
-<a href='https://arxiv.org/abs/2102.06066' target="blank">Here is my most recent paper! It's about a young exoplanet!</a>
+<a href='https://ui.adsabs.harvard.edu/abs/2022arXiv221010789T/abstract' target="blank">Here is my most recent paper! It's about a young eclipsing binary!</a>
 
 <hr>

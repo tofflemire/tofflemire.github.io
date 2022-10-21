@@ -24,7 +24,7 @@ permalink: "/publications/"
 
 <ol reversed>
   <li style="margin-bottom: 10px;"> 
-    <b>Tofflemire</b>, B. M., Kraus, A. L., Mann, A.W., et al. (12 co-authors) 2022, <em>AJ</em>, submitted <br><em>A Low-Mass, Pre-Main Sequence Eclipsing Binary in the 40 Myr Columba Association -- Fundamental Stellar Parameters and Modeling the Effect of Star Spots</em> - <a href='' target="_blank">ADS</a> 
+    <b>Tofflemire</b>, B. M., Kraus, A. L., Mann, A.W., et al. (12 co-authors) 2022, <em>AJ</em>, submitted <br><em>A Low-Mass, Pre-Main Sequence Eclipsing Binary in the 40 Myr Columba Association -- Fundamental Stellar Parameters and Modeling the Effect of Star Spots</em> - <a href='https://ui.adsabs.harvard.edu/abs/2022arXiv221010789T/abstract' target="_blank">ADS</a> 
   </li>  
 
   <li style="margin-bottom: 10px;"> 
