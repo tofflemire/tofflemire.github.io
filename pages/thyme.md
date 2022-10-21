@@ -23,20 +23,43 @@ The <em>TESS</em> Hunt for Young and Maturing Exoplanets Collaboration is focuse
 
 ### THYME V and the FriendFinder
 
-I have contributed to many of the THYME papers, but I was the lead author of THYME V. This was our first paper on a planetary system that was not already known as a member of an established association. We usually stick to stars in known associactions because you get the age of the system for free from the previous work in the literature characterizing the association. In this game, a precise age is as important as the planet itself. Placing a precise age requires a coeval ensemble of stars, as I describe below. So this paper had two componemts, a study of the planet itself, an inflated sub-Neptune, and a study of the host star's siblings. 
+I have contributed to many of the THYME papers, but I was the lead author of THYME V. This was our first paper on a planetary system that was not already known as a member of an established association. We usually stick to stars in known associactions because you get the age of the system for free from the previous work in the literature characterizing the association. In this game, a precise age is as important as the planet itself. Placing a precise age requires a coeval ensemble of stars, as I describe below. So this paper had two componemts, a study of the planet itself, an inflated sub-Neptune, and a study of the host star's siblings. The latter provided the motivation to develop a new tool to find these sibling candidated, which we call the FriendFinder. 
 
 <a href='https://ui.adsabs.harvard.edu/abs/2021AJ....161..171T/abstract' target='blank'> A link to the peer-reviewed paper can be found here.</a>
 
 #### The Planet: HD 110082 b
 
 <a href='https://ui.adsabs.harvard.edu/abs/2021AJ....161..171T/abstract' target='blank'>
-  <img src="/local_files/TOI1098.png" width="400" ALIGN="left" HSPACE="25">
+  <img src="/local_files/TOI1098.png" width="300" ALIGN="left" HSPACE="25">
 </a>
 Hosted by a 1.2 solar mass star, HD 110082 is a 3.2 Earth radius planet orbiting on a 10.2 day period. While its radius makes it a sub-Neptune, it is larger than the field-age sub-Neptune population, as the Figure below depicts. At an age of 250 Myr (see below), we expect HD 110082 b to be actively losing a significant portion of its atmosphere, and as such, should sit above field-age systems. One system alone does not tell us what is driving its radial evolution (e.g., photoevaporation vs core-drive mass loss), but it is a step toward building a population that will address this question. 
 
-#### The Association: MELANGE-1
+#### The Association: The FriendFinder and MELANGE-1
 
-Measuring the age of a star with the precision required to make it a "benchmark" requires an ensemble of coeval stars (i.e., stars that are the same age). Popular age diagnostics (gyrochronology, Lithum abundance, isochrone fitting) only provide age-dating leverage for certain types of stars with certain ages, and each one on its own significant uncertainty if that 
+Measuring the age of a star with the precision required to make it a "benchmark" requires an ensemble of coeval stars (i.e., a collection of stars that are the same age &ndash; siblings). Popular age diagnostics (gyrochronology, Lithum abundance, isochrone fitting) only provide age-dating leverage for certain types of stars at certain ages, and each diagnostic on its own has significant uncertainty even if you're in its sweet spot. This is a common problem we face. We often find planet hosts that appear young (rapid rotaion, high Lithium abundance), but they are not part of a known association. Luckily, stars form in groups and, for a while, that collection of stars will share a common motion through the Galaxy. 
+
+At first glance, HD 110082 appeared to be part of the 40 Myr Octans association. If true, our work would have been done for us, but a deeper dive suggested HD 110082 was older than 40 Myr. In order to precisely measure the age of HD 110082, and its planet, we developed a tool called the FriendFinder to identify HD 110082's siblings. The FriendFinder uses <em>Gaia</em> astrometry to identify stars that are co-moving, co-spatial, and co-distant with our planet host. Those candidates are then queried across various astronomical catalogs to identify signatures of youth (IR excess, X-ray luminosity). From this list we selected a handful of high-probability siblings for ground-based spectroscopic followup and measured their rotation periods from <em>TESS</em>. With these measurements we made comparisons with estabilished cluster sequences, as shown in the figures below. 
+
+<a href='https://ui.adsabs.harvard.edu/abs/2021AJ....161..171T/abstract' target='blank'>
+  <img src="/local_files/M1rot.png" width="300" HSPACE="25">
+</a>
+<a href='https://ui.adsabs.harvard.edu/abs/2021AJ....161..171T/abstract' target='blank'>
+  <img src="/local_files/M1lli.png" width="300" HSPACE="25">
+</a>
+
+Comparing these sequences it is clear that this collection of stars is older than the Pleiades (120 Myr) and younger than the Hyades (700 Myr). To make this more quantitative, we used a gyrochronology relation and a Lithium age relation to make age posteriors for each star (colored lines in the figure below) and for the entire ensemble (black lines).
+
+<a href='https://ui.adsabs.harvard.edu/abs/2021AJ....161..171T/abstract' target='blank'>
+  <img src="/local_files/M1rotpost.png" width="300" HSPACE="25">
+</a>
+<a href='https://ui.adsabs.harvard.edu/abs/2021AJ....161..171T/abstract' target='blank'>
+  <img src="/local_files/M1llipost.png" width="300" HSPACE="25">
+</a>
+
+With only a handful the stars, the agreement between these methods is striking. We did indeed find a collection of coeval stars! Using these, we determined the age of the system to be 250 +/- 70 Myr. We coined the collection of stars found using our new technique MELANGE-1. This method stops short of establishing MELANGE-1 a traditional association, that would require much more followup, which is beyond the scope of this nominal planet paper. For the science at hand, we need an age, and this tool allows us to measure one. This approach had gained traction in the field and 6 different planetary systems have been established as benchmarks since 2021 (as of Fall 2022), which I've included below. 
+
+<a href='https://github.com/adamkraus/Comove' target='blank'> The FriendFinder can be downloaded here.</a>
+
 
 
 ### THYME Publications (as of Fall 2022):
