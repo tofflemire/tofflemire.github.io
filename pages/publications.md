@@ -12,7 +12,7 @@ permalink: "/publications/"
 ## Publication Summary
 
 <UL>
-<LI>First Author Publications: 9 | 200+ citations </LI>
+<LI>First Author Publications: 9 | 210+ citations </LI>
 <LI>Total Refereed Publications: 43 | 3500+ citations </LI>
 <LI>H-Index: 19 </LI>
 <LI>Student-led Publications: 4</LI>
