@@ -28,7 +28,6 @@ permalink: "/contact/"
         
         <br/>
         
-        <br/>
         Department Webpage:
     </p>
 </div>
@@ -60,7 +59,6 @@ permalink: "/contact/"
     <br/>
     
     <p>
-    
      <a href='https://astronomy.utexas.edu/component/cobalt/item/11-astronomy/3714-tofflemire-benjamin?Itemid=1272' target="_blank"> link </a>
     </p>
 </div>
