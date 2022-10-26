@@ -12,8 +12,7 @@ permalink: "/young_ebs/"
 
 ## Motivation
 
-More to come here soon!
-
+Eclpsing binary systems 
 
 ## Resutls: TOI 450 -- A Young EB in the Columba Association
 
