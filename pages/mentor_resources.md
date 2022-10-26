@@ -10,7 +10,7 @@ permalink: "/mentor_resources/"
 
 One of my favorite parts of my job is getting to work with students. I take the responsibility of mentoring students, many of them in their first research experience, very seriously. I have invested in imporving my efficacy as a mentor and sharing resources and practices I find useful with others. Here are some resources I have found useful over the years. They are geared toward a 10-week summer research program, like an REU, but have broader applications. 
 
-Some of these resources are adapted from the <a href='https://cimerproject.org/entering-mentoring/'>Entering Mentoring</a> cirriculum I was taught as a graduate student at UW-Madison. 
+Some of these resources are adapted from the <a href='https://cimerproject.org/entering-mentoring/'>Entering Mentoring</a> curriculum I was taught as a graduate student at UW-Madison. 
 
 Below is a brief overview of each document. The documents are listed in the order in which they are typically used during the summer. 
 
@@ -67,9 +67,10 @@ There is a lot here, which might be overwhelming. I recommend starting with the 
 <LI>These are example questions to ask your mentee</LI>
 </UL>
 
-<a href='' target='blank'>Research Technologies Skills Tracker</a>
+<a href='https://docs.google.com/spreadsheets/d/15EkwLfCO5q0vqv1Z4nBLu6TH_xtb1wU1psEsQP9ip9U/edit?usp=sharing' target='blank'>Research Technologies Skills Tracker</a>
 <UL style="margin-top:-20px;">
-<LI>A google sheet where  mentees can quickly identify skills they have</LI>
+<LI>A google sheet where  mentees can quickly identify skills they have </LI>
+<LI>A place to identify the skills gained throughout the summer </LI>
 </UL>
 
 ### Mid-Summer
@@ -88,8 +89,3 @@ There is a lot here, which might be overwhelming. I recommend starting with the 
 <LI>Gain feedback on how to improve</LI>
 </UL>
 
-### Other Resources
-
-The "Resources on research skills for students" has additional resources for helping your mentee get used to the norms of academia. 
-
-The Useful Links doc has even more resources compiled by Danielle Berg! 
