@@ -20,8 +20,8 @@ There is a lot here, which might be overwhelming. I recommend starting with the 
 
 ### Pre-Summer
 <br>
-<a href='' target='blank'>Project Development Worksheet</a>
-<UL style="margin-top:-30px;">
+<a href='/local_files/ProjectDevelopmentWorksheet.docx' target='blank'>Project Development Worksheet</a>
+<UL style="margin-top:-20px;">
 <LI>A worksheet to help flesh out your summer research project</LI>
 <LI>Focuses on designing "off ramps" to ensure there are multiple stopping points</LI>
 <LI>Highlights the skills your mentee will need and how they will gain them </LI>
@@ -29,8 +29,8 @@ There is a lot here, which might be overwhelming. I recommend starting with the 
 <LI>An example from the project I designed for the 2021 TAURUS program can be found here</LI>
 </UL>
 
-<a href='' target='blank'>Mentor Training Homework</a>
-<UL>
+<a href='/local_files/MentorTrainingHomework.docx' target='blank'>Mentor Training Homework</a>
+<UL style="margin-top:-20px;">
 <LI>Formulate a mentoring philosophy and reflect on mentoring generally </LI>
 <LI>Highlight challenges you perceive as a mentor</LI>
 </UL>
@@ -38,52 +38,52 @@ There is a lot here, which might be overwhelming. I recommend starting with the 
 ### First Week of the Program
 <br>
 <a href='/local_files/MentoringMatrix.docx' target='blank'>Mentor Matrix</a>
-<UL>
+<UL style="margin-top:-20px;">
 <LI>An exercise to identify what you mentee is hoping you will be able to provide</LI>
 </UL>
 
-<a href='' target='blank'>Mentee Motivations and Expectations</a>
-<UL>
+<a href='/local_files/MenteeMotivationsandExpectations.docx' target='blank'>Mentee Motivations and Expectations</a>
+<UL style="margin-top:-20px;">
 <LI>An exercise to learn more about your mentee and their goals/expectations</LI>
 <LI>Great first step before filling in the Mentor-Mentee Compact</LI>
 </UL>
 
-<a href='' target='blank'>Mentor-Mentee Compact</a>
-<UL>
+<a href='/local_files/Mentor-MenteeCompact.docx' target='blank'>Mentor-Mentee Compact</a>
+<UL style="margin-top:-20px;">
 <LI>Codifies and clarifies all of the expectations and goals for the research experience</LI>
 <LI>Includes the TAURUS/REU Code of Conduct</LI>
 <LI>Includes statement about mandatory reporting required by Title IX	</LI>
 </UL>
 
-<a href='' target='blank'>Drafting a Letter of Recommendation</a>
-<UL>
+<a href='/local_files/DraftingaLetterofRecommendation.docx' target='blank'>Drafting a Letter of Recommendation</a>
+<UL style="margin-top:-20px;">
 <LI>An exercise for the mentee to more abstractly define their goals for the summer</LI>
 <LI>Useful to identify the types of skills the mentee wants to develop/exercise</LI>
 </UL>
 
-<a href='' target='blank'>TAURUS-REU Interview Questions</a>
-<UL>
+<a href='/local_files/TAURUS-REUInterviewQuestions.docx' target='blank'>TAURUS-REU Interview Questions</a>
+<UL style="margin-top:-20px;">
 <LI>Every mentor will interview their mentee and write up the answers for a blog post</LI>
 <LI>These are example questions to ask your mentee</LI>
 </UL>
 
 <a href='' target='blank'>Research Technologies Skills Tracker</a>
-<UL>
+<UL style="margin-top:-20px;">
 <LI>A google sheet where  mentees can quickly identify skills they have</LI>
 </UL>
 
 ### Mid-Summer
 <br>
-<a href='' target='blank'>Mentee Mid-Summer Reflection</a>
-<UL>
+<a href='/local_files/MenteeMid-SummerReflection.docx' target='blank'>Mentee Mid-Summer Reflection</a>
+<UL style="margin-top:-20px;">
 <LI>Assess how the summer and the project are going</LI>
 <LI>Identifies gaps in mentorship and how to fill them</LI>
 </UL>
 
 ### End of Summer
 <br>
-<a href='' target='blank'>Mentee End of Summer Reflection</a>
-<UL>
+<a href='/local_files/MenteeEndofSummerReflection.docx' target='blank'>Mentee End of Summer Reflection</a>
+<UL style="margin-top:-20px;">
 <LI>Assess how the summer went</LI>
 <LI>Gain feedback on how to improve</LI>
 </UL>
