@@ -35,7 +35,7 @@ I have contributed to many of the THYME papers, but I was the lead author of THY
 Hosted by a 1.2 solar mass star, HD 110082 is a 3.2 Earth radius planet orbiting on a 10.2 day period. While its radius makes it a sub-Neptune, it is larger than the field-age sub-Neptune population, as the Figure below depicts. At an age of 250 Myr (see below), we expect HD 110082 b to be actively losing a significant portion of its atmosphere, and as such, should sit above field-age systems. One system alone does not tell us what is driving its radial evolution (e.g., photoevaporation vs core-drive mass loss), but it is a step toward building a population that will address this question. 
 
 <br>
-
+<a name='FF'> </a>
 #### The Association: The FriendFinder and MELANGE-1
 
 Measuring the age of a star with the precision required to make it a "benchmark" requires an ensemble of coeval stars (i.e., a collection of stars that are the same age &ndash; siblings). Popular age diagnostics (gyrochronology, Lithum abundance, isochrone fitting) only provide age-dating leverage for certain types of stars at certain ages, and each diagnostic on its own has significant uncertainty even if you're in its sweet spot. This is a common problem we face. We often find planet hosts that appear young (rapid rotaion, high Lithium abundance), but they are not part of a known association. Luckily, stars form in groups and, for a while, that collection of stars will share a common motion through the Galaxy. 
