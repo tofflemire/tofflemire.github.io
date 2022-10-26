@@ -9,3 +9,14 @@ permalink: "/students/"
 ---
 
 Descriptions coming soon!
+
+## Mikayla Wilson
+
+
+## Shannon Fitton
+
+
+## Victoria Catlett
+
+
+## Miguel Gutierrez
