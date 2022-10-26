@@ -29,13 +29,13 @@ In the first paper in this series, I have studied TOI 450, a low-mass EB in the 
 The Columba association has a complicated membership history. Many sources, once claimed to be members, have since been ruled out. We wanted to be positive of TOI 450's membership so we ran the trust FriendFinder (which you can read more about <a href='https://tofflemire.github.io/thyme/#FF'>here</a>). The following three figures summarize the results. First, on the sky, we see a dense collection of stars that are co-distant and co-moving with our binary. Second, we find a majority of these stars are co-moving along the radial direction as well, meaning they share the same motion through the galaxy that was inhereted from their parent molecular cloud. And lastly, while comtaminated with field stars, we find a sequence of stars that fall along the 40 Myr isochrone. The vast majority of these co-moving members are well-established Columba members, so our work is done! We confirmed TOI 450 is a Columba member and we can now inherit all the precise measurements that come with belonging to a rich stellar ensemble -- in our case, we're mostly interested in age. 
 
 <a href='https://ui.adsabs.harvard.edu/abs/2022arXiv221010789T/abstract' target='blank'>
-  <img src="/local_files/ColumbaSky.png" width="250" HSPACE="25">
+  <img src="/local_files/ColumbaSky.png" width="200" HSPACE="25">
 </a>
 <a href='https://ui.adsabs.harvard.edu/abs/2022arXiv221010789T/abstract' target='blank'>
-  <img src="/local_files/ColumbaRVs.png" width="300" HSPACE="25">
+  <img src="/local_files/ColumbaRVs.png" width="275" HSPACE="25">
 </a>
 <a href='https://ui.adsabs.harvard.edu/abs/2022arXiv221010789T/abstract' target='blank'>
-  <img src="/local_files/ColumbaCMD.png" width="300" HSPACE="25">
+  <img src="/local_files/ColumbaCMD.png" width="275" HSPACE="25">
 </a>
 
 ### Eclipse Fitting and Star Spots
