@@ -19,9 +19,9 @@ There is a lot here, which might be overwhelming. I recommend starting with the 
 <hr>
 
 ### Pre-Summer
-
+<br>
 <a href='' target='blank'>Project Development Worksheet</a>
-<UL>
+<UL style="margin-top:-30px;">
 <LI>A worksheet to help flesh out your summer research project</LI>
 <LI>Focuses on designing "off ramps" to ensure there are multiple stopping points</LI>
 <LI>Highlights the skills your mentee will need and how they will gain them </LI>
@@ -36,7 +36,7 @@ There is a lot here, which might be overwhelming. I recommend starting with the 
 </UL>
 
 ### First Week of the Program
-
+<br>
 <a href='/local_files/MentoringMatrix.docx' target='blank'>Mentor Matrix</a>
 <UL>
 <LI>An exercise to identify what you mentee is hoping you will be able to provide</LI>
@@ -73,7 +73,7 @@ There is a lot here, which might be overwhelming. I recommend starting with the 
 </UL>
 
 ### Mid-Summer
-
+<br>
 <a href='' target='blank'>Mentee Mid-Summer Reflection</a>
 <UL>
 <LI>Assess how the summer and the project are going</LI>
@@ -81,7 +81,7 @@ There is a lot here, which might be overwhelming. I recommend starting with the 
 </UL>
 
 ### End of Summer
-
+<br>
 <a href='' target='blank'>Mentee End of Summer Reflection</a>
 <UL>
 <LI>Assess how the summer went</LI>
