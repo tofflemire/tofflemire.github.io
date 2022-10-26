@@ -31,6 +31,14 @@
   url: "/talks/"
   side: left
 
+- title: "Students"
+  url: "/students/"
+  side: left
+
+- title: "Mentor Resources"
+  url: "/mentor_resources/"
+  side: left
+
 - title: "Animations"
   url: "/animations/"
   side: left

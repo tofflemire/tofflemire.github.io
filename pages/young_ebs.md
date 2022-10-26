@@ -32,10 +32,10 @@ The Columba association has a complicated membership history. Many sources, once
   <img src="/local_files/ColumbaSky.png" width="250" HSPACE="25">
 </a>
 <a href='https://ui.adsabs.harvard.edu/abs/2022arXiv221010789T/abstract' target='blank'>
-  <img src="/local_files/ColumbaRVs.png" width="350" HSPACE="25">
+  <img src="/local_files/ColumbaRVs.png" width="300" HSPACE="25">
 </a>
 <a href='https://ui.adsabs.harvard.edu/abs/2022arXiv221010789T/abstract' target='blank'>
-  <img src="/local_files/ColumbaCMD.png" width="350" HSPACE="25">
+  <img src="/local_files/ColumbaCMD.png" width="300" HSPACE="25">
 </a>
 
 ### Eclipse Fitting and Star Spots
@@ -77,13 +77,13 @@ We ultimately find the stars are "twins", both having masses of ~0.17 solar mass
 
 ### Comparing to Theoretical Models
 
-At last, we compare our results to 8 different stellar evolution models. We compare the age derived from our mass and radius measurements with the Columba age (top left). The mass derived from our temperature and luminosity measurements (the HR diagram) are compared with our dynamical measurement (top right). And from our precise mass, we comare model radii and temperatures with out measurements (bottom left and bottom right, respectively). The MESA MIST and SPOTS (fs=0.17) isochrones perform the best across our comparisons, but detailed agreement depends heavily on the quantities being compared. Our result is no gaurantee that these models will preform well at other mass and ages, but that's why we're doing this analysis on lots of young EBs! Stay tuned!
+At last, we compare our results to 8 different stellar evolution models. We compare the age derived from our mass and radius measurements with the Columba age (top left). The mass derived from our temperature and luminosity measurements (the HR diagram) are compared with our dynamical measurement (top right). And from our precise mass, we comare model radii and temperatures with out measurements (bottom left and bottom right, respectively). 
 
 <a href='https://ui.adsabs.harvard.edu/abs/2022arXiv221010789T/abstract' target='blank'>
   <img src="/local_files/EBCompare.png" width="800" HSPACE="25">
 </a>
 
-
+The MESA MIST and SPOTS (fs=0.17) isochrones perform the best across our comparisons, but detailed agreement depends heavily on the quantities being compared. Our result is no gaurantee that these models will preform well at other mass and ages, but that's why we're doing this analysis on lots of young EBs! Stay tuned!
 
 
 
