@@ -21,7 +21,7 @@ The population of planets in binary systems has shown us that as the binary sepa
   <img src="/local_files/BinaryDiskOccurence.png" width="300" HSPACE="25">
 </a>
 
-Close binaries clearly impact the planet formation process. At the same time, at all binary separations, a substantial minority of planet are able to form and survive, some in dizzyingly complex architectures. <a href='https://ui.adsabs.harvard.edu/abs/2022arXiv221007252Z/abstract'>Kepler-444</a>, for instance, hosts 5 transiting planets in an eccentric binary system where the companion passes within 8 AU at closest approach. It is challenging to imaging how such a system could host stable disk material over a timescale long enough to support planet formation.
+Close binaries clearly impact the planet formation process. At the same time, at all binary separations, a substantial minority of planets are able to form and survive, some in dizzyingly complex architectures. <a href='https://ui.adsabs.harvard.edu/abs/2022arXiv221007252Z/abstract'>Kepler-444</a>, for instance, hosts 5 transiting planets in an eccentric binary system where the companion passes within 8 AU at closest approach. It is challenging to imaging how such a system could host stable disk material over a timescale long enough to support planet formation.
 
 I am interested in determining what factors allow some close binaries to form planets while other do not.
 
