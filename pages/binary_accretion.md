@@ -40,7 +40,7 @@ With time-series optical and near-infrared photometry, we measure the stellar ac
   <img src="/local_files/TWA_HeI_cut.png" width="300" ALIGN="right" HSPACE="25">
 </a>
 
-For a subset of our binaries, we have also obtained time-series, high-resolution, optical spectra with the SALT High-Resolution Spectrograph (HRS). With theses data, we search for coherent velocity structures in orbital phase that trace accretion streams and use narrow accretion tracers to determine which star within the binary is preferentially fed. A detailed description of our ongoing work and description of our HRS reductions can be found at the following link.
+For a subset of our binaries, we have also obtained time-series, high-resolution, optical spectra with the SALT High-Resolution Spectrograph (HRS). With these data, we search for coherent velocity structures in orbital phase that trace accretion streams and use narrow accretion tracers to determine which star within the binary is preferentially fed. A detailed description of our spectroscopic analysis can be found at the following link.
 
 <big><b> <a href='https://tofflemire.github.io/spectroscopy/'> Time-Series Spectroscopy of Accreting Pre-MS Binary Stars </a></b></big>
 
