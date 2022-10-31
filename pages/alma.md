@@ -28,7 +28,7 @@ I am interested in determining what factors allow some close binaries to form pl
 
 ## An ALMA Survey of Young Binaries with Known Orbital Parameters
 
-I am leading an ALMA survey to probe the dynamical interaction between the binary orbit and the individual protoplanetary disks. The targeted systems have been monitored for decades with high-angular resolution imaging (Keck AO, HST) resulting in well-characterized orbital solutions. That is what makes this program unique. There have been many studies of planets and disks in binary systems but rarely do they information on what the stars are doing in these systems. With these data I am determining individual disk orientations, dynamical truncation radii, and masses, while placing all of these measurements in the context of the binaries that are sculpting the planet-forming environment.
+I am leading an ALMA survey to probe the dynamical interaction between the binary orbit and the individual protoplanetary disks. The targeted systems have been monitored for decades with high-angular resolution imaging (Keck AO, HST) resulting in well-characterized orbital solutions. That is what makes this program unique. There have been many studies of planets and disks in binary systems but rarely do they have information on what the stars are doing in these systems. With these data I am determining individual disk orientations, dynamical truncation radii, and masses, while placing all of these measurements in the context of the binaries that are sculpting the planet-forming environment.
 
 I am also working to compare the orbital parameters of these systems to a control sample of young, disk-free binaries to determine which orbital parameters are predictive of disk retention and therefore, planet formation.  
 
