@@ -29,7 +29,7 @@ For a subset of the binaries in our photometric sample we have obtained time-ser
 Our spectra come from the <a href='https://www.salt.ac.za/' target='blank'>SALT</a> telescope's High-Resolution Spectrograph (HRS) and the <a href='http://www.astro.yale.edu/smarts/' target='blank'>SMARTS</a> 1.5m CHIRON spectrograph. Both are echelle spectrographs providing spectral resolutions of R~30,000 and wavelength coverage from ~3300-9000&#8491;.
 
 ### Results - TWA 3A
-TWA 3A is a near equal mass (q=0.84), pre-MS binary with an eccentricity of 0.63 and an orbital period of 34.9 days. Over the course of 3 consecutive orbital periods we were able to obtain 14 SALT/HRS measurements. 
+TWA 3A is a near equal mass (q=0.84), pre-MS binary with an eccentricity of 0.63 and an orbital period of 34.9 days. Over the course of 3 consecutive orbital periods we were able to obtain 14 SALT/HRS spectra. 
 
 #### H-alpha
 
@@ -41,24 +41,24 @@ The figure below presents the accretion tracing emission line H-alpha. Observati
 
 #### The Broadening Function via saphies
 
-One challenge in the analysis of TWA 3 is that it is a triple. Not only is there the light of three stars to decompose, the level of the triple's contribution is variable. Depending on the ''seeing'' of the observation, there may be more or less triple flux sneaking into the HRS fiber. 
+One challenge in the analysis of TWA 3 is that it is a triple. Not only is there light from three stars to decompose, the level of the triple's contribution is variable. Depending on the ''seeing'' of the observation, there may be more or less triple flux sneaking into the HRS fiber. 
 
 <a href='https://ui.adsabs.harvard.edu/abs/2019AJ....158..245T/abstract' target='blank' HSPACE="25">
   <img src="/local_files/TWA3ABF.png" width="400" ALIGN="right">
 </a>
-To address this, I developed a python implementation of a spectral-line broadening function (BF) analysis (e.g., <a href='https://ui.adsabs.harvard.edu/abs/1992AJ....104.1968R/abstract' target='blank'>Rucinski 1992</a>). The code lives in the <a href='https://github.com/tofflemire/saphires' target='blank'>saphires</a> (Stellar Analysis in Python for HIgh REsolution Spectroscopy) package (pip installable). The code uses a narrow-lined template to decompose an observed spectrum and reconstructs the average photospheric absorption-line profile. If the observed spectrum contains one star, the BF will return one profile. If the observed spectrum contains three stars, the BF will return three profiles, as shown in the figure to the right. The location of the profile measures the stellar RV(s), width of each profile can be modeled to measure the <em>v</em> sin <em>i</em>, and the area under each profile encodes the component flux ratios. 
+To address this, I developed a python implementation of a spectral-line broadening function (BF) analysis (e.g., <a href='https://ui.adsabs.harvard.edu/abs/1992AJ....104.1968R/abstract' target='blank'>Rucinski 1992</a>). The code lives in the <a href='https://github.com/tofflemire/saphires' target='blank'>saphires</a> (Stellar Analysis in Python for HIgh REsolution Spectroscopy) package (pip installable). The code uses a narrow-lined template to decompose an observed spectrum and reconstruct its average photospheric absorption-line profile. If the observed spectrum contains one star, the BF will return one profile. If the observed spectrum contains three stars, the BF will return three profiles, as shown in the figure to the right. The location of the profile measures the stellar RV(s), width of each profile can be modeled to measure the <em>v</em> sin <em>i</em>, and the area under each profile encodes the component flux ratios. 
 
 
-With this technique, I was able to decompose the sources of stellar light and them sbtract them from the observed spectra to leave behind emission that is exclusively due to accretion. 
+With this technique, I was able to decompose the sources of stellar light and then subtract them from the observed spectra, leaving behind emission that is exclusively due to accretion. 
 
 #### He I 5876
 
-The figure below presents the accretion tracing emission line He I 5876&#8491;. As with the plot above, the spectra are ordered by their orbital phase and color-coded by the orbit in which they were obtained. Both are presented as text to the right of each line. Blue and red vertical lines associated with each spectrum mark the primary and secondary stellar velocities, respectively. The left panel presents the observed spectra and the right presents the line profiles after the stellar components have been removed. 
+The figure below presents the accretion tracing emission line He I 5876&#8491;. As with the plot above, the spectra are ordered by their orbital phase and color-coded by the orbit in which they were obtained. Both are presented as text to the left of each line. Blue and red vertical lines associated with each spectrum mark the primary and secondary stellar velocities, respectively. The left panel presents the observed spectra and the right presents the line profiles after the stellar components have been removed. 
 
 Due to its relatively narrow width, we can use He I to trace which star is the dominant source of accretion emission. The He I velocity centroid regularly coincides with the primary velocity, suggesting it is the primary accretor. This result is in tension with models that predict that the secondary star should always be the dominant accretor, and may support models with a processing inner disk. 
 
 <a href='https://ui.adsabs.harvard.edu/abs/2019AJ....158..245T/abstract' target='blank' HSPACE="25">
-  <img src="/local_files/TWA3AHeI.png" width="300" ALIGN="left">
+  <img src="/local_files/TWA3AHeI.png" width="700" ALIGN="left">
 </a>
 
 <br> 
