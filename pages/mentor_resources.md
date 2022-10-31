@@ -8,7 +8,7 @@ categories:
 permalink: "/mentor_resources/"
 ---
 
-One of my favorite parts of my job is getting to work with students. I take the responsibility of mentoring students, many of them in their first research experience, very seriously. I have invested in imporving my efficacy as a mentor and sharing resources and practices I find useful with others. Here are some resources I have found useful over the years. They are geared toward a 10-week summer research program, like an REU, but have broader applications. 
+One of my favorite parts of my job is getting to work with students. I take the responsibility of mentoring students, many of them in their first research experience, very seriously. I have invested in improving my efficacy as a mentor and sharing resources and practices I find useful with others. Here are some resources I have found useful over the years. They are geared toward a 10-week summer research program, like an REU, but have broader applications. 
 
 Some of these resources are adapted from the <a href='https://cimerproject.org/entering-mentoring/'>Entering Mentoring</a> curriculum I was taught as a graduate student at UW-Madison. 
 
@@ -25,8 +25,8 @@ There is a lot here, which might be overwhelming. I recommend starting with the 
 <LI>A worksheet to help flesh out your summer research project</LI>
 <LI>Focuses on designing "off ramps" to ensure there are multiple stopping points</LI>
 <LI>Highlights the skills your mentee will need and how they will gain them </LI>
-<LI>In the past I have walked through this document with my mentee to design a project with them that best suits their abilities and goals</LI>
-<LI>An example from the project I designed for the 2021 TAURUS program can be found here</LI>
+<LI>In the past, I have walked through this document with my mentee to design a project with them that best suits their abilities and goals</LI>
+<LI>An example from the project I designed for the 2021 TAURUS program can be found <a href='/local_files/Project_Design_2021_TofflemireEBs.pdf' target='blank'>here</a> </LI>
 </UL>
 
 <a href='/local_files/MentorTrainingHomework.docx' target='blank'>Mentor Training Homework</a>
@@ -39,7 +39,7 @@ There is a lot here, which might be overwhelming. I recommend starting with the 
 <br>
 <a href='/local_files/MentoringMatrix.docx' target='blank'>Mentor Matrix</a>
 <UL style="margin-top:-20px;">
-<LI>An exercise to identify what you mentee is hoping you will be able to provide</LI>
+<LI>An exercise to identify what your mentee is hoping you will be able to provide</LI>
 </UL>
 
 <a href='/local_files/MenteeMotivationsandExpectations.docx' target='blank'>Mentee Motivations and Expectations</a>

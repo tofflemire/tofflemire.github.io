@@ -44,7 +44,7 @@ A peer-reviewed article published in the Astrophysical Journal on this result ca
 <div id="video-wrap">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UbxJOw3MoUo" align="left" style="padding:10px;border:10px solid white;" frameborder="100" allowfullscreen></iframe></div>
 
-I am interested in star spots and their effects on light curves and stellar line profiles. I spent some simulating these effect that resulted in this animation. 
+I am interested in star spots and their effects on light curves and stellar line profiles. I spent some simulating these effects that resulted in this animation. 
 
 An animation of the integrated flux and emergent line profile from a spotted star as a function of rotational phase. In this example, the star is viewed at an inclination of 45 degrees and has an equatorial rotational velocity of 150 km/s. As the spot rotates onto the projected surface, it dims the star and alters the line profile. 
 
